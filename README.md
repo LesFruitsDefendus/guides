@@ -1,2 +1,2 @@
-# guides
-Les Fruits Défendus pickleader guides
+# Guides
+Les Fruits Défendus pickleaders and Saskatoon users guides
