@@ -32,7 +32,7 @@ tox -e trans
 
 ### Translate the files
 
-The translation files are located into the ``locales`` folder. 
+The translation files are located into the ``docs/source/locales/fr/LC_MESSAGES`` folder. 
 You can directly edit the ``.po`` files or use a editor.
 
 ### Test the documentation

@@ -47,7 +47,7 @@ exclude_patterns = []
 spelling_word_list_filename = 'spelling_wordlist.txt'
 
 # Translations
-locale_dirs = ['locale/']   # path is example but recommended.
+locale_dirs = ['locales/']   # path is example but recommended.
 gettext_compact = False     # optional.
 spelling_lang = os.getenv('SPHINX_SPLELLING_LANG') or 'en_US'
 
