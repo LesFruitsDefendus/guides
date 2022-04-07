@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Les Fruits Défendus pickleaders and Saskatoon users guides
-==========================================================
+Les Fruits Défendus - Harvest guides
+====================================
 
 .. toctree::
    :maxdepth: 2
