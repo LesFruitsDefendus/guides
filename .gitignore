@@ -1,0 +1,4 @@
+.tox/
+.vscode/
+build/
+*.egg-info
