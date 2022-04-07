@@ -4,9 +4,6 @@ Les Fruits Défendus pickleaders and Saskatoon users guides.
 
 Online version of the guides (work in progress): http://lesfruitsdefendus.readthedocs.io/
 
-[![Documentation Status](https://readthedocs.org/projects/lesfruitsdefendus/badge/?version=latest)](https://readthedocs.org/projects/lesfruitsdefendus/)
-
-
 ### Build documentation site
 
 To build the documentation sites, run:
@@ -45,3 +42,9 @@ Build the documentation sites and fail on warnings
 ```
 tox -e testdocs
 ```
+
+### Build statuses
+
+English site: [![Documentation Status](https://readthedocs.org/projects/lesfruitsdefendus/badge/?version=latest)](https://readthedocs.org/projects/lesfruitsdefendus/)
+
+French site: [![Documentation Status](https://readthedocs.org/projects/lesfruitsdefendus-fr/badge/?version=latest)](https://readthedocs.org/projects/lesfruitsdefendus-fr/)
