@@ -1,8 +1,13 @@
 # Guides
-Les Fruits Défendus pickleaders and Saskatoon users guides
+
+Les Fruits Défendus pickleaders and Saskatoon users guides.
+
+Online version of the guides (work in progress): http://lesfruitsdefendus.readthedocs.io/
+
+[![Documentation Status](https://readthedocs.org/projects/lesfruitsdefendus/badge/?version=latest)](https://readthedocs.org/projects/lesfruitsdefendus/)
 
 
-## Build documentation site
+### Build documentation site
 
 To build the documentation sites, run:
 
