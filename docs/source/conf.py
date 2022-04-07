@@ -49,7 +49,6 @@ spelling_word_list_filename = 'spelling_wordlist.txt'
 # Translations
 locale_dirs = ['locale/']   # path is example but recommended.
 gettext_compact = False     # optional.
-language = 'en'
 spelling_lang = os.getenv('SPHINX_SPLELLING_LANG') or 'en_US'
 
 # -- Options for HTML output -------------------------------------------------
