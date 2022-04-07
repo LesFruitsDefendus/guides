@@ -25,6 +25,19 @@ To serve the French documentation site, run:
 python3 -m http.server -d ./build/docs/fr
 ```
 
+### Update translation files
+
+After modifications, update translation files:
+
+```
+tox -e trans
+```
+
+### Translate the files
+
+The translation files are located into the ``locales`` folder. 
+You can directly edit the ``.po`` files or use a editor.
+
 ### Test the documentation
 
 Build the documentation sites and fail on warnings
