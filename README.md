@@ -2,7 +2,7 @@
 
 Les Fruits Défendus pickleaders and Saskatoon users guides.
 
-Online version of the guides (work in progress): [French](http://lesfruitsdefendus.readthedocs.io/fr/latest), [English](http://lesfruitsdefendus.readthedocs.io/en/latest)
+Online version of the guides (work in progress): [French](http://lesfruitsdefendus.readthedocs.io/fr/latest), [English](http://lesfruitsdefendus.readthedocs.io/en/latest).
 
 ### Build documentation site
 
@@ -33,7 +33,7 @@ tox -e trans
 ### Translate the files
 
 The translation files are located into the [``docs/source/_locales/fr/LC_MESSAGES``](https://github.com/LesFruitsDefendus/guides/tree/master/docs/source/_locales/fr/LC_MESSAGES) folder. 
-You can directly edit the ``.po`` files or use a editor.
+You can directly edit the ``.po`` files or use an editor.
 
 ### Test the documentation
 
