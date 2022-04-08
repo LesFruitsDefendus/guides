@@ -11,6 +11,14 @@ This is Les Fruits Défendus main documentation.
 It includes documentation about the Saskatoon harvest management system
 as well as pickleaders harvest guides.
 
+More infos on Les Fruits Défendus
+---------------------------------
+
+- `www.lesfruitsdefendus.org <http://www.lesfruitsdefendus.org>`_ 
+- `(514) 360-8566 <tel:+15143608566>`_
+- `info@lesfruitsdefendus.org <mailto:info@lesfruitsdefendus.org>`_
+- Santropol Roulant, 111 rue Roy est, Montréal (QC) H2W 1M1
+
 
 .. toctree::
    :maxdepth: 15
