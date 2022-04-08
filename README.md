@@ -2,7 +2,7 @@
 
 Les Fruits Défendus pickleaders and Saskatoon users guides.
 
-Online version of the guides (work in progress): [French](http://lesfruitsdefendus.readthedocs.io/fr/), [English](http://lesfruitsdefendus.readthedocs.io/en/)
+Online version of the guides (work in progress): [French](http://lesfruitsdefendus.readthedocs.io/fr/latest), [English](http://lesfruitsdefendus.readthedocs.io/en/latest)
 
 ### Build documentation site
 
