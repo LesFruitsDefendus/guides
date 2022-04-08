@@ -1,0 +1,37 @@
+name: Test documentation
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+
+    - name: Install tox
+      run: |
+        python -m pip install --upgrade pip tox
+    
+    - name: Log system information
+      run: |
+        test -r /etc/os-release && sh -c '. /etc/os-release && echo "OS: $PRETTY_NAME"'
+        python --version
+        python -c "print('\nENVIRONMENT VARIABLES\n=====================\n')"
+        python -c "import os; [print(f'{k}={v}') for k, v in os.environ.items()]"
+    
+    - name: Run tests (English)
+      run: |
+        tox -e testdocs
+
+    # Disable until the french build also succeeds
+    # - name: Run tests (French)
+    #   run: |
+    #     tox -e testdocs-fr
