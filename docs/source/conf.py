@@ -22,7 +22,7 @@ copyright = '2022, Les Fruits Défendus'
 author = 'Les Fruits Défendus'
 
 # The full version, including alpha/beta/rc tags
-release = '0.dev'
+release = '2022.x'
 
 
 # -- General configuration ---------------------------------------------------
@@ -31,7 +31,6 @@ release = '0.dev'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    "sphinx_rtd_theme",
     "sphinxcontrib.spelling",
 ]
 
@@ -56,7 +55,25 @@ spelling_lang = os.getenv('SPHINX_SPLELLING_LANG') or 'en_US'
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx_book_theme'
+
+# html_title = "Your title"
+html_logo = "_static/logo.png"
+html_favicon = "_static/favicon.ico"
+
+# Theme options
+html_theme_options = {
+    "repository_url": "https://github.com/LesFruitsDefendus/guides",
+    "path_to_docs": "docs/",
+    "use_repository_button": True,
+    "use_edit_page_button": True,
+    "use_issues_button": True,
+    "use_download_button": True,
+    "logo_only": True,
+    "home_page_in_toc": True,
+    "show_navbar_depth": 3,
+    "announcement": "Work in progress...",
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
