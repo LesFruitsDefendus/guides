@@ -41,6 +41,7 @@ Build the documentation sites and fail on warnings
 
 ```
 tox -e testdocs
+tox -e testdocs-fr
 ```
 
 ### Build statuses
