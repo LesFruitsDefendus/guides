@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Harvest guides
-==============
+Documentation index
+===================
 
 This is Les Fruits Défendus main documentation.
 
@@ -13,7 +13,7 @@ as well as pickleaders harvest guides.
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 15
    :caption: Contents:
 
    pre-pick-guide/index
