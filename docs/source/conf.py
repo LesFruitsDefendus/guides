@@ -17,7 +17,7 @@ import os
 
 # -- Project information -----------------------------------------------------
 
-project = 'Guides'
+project = 'Les Fruits Défendus'
 copyright = '2022, Les Fruits Défendus'
 author = 'Les Fruits Défendus'
 
@@ -47,8 +47,8 @@ exclude_patterns = []
 spelling_word_list_filename = 'spelling_wordlist.txt'
 
 # Translations
-locale_dirs = ['locales/']   # path is example but recommended.
-gettext_compact = False     # optional.
+locale_dirs = ['_locales/'] 
+gettext_compact = False 
 spelling_lang = os.getenv('SPHINX_SPLELLING_LANG') or 'en_US'
 
 # -- Options for HTML output -------------------------------------------------

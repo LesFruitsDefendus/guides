@@ -32,7 +32,7 @@ tox -e trans
 
 ### Translate the files
 
-The translation files are located into the [``docs/source/locales/fr/LC_MESSAGES``](https://github.com/LesFruitsDefendus/guides/tree/master/docs/source/locales/fr/LC_MESSAGES) folder. 
+The translation files are located into the [``docs/source/_locales/fr/LC_MESSAGES``](https://github.com/LesFruitsDefendus/guides/tree/master/docs/source/_locales/fr/LC_MESSAGES) folder. 
 You can directly edit the ``.po`` files or use a editor.
 
 ### Test the documentation
