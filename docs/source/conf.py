@@ -32,6 +32,7 @@ release = '2022.x'
 # ones.
 extensions = [
     "sphinxcontrib.spelling",
+    "recommonmark",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
