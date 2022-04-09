@@ -1,0 +1,17 @@
+
+div.header-article-main .header-article__left a, 
+div.header-article-main .header-article__left button, 
+div.header-article-main .header-article__left label, 
+div.header-article-main .header-article__right a, 
+div.header-article-main .header-article__right button, 
+div.header-article-main .header-article__right label {
+    color: #2A3F54;
+}
+.header-item.announcement {
+    background-color: #2A3F54;
+    padding: 0.4em 24px;
+}
+
+.announcement a {
+    color:#e0efff;
+}
