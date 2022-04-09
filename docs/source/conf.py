@@ -62,6 +62,45 @@ html_theme = 'sphinx_book_theme'
 html_logo = "_static/logo.png"
 html_favicon = "_static/favicon.ico"
 
+# JS to swicth language easily
+JS_LANG = """
+if (window.location.pathname.indexOf('/en/') != -1) {
+    <!-- Give the user a link to this page, but in french. -->
+    var link = document.getElementById('fr-docs-link');
+    link.href = window.location.pathname.replace(/\/en\//, '/fr/');
+    <!-- And make it visible -->
+    link.style.display = "";
+    delete link;
+}
+else{
+    if (window.location.pathname.indexOf('/fr/') != -1) {
+        <!-- Give the user a link to this page, but in english. -->
+        var link = document.getElementById('en-docs-link');
+        link.href = window.location.pathname.replace(/\/fr\//, '/en/');
+        <!-- And make it visible -->
+        link.style.display = "";
+        delete link;
+    }
+}
+"""
+
+HEADER_HTML = f"""
+<div style="float:left;">
+    <a href="https://saskatoon.lesfruitsdefendus.org/">Saskatoon</a>
+</div>
+
+Work in progress... 
+
+<div style="float:right;">
+    <a id="en-docs-link" href="/en/latest/" style="display:none;">English</a>
+    <a id="fr-docs-link" href="/fr/latest/" style="display:none;">Français</a>
+</div>
+
+<script type="text/javascript">
+{JS_LANG}
+</script>
+"""
+
 # Theme options
 html_theme_options = {
     "repository_url": "https://github.com/LesFruitsDefendus/guides",
@@ -73,10 +112,11 @@ html_theme_options = {
     "logo_only": True,
     "home_page_in_toc": True,
     "show_navbar_depth": 3,
-    "announcement": "Work in progress...",
+    "announcement": HEADER_HTML,
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+html_css_files = ["custom.css"]
