@@ -1,4 +1,4 @@
-name: Test documentation
+name: testdocs
 on:
   push:
     branches: [ master ]
