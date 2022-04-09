@@ -1,0 +1,1 @@
+# Welcoming the volunteer pickers
