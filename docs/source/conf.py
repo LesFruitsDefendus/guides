@@ -59,8 +59,7 @@ spelling_lang = os.getenv('SPHINX_SPLELLING_LANG') or 'en_US'
 html_theme = 'sphinx_book_theme'
 
 # html_title = "Your title"
-html_logo = "_static/logo.png"
-html_favicon = "_static/favicon.ico"
+html_logo = "_static/lfd.png"
 
 # JS to swicth language easily
 JS_LANG = """
@@ -85,13 +84,13 @@ else{
 """
 
 HEADER_HTML = f"""
-<div style="float:left;">
-    <a href="https://saskatoon.lesfruitsdefendus.org/">Saskatoon</a>
-</div>
+<div style="float:left;"></div>
 
 Work in progress... 
 
 <div style="float:right;">
+    <a href="https://saskatoon.lesfruitsdefendus.org/">Saskatoon</a>
+    |
     <a id="en-docs-link" href="/en/latest/" style="display:none;">English</a>
     <a id="fr-docs-link" href="/fr/latest/" style="display:none;">Français</a>
 </div>
