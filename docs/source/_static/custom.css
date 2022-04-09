@@ -7,10 +7,11 @@ div.header-article-main .header-article__right button,
 div.header-article-main .header-article__right label {
     color: #2A3F54;
 }
-.announcement {
+.header-item.announcement {
     background-color: #2A3F54;
-    padding: 0.4em 0.4em;
+    padding: 0.4em 24px;
 }
+
 .announcement a {
     color:#b1d7ff;
 }
