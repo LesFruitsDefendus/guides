@@ -13,7 +13,7 @@ copyright = '2022, Les Fruits Défendus'
 author = 'Les Fruits Défendus'
 
 # The full version, including alpha/beta/rc tags
-release = '2022.x'
+release = '2022'
 
 
 # -- General configuration ---------------------------------------------------
