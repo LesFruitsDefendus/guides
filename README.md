@@ -1,8 +1,14 @@
-# Guides
+# Guides (new generation)
 
 Les Fruits Défendus pickleaders and Saskatoon users guides.
 
 Online version of the guides (work in progress): [French](http://lesfruitsdefendus.readthedocs.io/fr/latest), [English](http://lesfruitsdefendus.readthedocs.io/en/latest).
+
+## Contribute to the guides
+
+The guides website is built using [Sphinx](https://www.sphinx-doc.org/en/master/tutorial/index.html). 
+
+The source file can be either [Markdown](https://myst-parser.readthedocs.io/en/latest/sphinx/intro.html#intro-writing) (``.md``) or [ReStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) (``.rst``) files.
 
 ### Build documentation site
 
