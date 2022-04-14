@@ -174,11 +174,11 @@ For the three property status types, you will see either a check (), an ()
     - ❌ = Inactive (If the property is Active, no icon will display)
 - VALIDATION:
     - ✅ = Validated
-    - !  = Pending Validation 
+    - ❌   = Pending Validation 
 - AUTHORIZATION:
     - ✅ = Authorized for the Current Season (a.k.a. Authorized)
     - ❌ = Not Authorized for this Season (a.k.a. Unauthorized)
-    - ! = Not Yet Authorized (a.k.a. Unknown)
+    - ? = Not Yet Authorized (a.k.a. Unknown)
 
 ##### Other Characteristics
 A check (✅) or an (❌) accompanies descriptive text for all the remaining characteristics.
@@ -197,7 +197,7 @@ To create a harvest record, click on the “New harvest” icon .
 ```{admonition} (1) Important 
 :class: warning
 
-You will be asked to add any applicable “Fruit type”s, select an estimated start and end date (can be a harvest date range), and type an estimated number of pickers. Information here can bemodified later on when you contact the tree owner. You will also need to add placeholder text to the “Public announcement” section. You may quickly select a smiley icon or type a note to the pickers. Please just keep in mind that this text will eventually be displayed publicly in the calendar, unless you change it later.
+You will be asked to add any applicable “Fruit type”s, select an estimated start and end date (can be a harvest date range), and type an estimated number of pickers. Information here can be modified later on when you contact the tree owner. You will also need to add placeholder text to the “Public announcement” section. You may quickly select a smiley icon or type a note to the pickers. Please just keep in mind that this text will eventually be displayed publicly in the calendar, unless you change it later.
 ```
 
 Click “Save” to create your new harvest record.
