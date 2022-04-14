@@ -178,7 +178,6 @@ For the three property status types, you will see either a check (), an ()
 - AUTHORIZATION:
     - ✅ = Authorized for the Current Season (a.k.a. Authorized)
     - ❌ = Not Authorized for this Season (a.k.a. Unauthorized)
-    - ? = Not Yet Authorized (a.k.a. Unknown)
 
 ##### Other Characteristics
 A check (✅) or an (❌) accompanies descriptive text for all the remaining characteristics.
