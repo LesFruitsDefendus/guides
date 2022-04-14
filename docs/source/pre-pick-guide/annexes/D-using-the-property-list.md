@@ -91,11 +91,11 @@ contacting them to ask permission to harvest year after year.
 - 🔴 "Inactive":
     - **If a property has this value, it means that...** The tree-owner hasn't necessarily denied authorization to harvest at their property ever again. We do have a few "Inactive" properties whose owners have asked not be contacted in the future for various reasons. But the majority of our "Inactive" properties have maintained an "Inactive" status simply because the tree-owners did not explicitly authorize a harvest for 2016, the year that Saskatoon was launched. So, just to be sure, please check for notes in the "About this Property" field of the property record. Also check for notes in all harvests listed under "Harvests at this Property" (see "Reviewing Property Information" section below):
         - If there are any notes indicating that at some point the tree-owner asked not to be contacted in future years, do not contact them.
-        - **If, on the other hand, you don't see any indication in the property record that a tree-owner ever specifically asked us to stop contacting them, then it's OKAY for you to contact them and ask if they would be interested in having their fruit harvested this year! (1)**
+        - **If, on the other hand, you don't see any indication in the property record that a tree-owner ever specifically asked us to stop contacting them, then it's OKAY for you to contact them and ask if they would be interested in having their fruit harvested this year! (\*)**
     - From now on, assign this value to a property if... The tree-owner has asked not to be contacted in future years. Include detailed notes indicating this and explain the situation in the "About this Property" field of the property record. We will continue to keep the property record in the database indefinitely for reference purposes, and in case the situation changes.
 - ("Unknown": This status includes both active and inactive)
 
-```{admonition} (1) Important Reminder
+```{admonition} (*) Important Reminder
 :class: warning
 
 Before contacting a tree owner to confirm their interest for this year, you must first double-check if a harvest record has already been created for that property for this year. If so, and if that harvest hasn't already been adopted by another pick-leader, then you may adopt it and proceed to plan the harvest, as described in the Pre-Pick guide. If not, you will need to create and adopt a new "Harvest". This will prevent the conflict of other pick- leaders contacting the same tree-owner to try and schedule their own harvest of that tree/vine. Details on creating and adopting your own harvest are provided further below.
