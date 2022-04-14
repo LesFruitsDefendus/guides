@@ -4,13 +4,13 @@
 
 The simplest, fastest way to start organizing a harvest event is to adopt an “Orphan Harvest” in Saskatoon.
 
-But if you’d like to **choose from a larger list of possible trees in our database**, this annex will show you how to identify and directly reach out to tree-owners who’ve shown past interest in our collective, but haven’t yet let us know whether we may harvest at their property this year. The process described below involves a deeper understanding of how our database functions, and requires some additional data entry on your part, but it also allows you to access fruit trees and vines that you otherwise wouldn’t be able to and which may ideally suit your preferences.
+But if you'd like to **choose from a larger list of possible trees in our database**, this annex will show you how to identify and directly reach out to tree-owners who have shown past interest in our collective, but haven’t yet let us know whether we may harvest at their property this year. The process described below involves a deeper understanding of how our database functions, and requires some additional data entry on your part, but it also allows you to access fruit trees and vines that you otherwise wouldn't be able to and which may ideally suit your preferences.
 
 If you’d like to choose from a more comprehensive list of properties in our network, please read this guide thoroughly and follow its instructions closely. In this case, the process of planning a harvest will start with the steps described below. Once you’ve completed these important steps, please refer to the Pre-Pick Guide for guidance on scheduling a harvest date, assembling a picking team and all remaining parts of planning your pick.
 
 ## Tree-Owner Sign-Up Form
 
-Before the harvesting season gets started, we ask all tree-owners to use our online form, available at [www.lesfruitsdefendus.org](www.lesfruitsdefendus.org), to indicate that they authorize harvesting this season. When a form is submitted, the information updates directly in Saskatoon, and the core creates an orphan harvest for that property. We’ll show you how to choose among properties whose owners haven’t filled out the form this year.
+Before the harvesting season gets started, we ask all tree-owners to use our online form, available at [www.lesfruitsdefendus.org](http://www.lesfruitsdefendus.org), to indicate that they authorize harvesting this season. When a form is submitted, the information updates directly in Saskatoon, and the core creates an orphan harvest for that property. We’ll show you how to choose among properties whose owners haven’t filled out the form this year.
 
 ## The Properties List: Choosing an Eligible Tree/Vine to Harvest
 
