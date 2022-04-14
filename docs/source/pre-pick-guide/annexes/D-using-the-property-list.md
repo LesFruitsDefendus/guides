@@ -169,7 +169,7 @@ rather than on the "Equipment" page of Saskatoon)
 These characteristics correspond somewhat to those that can be used to filter properties in the Properties List.
 
 ##### Property Statuses
-For the three property status types, you will see either a check (), an () or an exclamation point ( ! ) inside a triangle, depending on the status value, as follows:
+For the three property status types, you will see an icon, depending on the status value, as follows:
 - ACTIVE:
     - ❌ = Inactive (If the property is Active, no icon will display)
 - VALIDATION:
