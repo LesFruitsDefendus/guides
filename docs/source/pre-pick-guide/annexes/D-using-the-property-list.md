@@ -26,7 +26,7 @@ When choosing a property, your best bet will be to choose among the properties w
 
 First, some background explanation on what each of the different property statuses mean...
 
-### Authorization status:
+#### Authorization status
 
 Authorization status indicates whether the tree-owner has confirmed their interest in having their fruit harvested this year. Tree-owners use the online form to authorize their tree(s)/vine(s) for the season.
 
@@ -43,7 +43,7 @@ possible they intend to. Properties in this category have given us permission to
 Before contacting a tree owner to confirm their interest for this year, you must first double-check if a harvest record has already been created for that property for this year. If so, and if that harvest hasn’t already been adopted by another pick-leader, then you may adopt it and proceed to plan the harvest, as described in the Pre-Pick guide. If not, you will need to create and adopt a new “Harvest”. This will prevent the conflict of other pick-leaders contacting the same tree-owner to try and schedule their own harvest of that tree/vine. Details on creating and adopting your own harvest are provided further below.
 ```
 
-### Validation status:
+#### Validation status
 
 You may notice new properties that say “Pending” under the “Status” column. **These properties are not ready for you to select. Please do not create harvests for these properties yourself**. They’ve recently had their info submitted via the online tree-owner form and they require validation by an administrator (core member).
 
@@ -59,9 +59,9 @@ Once a property has been validated, its “Pending” status changes to “Valid
 - 🟡 “Pending” (or “Pending Validation”): The property record has not yet been validated by the core. Please do not create a harvest for this property. The property record may be invalid or it may be a duplicate of another existing property. If so, it will need to be deleted by an administrator.
 - Property records with “DELETE” in the name: This property record is either invalid or a duplicate and is waiting to be deleted by a member of the tech team. Please do not create a harvest for this property. If you’re interested in the property, you’re welcome to check if it’s a duplicate of a valid property by searching its address or tree-owner.
 
-## Knowing Which Properties to Contact
+### Knowing Which Properties to Contact
 
-### Property Status Grid
+#### Property Status Grid
 
 To know generally what action you may take for each combination of Authorization and Validation statuses, please consult the following grid:
 
@@ -70,7 +70,7 @@ To know generally what action you may take for each combination of Authorization
 | 🟢 Validated | A harvest should have already been created for this property. If it hasn’t already been adopted by another pick-leader, you’re welcome to adopt the harvest! | Tree-owner doesn’t want a harvest at their property this season. Do not contact this year. | Tree-owner hasn’t responded yet. If you want to harvest at this property, please create & adopt a harvest first, then contact the tree- owner and ask if they authorize a harvest. |
 | 🟡 Pending (validation) | Tree-owner wants a harvest this season. However, the core must first validate the tree-owner’s registration. **Please do not create an orphan harvest or directly contact the tree-owner yet**. If you want to harvest at this property, please write a comment in the property notes that you’d like to adopt the harvest, and the validating core member can immediately adopt it in your name as soon as they create it (if applicable). | Tree-owner doesn’t want a harvest this season. Do not contact this year. (Core must validate the un-authorization info submitted by the tree-owner and incorporate it into the original property record.) | This combination shouldn’t exist. If it does, it probably means that the tree- owner submitted a form but forgot to indicate whether they authorize harvesting this year or not. Please ask a core member to follow up if you’re interested in this property. |
 
-## Active status:
+#### Active status:
 
 ```{admonition} Note
 :class: note
@@ -103,11 +103,11 @@ Before contacting a tree owner to confirm their interest for this year, you must
 
 You’re always welcome to ask the core if you’re unsure about whether it’s okay to contact a tree- owner directly.
 
-## Sorting and Filtering Properties
+### Sorting and Filtering Properties
 
 To help identify trees/vines that interest you in the Properties List, you may either sort or filter the list according to the characteristics of your choice.
 
-### Sorting Columns
+#### Sorting Columns
 
 To sort, simply click at the top of a column, and all properties will be sorted into groups according to that category.
 
@@ -118,7 +118,7 @@ To sort, simply click at the top of a column, and all properties will be sorted 
 - **“Picks”**: Shows the total number of harvests adopted at this property since 2016. Green baskets represent “Successful”, completed harvests. Brown means “Scheduled” or “Ready”. Red means the harvest was “Cancelled”.
 - **“Last Pick”:** Displays the year fruit was last harvested at this property.
 
-### Filtering Properties
+#### Filtering Properties
 
 To filter properties in the list, choose a category from the filters and select from the drop- down list to display only the properties with that characteristic. Here are the categories by which you can filter properties:
 
@@ -139,7 +139,7 @@ Buttons offer access to more specific information about this property:
 • “Edit Property” button (white ”pencil” icon in yellow-orange square): Click to edit property information [more on this in the section below called “Script for Contacting Tree-Owner and Editing Property Information”].
 --->
 
-### Reviewing Property Information
+## Reviewing Property Information
 
 To learn more about a particular tree or vine in the Properties List, open its “Property record” by clicking on the property owner name and address. Here, information is listed about the property and the tree-owner.
 
