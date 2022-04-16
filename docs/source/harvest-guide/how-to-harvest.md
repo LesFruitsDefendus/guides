@@ -26,7 +26,7 @@ Apples must be picked with a "rotation gesture" accompanied by a slight lift. If
 
 ### Cherries
 
-Cherries should be picked with the stem intact, if possible—otherwise, they will spoil quickly! 
+Cherries should be picked with the stem intact, if possible; otherwise, they will spoil quickly! 
 - By hand: Grasp the knot at the top of the stem. Either twist or gently push sideways or upwards, until the knot of the stem comes apart from the spur. **Do not pull down on the stem. Do not use scissors to cut the stem**.
 
 ### Plums
