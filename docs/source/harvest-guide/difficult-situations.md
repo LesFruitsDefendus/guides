@@ -16,9 +16,9 @@ If you need to cancel a harvest for any reason, you must advise the volunteer pi
 
 ## In case of lightning
 
-We do often pick fruit in the rain (although the rain can make the tree’s branches and ladders slippery), but we do not pick in thunderstorms. It’s important to remember that both trees and metal ladders can attract lightning.
+We do often pick fruit in the rain (although the rain can make the tree's branches and ladders slippery), but we do not pick in thunderstorms. It's important to remember that both trees and metal ladders can attract lightning.
 
-For this reason, it’s very important that you remain aware of the weather forecast for your harvest date. That being said, since the weather forecasts in the Montreal area are often quite unpredictable, it can be difficult to judge in advance whether or not to proceed with a pick.
+For this reason, it's very important that you remain aware of the weather forecast for your harvest date. That being said, since the weather forecasts in the Montreal area are often quite unpredictable, it can be difficult to judge in advance whether or not to proceed with a pick.
 
 For this reason, unless the forecast calls for a very high probability of thunderstorms during your scheduled harvest time, it may be better just to proceed with the harvest. In this situation, we recommend advising the tree owner and volunteer pickers that you may have to cancel (or re-schedule) the harvest upon very short notice.
 
@@ -26,6 +26,6 @@ If, upon arrival at the site, you find that the pick cannot be conducted safely,
 
 ## In case of disruption or damage to the tree or property
 
-Of course, we hope that this never happens, but should the tree or property be disrupted or damaged in some way, it is important that you let the tree owner and your fruit buddy know as soon as possible. We understand that unexpected accidents can occur, but please remember that tree owners put their trust in us, and therefore it’s important for us to communicate openly and help them understand the situation.
+Of course, we hope that this never happens, but should the tree or property be disrupted or damaged in some way, it is important that you let the tree owner and your fruit buddy know as soon as possible. We understand that unexpected accidents can occur, but please remember that tree owners put their trust in us, and therefore it's important for us to communicate openly and help them understand the situation.
 
-After having communicated the situation to the tree owner, you may direct him or her to contact the collective’s core (by email: [info@lesfruitsdefendus.org](mailto:info@lesfruitsdefendus.org)), if any further discussion needs to take place. The core will follow up, if necessary.
+After having communicated the situation to the tree owner, you may direct him or her to contact the collective's core (by email: [info@lesfruitsdefendus.org](mailto:info@lesfruitsdefendus.org)), if any further discussion needs to take place. The core will follow up, if necessary.
