@@ -11,9 +11,9 @@ Please remember that you not only represent the collective as a whole, but you w
 
 Please feel free to modify the script as you like. Just keep in mind, the more information you collect and record, the better prepared you'll be, and the more it helps us in future seasons!
 
-1. **You**: Hello, this is (**you**) calling from Les Fruits Defendus, may I please speak with (**tree owner**)? 
+1. **You**: Hello, this is (**you**) calling from Les Fruits Défendus, may I please speak with (**tree owner**)? 
     - **Tree owner**: Huh?
-        - **You**: Les Fruits Defendus is a collective in Montreal that organizes volunteer pickers to harvest fruit trees in the city. We share the collected fruit among the volunteer pickers, tree owner and a local community organization
+        - **You**: Les Fruits Défendus is a collective in Montreal that organizes volunteer pickers to harvest fruit trees in the city. We share the collected fruit among the volunteer pickers, tree owner and a local community organization
 2. **You**: I see that your tree was (**last harvested in year**) or (**never harvested**). I'm calling to ask if you'd be interested in having our collective harvest your fruit this summer.
     - **Tree owner**: Yes please [**skip to question 3**] 
     - **Tree owner**: Not sure... [**continue below**]
@@ -22,16 +22,16 @@ Please feel free to modify the script as you like. Just keep in mind, the more i
         - **You**: I understand. Can we contact you next year to ask if you'd like to participate or do you want
         to be removed from our list?
             - **Tree owner**: Yes, contact me next year
-                - **You**: Ok, we'll call or email you next year
+                - **You**: OK, we'll call or email you next year
                 [**Update Additional Information section**]
             - **Tree owner**: No thanks, please take me off the list
-                - **You**: Ok, do you mind sharing with me why you do not want to participate? 
+                - **You**: OK, do you mind sharing with me why you do not want to participate? 
                     - **Tree owner**: Bad experience
                         - **You**: I'm sorry to hear that.
                         - Responses to (some) possible scenarios:
                             - Fruit left on tree: That was likely because it was out of reach. Pickers' safety is a priority and we tell volunteers to leave fruit if they are higher than what our ladder can reach.
                             - LFD didn't arrive in time: Fruit can ripen faster than expected. We do our best to respond to calls requesting a harvest right away, however, we entirely volunteer-run and there are times when we are unable to organize folks quickly enough.
-                        - If the tree-owner doesn't want to continue with Les Fruits Defendus: 
+                        - If the tree-owner doesn't want to continue with Les Fruits Défendus: 
                             - **You**: I'm sorry you'll be leaving the collective, but I understand. I'll remove your tree from our database. Have a good day! Bye.
 
                                 (End)
@@ -131,7 +131,7 @@ tree/vine is not located within a walled area, and can be accessed by the genera
 
     [**If they're interested, please send their contact information to info@lesfruitsdefendus.org so that we can put them on our mailing list and subscribe them to our newsletter.**]
 
-19. **You**: Here is mycontact info. Can you please contact me when it looks like the fruits are around 10-15days from being ripe?
+19. **You**: Here is my contact info. Can you please contact me when it looks like the fruits are around 10-15days from being ripe?
 
     [**If it's already close to that time, you may ask if it's possible to at least tentatively schedule the harvest.**]
 
