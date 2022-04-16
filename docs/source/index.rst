@@ -9,7 +9,7 @@ Documentation index
 This is Les Fruits Défendus main documentation.
 
 It includes documentation about the Saskatoon harvest management system
-as well as pickleaders harvest guides.
+as well as pick-leaders harvest guides.
 
 More infos on Les Fruits Défendus
 ---------------------------------

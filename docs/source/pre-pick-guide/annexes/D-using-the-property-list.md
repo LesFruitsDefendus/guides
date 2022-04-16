@@ -135,8 +135,8 @@ Multiple filters can be applied simultaneously. To be sure that the filter is no
 This has been commented out because the new version doesn't have theses buttons.
 
 Buttons offer access to more specific information about this property:
-• "View Property" button ( white "eye" icon in light blue square): Click to view property information [more on this in "Reviewing Property Information" just below.]
-• "Edit Property" button (white "pencil" icon in yellow-orange square): Click to edit property information [more on this in the section below called "Script for Contacting Tree-Owner and Editing Property Information"].
+- "View Property" button ( white "eye" icon in light blue square): Click to view property information [more on this in "Reviewing Property Information" just below.]
+- "Edit Property" button (white "pencil" icon in yellow-orange square): Click to edit property information [more on this in the section below called "Script for Contacting Tree-Owner and Editing Property Information"].
 --->
 
 ## Reviewing Property Information
