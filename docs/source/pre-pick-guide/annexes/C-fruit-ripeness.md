@@ -17,7 +17,7 @@ Cherries:
 - Should be harvested at maturity. 
 - Should be juicy and sweet yet firm. Note that sour cherries are sour even at maturity, hence the name!                                                  
 - Sweet cherries should be dark red when harvested. Sour cherries should be a bright red when harvested.                                                  
-- Trust your tastebuds!                                                          
+- Trust your taste buds!                                                          
 
 Plums:                                                  
 - Should be harvested at maturity.                                                  
