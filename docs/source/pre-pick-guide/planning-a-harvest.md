@@ -2,11 +2,18 @@
 
 The simplest, fastest way to start organizing a harvest event is to adopt an “Orphan Harvest” in Saskatoon. This section will show you how to get started.
 
-NOTE: If you’d like to choose from a larger list of possible trees in our database, please consult Annex D (link available on Saskatoon). Annex D will show you how to identify and contact tree-owners in our database who’ve shown past interest in our collective, but haven’t yet let us know whether we may harvest at their property this year. If you decide to use the approach explained in Annex D, please bear in mind that the process for choosing a tree will be more complicated than simply adopting an orphan harvest, and it will require additional responsibility on your part.
+```{admonition} Note
+:class: note
+
+If you’d like to choose from a larger list of possible trees in our database, please consult {ref}`Annex D <annex-D>`. 
+It will show you how to identify and contact tree-owners in our database who’ve shown past interest in our collective, but haven’t yet let us know whether we may harvest at their property this year. 
+
+If you decide to use the approach explained in Annex D, please bear in mind that the process for choosing a tree will be more complicated than simply adopting an orphan harvest, and it will require additional responsibility on your part.
+```
 
 ## Accessing Saskatoon
 
-Saskatoon is the online database that we developed to coordinate picks. To access Saskatoon, please go to saskatoon.lesfruitsdefendus.org. Pickleaders need a user name and password to log in to this database. Only certain components of the database are accessible to the general public, i.e. the pick calendar.
+Saskatoon is the online database that we developed to coordinate picks. To access Saskatoon, please go to [saskatoon.lesfruitsdefendus.org](https://saskatoon.lesfruitsdefendus.org). Pick-leaders need a user name and password to log in to this database. Only certain components of the database are accessible to the general public, i.e. the pick calendar.
 
 If you need a username or password, contact your fruit buddy or someone from the collective’s core ( at info@lesfruitsdefendus.org ) to have one created for you.
 
@@ -15,10 +22,10 @@ If you need a username or password, contact your fruit buddy or someone from the
 - 1) Log in by clicking the “Login” button in the top right-hand corner of the screen. Enter your login credentials when prompted to do so **(Fig.3)**.
 **Fig.3** (TODO : ADD SCREENSHOT)
 
-- 2) Once you have accessed the main page of Saskatoon (the “Dashboard”), select the “Harvests” tab on the left-hand side of the page **(Fig.4)**. This is where you will find a list of harvests that are available to pickleaders at that particular moment in time. 
+- 2) Once you have accessed the main page of Saskatoon (the “Dashboard”), select the “Harvests” tab on the left-hand side of the page **(Fig.4)**. This is where you will find a list of harvests that are available to pick-leaders at that particular moment in time. 
 **Fig.4** (TODO : ADD SCREENSHOT)
 
-- 3) Explore all the possible trees and vines. Those that have no pickleader assigned and are “orphans” **(Fig.5)** are yours for the taking! Be sure to note the tree’s location (neighbourhood) and its scheduled date **(Fig 6)**, which corresponds to its approximate date of fruit maturity. **Important note: You must contact the tree owner several weeks before the approximate default date. This way, we do not miss the actual due date. **
+- 3) Explore all the possible trees and vines. Those that have no pick-leader assigned and are “orphans” **(Fig.5)** are yours for the taking! Be sure to note the tree’s location (neighbourhood) and its scheduled date **(Fig 6)**, which corresponds to its approximate date of fruit maturity. **Important note: You must contact the tree owner several weeks before the approximate default date. This way, we do not miss the actual due date. **
  **Fig.5** (TODO : ADD SCREENSHOT)
  **Fig.6** (TODO : ADD SCREENSHOT)
  
@@ -32,15 +39,15 @@ Congratulations! You just adopted a tree or vine to save its fruit!
 A few important things to keep in mind when adopting trees:
 
 - Try to give priority to those with earlier due dates (these are more urgent).
-- Try not to choose too many trees with pick dates that are close to each other, so that you do not become overwhelmed. It’s important to keep in mind that scheduling a harvest is dependent on many unpredictable variables (weather, your schedule, the treeowner’s schedule, etc.). We request that you not adopt more than three (3) harvests at the same time.
-- **Once you’ve adopted a harvest**, you are responsible for this tree (see the next steps to understand what this responsibility entails). **If, for whatever reason, you cannot lead a pick at a tree or vine you’ve adopted, you must un-assign yourself from that harvest (aka “unadopt”)**. If you fail to do so, we risk missing that tree or vine’s fruit! To un-assign yourself from a tree or vine you’ve adopted, follow these steps:
+- Try not to choose too many trees with pick dates that are close to each other, so that you do not become overwhelmed. It’s important to keep in mind that scheduling a harvest is dependent on many unpredictable variables (weather, your schedule, the tree owner’s schedule, etc.). We request that you not adopt more than three (3) harvests at the same time.
+- **Once you’ve adopted a harvest**, you are responsible for this tree (see the next steps to understand what this responsibility entails). **If, for whatever reason, you cannot lead a pick at a tree or vine you’ve adopted, you must unassign yourself from that harvest (aka “unadopt”)**. If you fail to do so, we risk missing that tree or vine’s fruit! To unassign yourself from a tree or vine you’ve adopted, follow these steps:
   - 1) In the “Harvests” tab, select your tree or vine’s ID number (see **Fig 7, item #2**).
   - 2) Click “Edit this harvest” (**Fig 9**)
   
  **Fig.9** (TODO : ADD SCREENSHOT)
 
   - 3) Change the “Harvest Status” to “Orphan” using the dropdown menu (**Fig.10**) and
-remove your name as pickleader (**Fig.11**).
+remove your name as pick-leader (**Fig.11**).
  **Fig.10** (TODO : ADD SCREENSHOT)
  **Fig.11** (TODO : ADD SCREENSHOT)
  
@@ -51,7 +58,7 @@ It is your responsibility to contact the owner of each tree or vine you’ve ado
 **Fig.12** (TODO : ADD SCREENSHOT)
 **Fig.13** [map unavailable yet] (TODO : ADD SCREENSHOT)
 
-Always consult the pick calendar (**Fig.14**) before choosing a date and time, to avoid scheduling conflicts with other picks. Note that two picks can take place at the same time if the pickleaders use equipment located at different storage locations; in such cases, however, it is always a good idea to contact the pickleader of the conflicting timeslot to confirm who is using what.
+Always consult the pick calendar (**Fig.14**) before choosing a date and time, to avoid scheduling conflicts with other picks. Note that two picks can take place at the same time if the pick-leaders use equipment located at different storage locations; in such cases, however, it is always a good idea to contact the pick-leader of the conflicting time slot to confirm who is using what.
 
 **Fig.14** (TODO : ADD SCREENSHOT)
 
@@ -64,13 +71,18 @@ Since a member of the fruit group should have already contacted the owner, she/h
 be left. Ask them to provide one or more containers (preferably with lids, if possible).
 - If there is no compost bin at the property, request to have garbage bags left out for you for the fallen fruit.
 
-**Note**: As you are responsible for the tree/vine, you are responsible for updating the harvest information in Saskatoon with any information pertinent to the planning of the pick. Tracking such information indicates activity and progress in the organization of a pick – it helps let other Saskatoon users know what’s going on. From season to season, it can help new pickleaders gage timelines and expectations when dealing with the same trees and vines. Therefore, make sure you record the information you collect each time you communicate with the tree owner.
+```{admonition} Note
+:class: note
 
-➔ For information regarding the particular pick you are leading (short term information), add your notes into the Harvest Comments by clicking “+” or “Add new” when viewing the Harvest Page (**Fig.15**).
+As you are responsible for the tree/vine, you are responsible for updating the harvest information in Saskatoon with any information pertinent to the planning of the pick. Tracking such information indicates activity and progress in the organization of a pick – it helps let other Saskatoon users know what’s going on. 
+From season to season, it can help new pick-leaders gage timelines and expectations when dealing with the same trees and vines. Therefore, make sure you record the information you collect each time you communicate with the tree owner.
+```
+
+- For information regarding the particular pick you are leading (short term information), add your notes into the Harvest Comments by clicking “+” or “Add new” when viewing the Harvest Page (**Fig.15**).
 
 **Fig.15** (TODO : ADD SCREENSHOT)
  
-➔ For all information concerning the tree itself or the owner (long term information), add your notes to the property page. You can do this by clicking “Edit property” when viewing the property page (**Fig.16**). Most notes can be added to the “Additional Information” section (**Fig.17**).
+- For all information concerning the tree itself or the owner (long term information), add your notes to the property page. You can do this by clicking “Edit property” when viewing the property page (**Fig.16**). Most notes can be added to the “Additional Information” section (**Fig.17**).
 
 **Fig.16** (TODO : ADD SCREENSHOT)
 
