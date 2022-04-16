@@ -15,7 +15,7 @@ You may print a copy of the checklist below to use for each harvest, in order to
 - Wooden Crate or Cloth bags for fruit transport
 - Case containing:
   - Pens
-  - Bike Hitch (if not using Fruits Défendus’ bike)
+  - Bike Hitch (if not using Fruits Défendus' bike)
   - Scissors (for harvesting Saskatoon berries and grapes)
   - Scale (2)
   - Tools: socket wrench (8, 9, 10mm), hose clamps, flat head screwdriver [tools used to attach the hitch to your bike]
@@ -24,8 +24,8 @@ You may print a copy of the checklist below to use for each harvest, in order to
 - Fruit picking tools, depending on fruit
 - Fixed-length red poles with cloth basket
 - Extendable-length silver poles with cloth basket fruit baskets on poles (wooden handles)
-- Plastic fruit-picking buckets with strings (to hang around picker’s neck to keep hands free)
-- “Les Fruits Défendus” folding sidewalk sign
+- Plastic fruit-picking buckets with strings (to hang around picker's neck to keep hands free)
+- "Les Fruits Défendus" folding sidewalk sign
 - Bags and containers with handles for collecting, weighing and transporting fruit
 
 Optional items to bring:
