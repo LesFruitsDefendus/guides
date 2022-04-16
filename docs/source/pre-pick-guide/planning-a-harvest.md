@@ -15,7 +15,7 @@ If you decide to use the approach explained in Annex D, please bear in mind that
 
 Saskatoon is the online database that we developed to coordinate picks. To access Saskatoon, please go to [saskatoon.lesfruitsdefendus.org](https://saskatoon.lesfruitsdefendus.org). Pick-leaders need a user name and password to log in to this database. Only certain components of the database are accessible to the general public, i.e. the pick calendar.
 
-If you need a username or password, contact your fruit buddy or someone from the collective's core ( at info@lesfruitsdefendus.org ) to have one created for you.
+If you need a username or password, contact your fruit buddy or someone from the collective's core (at [info@lesfruitsdefendus.org](mailto:info@lesfruitsdefendus.org)) to have one created for you.
 
 ## Choose the trees you want to pick
 
@@ -62,9 +62,9 @@ Always consult the pick calendar (**Fig.14**) before choosing a date and time, t
 
 **Fig.14** (TODO : ADD SCREENSHOT)
 
-To ensure that you have enough time for picking, cleanup, and delivery of the fruit, plan your picks no less than four (4) hours before the closing of your chosen material storage location. If an exception is necessary, discuss with your fruit buddy. See Annex B for the opening hours of our equipment points.
+To ensure that you have enough time for picking, cleanup, and delivery of the fruit, plan your picks no less than four (4) hours before the closing of your chosen material storage location. If an exception is necessary, discuss with your fruit buddy. See Annex B (TODO: Add link to equipment points in Saskatoon)) for the opening hours of our equipment points.
 
-Since a member of the fruit group should have already contacted the owner, she/he will be waiting for your call. Theoretically, all relevant information should have already been gathered and entered into Saskatoon by the fruit group. However, if you find that information you might need is missing, do ask the tree owner. Some questions fruit groups do not pose to owners, but which might be relevant, include:
+Since a member of the fruit group should have already contacted the owner, their will be waiting for your call. Theoretically, all relevant information should have already been gathered and entered into Saskatoon by the fruit group. However, if you find that information you might need is missing, do ask the tree owner. Some questions fruit groups do not pose to owners, but which might be relevant, include:
 
 - Whether we can climb in the tree to access the fruit (if necessary)
 - In the case the owner can't be present during the pick, where their share of the fruit should
@@ -103,7 +103,7 @@ You get to choose the organization to which you will donate the fruit (ex: the c
 
 During the harvest season, our list of beneficiary organizations will be updated regularly therefore refer to the most current version either on Saskatoon, printed copies at the equipment points or the emailed versions.
 
-In 2019, we coordinated with some community fridges to expand our donations possibilities. Community fridge are often managed by Facebook groups; you can find the references in the Beneficiary list. (TODO: HYPERLINK TO BENEFICIARY LIST)
+In 2019, we coordinated with some community fridges to expand our donations possibilities. Community fridge are often managed by Facebook groups; you can find the references in the [Beneficiary list](https://saskatoon.lesfruitsdefendus.org/beneficiary/).
 
 ## Publish the pick and assemble a team.
 
@@ -112,7 +112,13 @@ Once you have chosen a harvest date with the tree or vine's owner and you have f
 Before publishing the pick on the calendar, go to the "Edit Harvest" page (**see Fig.9**) and verify/input the following:
 - The date and time of the pick, as determined with the owner, in 24-hour format (**Fig.18**).
 - The number of pickers necessary (this does not need to be changed unless you've determined with the owner that more or fewer pickers will be needed) (**Fig.18**).
-- The "Public announcement" section, which should include any information about the pick that you'd like to make visible to prospective pickers, e.g. you're looking for volunteers to help with transport of fruit to the beneficiary organization after the pick, or maybe the tree is particularly beautiful (**Fig.18). ATTN: do NOT publish any private information in this section, as this section is visible to the public. The exact location (address) of the tree is private information**.
+- The "Public announcement" section, which should include any information about the pick that you'd like to make visible to prospective pickers, e.g. you're looking for volunteers to help with transport of fruit to the beneficiary organization after the pick, or maybe the tree is particularly beautiful (**Fig.18**). 
+
+  ```{admonition} Attention
+  :class: warning
+
+  Do NOT publish any private information in this section, as this section is visible to the public. The exact location (address) of the tree is private information.
+  ```
 
 Fig.18 (TODO : ADD SCREENSHOT)
 
@@ -121,9 +127,9 @@ Once you have verified that all the pick information is correct, **change the st
 
 <!-- Note: scheduled picks will automatically appear in the calendar daily at 6pm – they do not appear immediately in the calendar! If the harvest is published less than 48 hours before the scheduled pick date, let your fruit buddy know so that he/she can help you recruit volunteers through other avenues, if necessary. -->
 
-When a volunteer signs up for a pick, you will receive an automatic email, and a participation request will automatically be created in the system (**Fig.19)**).
+When a volunteer signs up for a pick, you will receive an automatic email, and a participation request will automatically be created in the system (**Fig.19**)).
 
-In the "Pickers" section of the harvest page (**Fig.19**), you can manage your pick requests. Here, you can see comments that were added by each person requesting to volunteer. You may change the status of their request to "accepted" or "declined" and you may add your own comments. However, please note that **any information you update here is not visible to the potential volunteers**. Currently this information is only visible to those who can log in to Saskatoon. This means that **you will need to contact each hopeful picker yourself directly by phone or email to let him/her know if you have accepted or declined his/her request to participate in the harvest**.
+In the "Pickers" section of the harvest page (**Fig.19**), you can manage your pick requests. Here, you can see comments that were added by each person requesting to volunteer. You may change the status of their request to "accepted" or "declined" and you may add your own comments. However, please note that **any information you update here is not visible to the potential volunteers**. Currently this information is only visible to those who can log in to Saskatoon. This means that **you will need to contact each hopeful picker yourself directly by phone or email to let him/her know if you have accepted or declined his/her request to participate in the harvest**. (TODO: Update this with latest Saskatoon workflow. Saskatoon will send automatic emails to notice pickers if their participation is accepted or declined)
 
 **Fig.19** (TODO : ADD SCREENSHOT)
 
@@ -139,4 +145,8 @@ After choosing your team, you are responsible for contacting each volunteer by e
 - Instructions to wait for you before starting the pick or knocking on the owner's door
 - Your contact information (phone number, if possible)
 
-**IMPORTANT**: if more pickers than necessary sign up before you close the pick in the calendar, you must contact each of them to inform them that, unfortunately, the pick is already full and that their help will not be necessary for this harvest
+```{admonition} Important
+:class: warning
+
+If more pickers than necessary sign up before you close the pick in the calendar, you must contact each of them to inform them that, unfortunately, the pick is already full and that their help will not be necessary for this harvest
+```
