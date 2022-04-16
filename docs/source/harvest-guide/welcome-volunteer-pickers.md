@@ -1,8 +1,8 @@
 # Welcoming the volunteer pickers
 
-As the pickleader, it is absolutely necessary that you arrive at the pick site before anyone else so that you can receive and manage the volunteer pickers. Please do not be late!
+As the pick-leader, it is absolutely necessary that you arrive at the pick site before anyone else so that you can receive and manage the volunteer pickers. Please do not be late!
 
-A fruit pick is a fun, social activity, and a large part of your role as pick leader consists of ensuring that everyone enjoys themselves. To facilitate this, please welcome the volunteer pickers with a smile, encourage introductions to one another, and initiate conversation if you're comfortable doing so (if you're more introverted, don't worry! -- generally, volunteer pickers get to work right away and often end up chatting a lot amongst one another).
+A fruit pick is a fun, social activity, and a large part of your role as pick leader consists of ensuring that everyone enjoys themselves. To facilitate this, please welcome the volunteer pickers with a smile, encourage introductions to one another, and initiate conversation if you're comfortable doing so (if you're more introverted, don't worry! -- generally, volunteer pickers get to work right away and often end up chatting a lot among one another).
 
 Let the volunteer pickers know that the pick won't start until everyone has arrived. That being said, don't wait too long to start (max. 10-15 minutes after scheduled meeting time), as occasionally volunteers simply don't show up.
 
@@ -31,6 +31,11 @@ but it's not worth it to put yourself in danger in an effort to collect more fru
 - “Picking techniques vary depending on the fruit. I'll show you the best way to pick the fruit we're working with today.”
     - Demonstrate how to pick the fruit, and verbally explain best practices
 - Answer any questions volunteer pickers might have
-**REMEMBER: Have each volunteer picker sign a liability waiver form**
+
+```{admonition} Remember
+:class: warning
+
+**Have each volunteer picker sign a liability waiver form**
+```
 
 Once you've given all the instructions, answered any questions posed, cleaned up all the fruit on the ground, and securely installed the ladder... you can invite the volunteers to start picking!
