@@ -1,6 +1,6 @@
 # Supervise the harvest
 
-Your main concern during the pick is your volunteers-- make sure they are comfortable and safe!
+Your main concern during the pick is your volunteers; make sure they are comfortable and safe!
 
 We encourage cooperation among volunteers. Rotate roles for everyone involved (holding the ladder, picking the fruit, weighing the fruit, clean-up, etc.)
 
@@ -9,7 +9,7 @@ Do not forget the most important step: make the most of picking and enjoy the ex
 - Each harvest is different. Sometimes the trees are full of fruit, but it can also happen that a gust of wind made everything fall overnight. One can never know. Keep your head up and focus on how to remediate the situation. Help the volunteers keep their spirits up and stay optimistic.
 - Each group of volunteer pickers is different. The dynamics vary greatly from one group to another. If volunteers are reluctant to take initiative, you can suggest that they climb or hold the ladder, pick up fallen fruit during harvesting, sort fruit, etc.
 - If you have a camera, we encourage you to take photos of the harvest and send them to us ([info@lesfruitsdéfendus.org](mailto:info@lesfruitsdéfendus.org)), or to post them and tag us on Facebook ([Les Fruits Défendus Montréal](https://www.facebook.com/lesfruitsdefendus.montreal)) or tag us on Instagram ([FruitsDefendus](https://www.instagram.com/fruitsdefendus/)) #fruitsdefendus. However, **please make sure that all volunteers give their approval before you start photographing**.
-- See **Annex 3** for more information on health and safety when picking.
+- See {ref}`Annex 3 <annex-3>` for more information on health and safety when picking.
 
 Picks generally lasts two hours. Sometimes it takes less time to harvest the fruit, and sometimes two hours is not enough time to collect all the fruit. We do our best to harvest as much as we can in the timeframe we allow, but we can't always save all the fruit! For this reason, after two hours of harvesting, the material must be packed up and volunteers must be ready to part ways.
 
