@@ -10,6 +10,7 @@ quotes_to_clean = (
     ("“", '"'),
     ("”", '"'),
     ("•", "-"),
+    ("➔", "-"),
 )
 
 def get_parser() -> argparse.ArgumentParser:
