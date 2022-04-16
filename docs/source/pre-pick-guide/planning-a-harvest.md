@@ -46,7 +46,7 @@ A few important things to keep in mind when adopting trees:
   
  **Fig.9** (TODO : ADD SCREENSHOT)
 
-  - 3) Change the “Harvest Status” to “Orphan” using the dropdown menu (**Fig.10**) and
+  - 3) Change the “Harvest Status” to “Orphan” using the drop-down menu (**Fig.10**) and
 remove your name as pick-leader (**Fig.11**).
  **Fig.10** (TODO : ADD SCREENSHOT)
  **Fig.11** (TODO : ADD SCREENSHOT)
