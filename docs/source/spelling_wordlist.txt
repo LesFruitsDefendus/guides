@@ -6,6 +6,7 @@ Santropol
 Roulant
 Montréal
 cancelled
+cancelling
 Bosc
 Anjou
 flavour
