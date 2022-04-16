@@ -1,5 +1,7 @@
 # How to harvest and store fruit
 
+## Harvest fruits
+
 Most fruit grows each year on the same parts of the branch (at the "spur"; see **Fig 1** ). If you destroy the spur while picking the fruit, you may compromise future harvests. Moreover, how fruit is picked can influence its conservation once stored.
 Keep in mind that you have less chance of damaging the tree when you pick the fruit correctly and at the right time.
 Follow these **general harvesting tips** to ensure the protection of the tree and its fruit:
@@ -42,7 +44,7 @@ Pears can be picked like apples (see section above)– but remember that they mu
 ### Grapes
 - By hand: Cut off each bunch of grapes using a pair of scissors or pruning shears.
 
-## Storage:
+## Storage
 
 **At Santropol Roulant**, all fruits except apples can be put in the walk-in fridge in the basement of the building (a.k.a. cold room, cold storage). Apples can be put on the Fruits Défendus shelf unless they are in danger of rotting. Please don’t place containers on the floor of the walk-in fridge.
 
