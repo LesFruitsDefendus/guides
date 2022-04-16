@@ -1,6 +1,6 @@
 # Support for Pick-leaders
 
-New pickleaders are paired with a member of the core, called a “fruit buddy”. He or she is your primary contact person for questions related to organizing and leading picks.
+New pick-leaders are paired with a member of the core, called a “fruit buddy”. He or she is your primary contact person for questions related to organizing and leading picks.
 
 We also ask our community of pick-leaders to help support each other by sharing questions and expertise through [Les Fruits Défendus’s Facebook group for pick-leaders](https://www.facebook.com/groups/1915569122052107/).
 
