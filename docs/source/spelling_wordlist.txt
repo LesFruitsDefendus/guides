@@ -6,5 +6,8 @@ Santropol
 Roulant
 Montréal
 cancelled
+Bosc
+Anjou
+flavour
 neighbourhood
 Coloniale
