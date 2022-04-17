@@ -5,12 +5,8 @@ infos
 Santropol
 Roulant
 Montréal
-cancelled
-cancelling
 Bosc
 Anjou
-flavour
-neighbourhood
 Coloniale
 timeframe
 fruitsdefendus
