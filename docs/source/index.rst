@@ -21,7 +21,7 @@ More infos on Les Fruits Défendus
 
 
 .. toctree::
-   :maxdepth: 15
+   :maxdepth: 3
    :caption: Contents:
 
    pre-pick-guide/index
