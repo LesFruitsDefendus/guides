@@ -1,5 +1,5 @@
 (annex-D)=
-# Planning Harvests using the Properties List
+# Annex D: Planning Harvests using the Properties List
 
 ## Introduction
 

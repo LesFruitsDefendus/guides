@@ -1,5 +1,5 @@
 (annex-1)=
-#  Information on bike safety and the trailer
+# Annex 1: Information on bike safety and the trailer
 
 We know well that Montreal cyclists do not always follow the Highway Code to the letter, but when pulling a trailer, you should be extremely prudent. Be more than vigilant!
 

@@ -1,4 +1,4 @@
-# Annex 2 : Ladder Security
+# Annex 2: Ladder Security
 
 **Our ladders are all very similar, with three hinges so that they can be configured at least three ways: collapsed like the letter “W” for transport, folded like an upside-down “V” for a free-standing position, or opened straight like the letter “I” for a leaning position. Please consult the instructions on the side of the ladder. (Our “Featherlite Combi 3316” model of stepladders, which have three screw-type hinges, can be used in eight different ways.)**
 
