@@ -19,7 +19,7 @@ jobs:
     - name: Install requirements
       run: |
         sudo apt-get update -y
-        sudo apt-get install -y libenchant-dev
+        sudo apt-get install -y enchant libenchant-dev
         python -m pip install --upgrade wheel
         python -m pip install --upgrade pip 
         python -m pip install --upgrade tox
