@@ -6,7 +6,7 @@ on:
     branches: [ master ]
 jobs:
   test:
-    runs-on: ubuntu-latest
+    runs-on: macos-latest
 
     steps:
     - uses: actions/checkout@v2
@@ -18,9 +18,7 @@ jobs:
 
     - name: Install requirements
       run: |
-        sudo apt-get update -y
-        apt show enchant
-        sudo apt-get install -y build-essential enchant libenchant-dev libenchant-voikko
+        brew install enchant
         python -m pip install --upgrade wheel
         python -m pip install --upgrade pip 
         python -m pip install --upgrade tox
