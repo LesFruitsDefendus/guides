@@ -1,5 +1,5 @@
 (annex-D)=
-# Planning Harvests using the Properties List
+# Annex D: Planning Harvests using the Properties List
 
 ## Introduction
 
@@ -126,7 +126,7 @@ To filter properties in the list, choose a category from the filters and select 
 - Active status
 - Authorization status
 - Validation status
-- Neighborhood
+- Neighbourhood
 - Fruit type [referred to as "Tree"]
 - Availability of a Ladder
 
@@ -166,7 +166,8 @@ On the right side, you'll see a checklist of information including up to nine of
 - Availability of a Ladder (for the moment, we include information about equipment here,
 rather than on the "Equipment" page of Saskatoon)
 - Produces fruits every year (some trees produce fruit once every two years)
-- Neighborhood [to be added here soon]
+- Neighbourhood [to be added here soon]
+
 These characteristics correspond somewhat to those that can be used to filter properties in the Properties List.
 
 ##### Property Statuses

@@ -1,4 +1,4 @@
-# Fruit ripeness
+# Annex C: Fruit ripeness
 
 Here are some tips for determining whether your fruit is ready to be harvested. In general, the best way to determine a fruit's maturity is to taste it! 
 
