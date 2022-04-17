@@ -40,7 +40,7 @@ spelling_word_list_filename = 'spelling_wordlist.txt'
 # Translations
 locale_dirs = ['_locales/'] 
 gettext_compact = False 
-spelling_lang = os.getenv('SPHINX_SPLELLING_LANG') or 'en_US'
+tokenizer_lang = spelling_lang = os.getenv('SPHINX_SPLELLING_LANG') or 'en_CA'
 
 # -- Options for HTML output -------------------------------------------------
 

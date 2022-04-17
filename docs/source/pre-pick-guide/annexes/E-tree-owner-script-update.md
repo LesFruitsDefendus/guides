@@ -1,4 +1,4 @@
-# Script for Contacting the Tree-Owner and Editing Property Information
+# Annex E: Script for Contacting the Tree-Owner and Editing Property Information
 
 To edit the property's information, click on the "Edit Property" button at the upper right of a property record.
 
@@ -71,7 +71,7 @@ Please feel free to modify the script as you like. Just keep in mind, the more i
     [**Update "Trees accessibility", if necessary. Check the box for "Publicly accessible" if the
 tree/vine is not located within a walled area, and can be accessed by the general public.** ]
 
-9. **You**: Do we still (still not) have permission to access the tree through the neighbor's property? 
+9. **You**: Do we still (still not) have permission to access the tree through the neighbour's property? 
 
     [**Update "Access to neighbouring terrain if needed" checkbox, if necessary.**]
 
