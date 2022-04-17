@@ -19,3 +19,4 @@ chainstay
 seatstay
 hitchpin
 towbar
+Featherlite
