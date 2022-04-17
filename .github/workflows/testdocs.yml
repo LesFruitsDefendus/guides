@@ -19,7 +19,7 @@ jobs:
     - name: Install requirements
       run: |
         sudo apt-get update -y
-        sudo apt-get search enchant
+        apt show enchant
         sudo apt-get install -y build-essential enchant libenchant-dev libenchant-voikko
         python -m pip install --upgrade wheel
         python -m pip install --upgrade pip 
