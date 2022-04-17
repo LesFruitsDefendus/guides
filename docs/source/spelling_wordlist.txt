@@ -15,3 +15,7 @@ Foldable
 flyers
 composter
 coli
+chainstay
+seatstay
+hitchpin
+towbar
