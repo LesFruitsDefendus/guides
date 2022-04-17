@@ -23,6 +23,6 @@ In the interest of health and sanitation, Les Fruits Défendus does not donate f
 | **What we call it:**|Lost fruit|Freshly fallen fruit| 
 | **Risks:** |Could be contaminated with E. coli bacteria, plus we don't know how long it has been on the ground.|Could be contaminated with E. coli bacteria.|
 |**What we do with it:**| We compost it if possible, or throw it in the garbage. | We may offer it to the volunteer pickers or we can just compost or throw it away.|
-|**Where we put it:**| In the backyard composter, brown food scraps bin, or the garbage can. | In the bag specifically labeled for fallen fruit. |
+|**Where we put it:**| In the backyard composter, brown food scraps bin, or the garbage can. | In the bag specifically labelled for fallen fruit. |
 | **Do we weigh it or not?** | We do not count its weight in the final tally. | If the volunteer pickers decide to take it, we note its weight in the harvest total. |
 

@@ -4,6 +4,7 @@
 
 import argparse
 import pathlib
+import itertools
 
 quotes_to_clean = (
     ("’", "'"),
@@ -30,7 +31,8 @@ if __name__ == "__main__":
 
     exit_code = 0
 
-    for entry in source_path.glob('**/*.md'):
+    for entry in itertools.chain(source_path.glob('**/*.md'), 
+                                 source_path.glob('**/*.po')):
         content = ''
         with entry.open('r') as f:
             content = f.read()
@@ -47,5 +49,4 @@ if __name__ == "__main__":
                 print("fixing it...")
                 with entry.open('w') as f:
                     f.write(cleaned_content)
-
     exit(exit_code)

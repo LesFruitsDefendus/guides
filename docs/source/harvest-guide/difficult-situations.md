@@ -1,6 +1,6 @@
 # What to do in difficult situations?
 
-It may be that not everything goes exactly as planned (ex. stormy weather, grumpy volunteers, unhappy neighbors, flat tire, etc.). If you find yourself in a difficult situation, and you don't know what to do, our recommendations are:
+It may be that not everything goes exactly as planned (ex. stormy weather, grumpy volunteers, unhappy neighbours, flat tire, etc.). If you find yourself in a difficult situation, and you don't know what to do, our recommendations are:
 
 - Consult the Pick-Leader Guides. If you are still not sure ...
 - Look at the Annexes! If you are still not sure...
