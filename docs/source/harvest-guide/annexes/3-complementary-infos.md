@@ -1,7 +1,7 @@
 (annex-3)=
 # Annex 3: Complementary information - Health and security
 
-- **Arrive on the site prepared**:
+- **Arrive on the site prepared**
 
   Bring water to stay hydrated, a hat, and sunscreen Waterproof clothes (if necessary)
   Closed toed shoes are ideal for everyone
