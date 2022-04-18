@@ -94,7 +94,7 @@ Work in progress...
 # Theme options
 html_theme_options = {
     "repository_url": "https://github.com/LesFruitsDefendus/guides",
-    "path_to_docs": "/tree/master/docs/source/",
+    "path_to_docs": "docs/source/",
     "use_repository_button": True,
     "use_edit_page_button": True,
     "use_issues_button": True,
