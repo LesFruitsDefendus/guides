@@ -13,8 +13,8 @@ as well as pick-leaders harvest guides.
 
 To download these guides as PDF, follow the links bellow: 
    
-- French: `Guides de Cueillette <https://lesfruitsdefendus.readthedocs.io/_/downloads/fr/latest/pdf/>`_ (translations still in progress)
-- English: `Harvest Guides <https://lesfruitsdefendus.readthedocs.io/_/downloads/en/latest/pdf/>`_
+- `PDF (fr) <https://lesfruitsdefendus.readthedocs.io/_/downloads/fr/latest/pdf/>`_ (translations still in progress)
+- `PDF (en) <https://lesfruitsdefendus.readthedocs.io/_/downloads/en/latest/pdf/>`_
 
 More infos on Les Fruits Défendus
 ---------------------------------
