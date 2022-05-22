@@ -23,11 +23,11 @@ msgstr "Contenu:"
 
 #: ../../docs/source/index.rst:7
 msgid "Harvest guides"
-msgstr ""
+msgstr "Guides de cueillette"
 
 #: ../../docs/source/index.rst:9
 msgid "This is Les Fruits Défendus main documentation."
-msgstr ""
+msgstr "Ceci est la documentation principale des Fruits Défendus."
 
 #: ../../docs/source/index.rst:11
 msgid ""
