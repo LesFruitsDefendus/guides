@@ -1,0 +1,212 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Les Fruits Défendus
+# This file is distributed under the same license as the Les Fruits Défendus
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Les Fruits Défendus \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-21 21:04-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:1
+msgid "Retrieve equipment and bring it to the pick site"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:3
+msgid ""
+"On the day of the harvest, your first step will be to retrieve the "
+"necessary equipment at an equipment storage site. You should have already"
+" indicated on Saskatoon from which site you plan to borrow equipment and "
+"ensured that no other pick-leaders are already planning to borrow the "
+"same equipment at the same time."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:5
+msgid ""
+"Please consult Annex B for a list of our equipment storage sites for this"
+" season. In addition, there are specific guidelines for retrieving "
+"equipment at each of the sites. These instructions can also be found in "
+"Annex B. Since it contains private information, this annex is not "
+"available to the public. It can be found in Saskatoon."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:7
+msgid ""
+"You may print a copy of the checklist below to use for each harvest, in "
+"order to verify that you have all the equipment you need."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:9
+msgid "Equipment to bring to a harvest"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:11
+msgid "Les Fruits Défendus Bike"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:12
+msgid "Les Fruits Défendus Trailer"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:13
+msgid "Foldable Ladder"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:14
+msgid "Operations Binder: with waivers, flyers, bike path map, etc."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:15
+msgid "Wooden Crate or Cloth bags for fruit transport"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:16
+msgid "Case containing:"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:17
+msgid "Pens"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:18
+msgid "Bike Hitch (if not using Fruits Défendus' bike)"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:19
+msgid "Scissors (for harvesting Saskatoon berries and grapes)"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:20
+msgid "Scale (2)"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:21
+msgid ""
+"Tools: socket wrench (8, 9, 10mm), hose clamps, flat head screwdriver "
+"[tools used to attach the hitch to your bike]"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:22
+msgid "Gloves, Plastic Bags and Wipes for cleanup"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:23
+msgid "First Aid Kit"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:24
+msgid "Fruit picking tools, depending on fruit"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:25
+msgid "Fixed-length red poles with cloth basket"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:26
+msgid ""
+"Extendable-length silver poles with cloth basket fruit baskets on poles "
+"(wooden handles)"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:27
+msgid ""
+"Plastic fruit-picking buckets with strings (to hang around picker's neck "
+"to keep hands free)"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:28
+msgid "\"Les Fruits Défendus\" folding sidewalk sign"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:29
+msgid ""
+"Bags and containers with handles for collecting, weighing and "
+"transporting fruit"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:31
+msgid "Optional items to bring:"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:32
+msgid "Bike repair kit"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:33
+msgid "Lock and lights for the bike"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:35
+msgid ""
+"See {ref}`Annex 1 <annex-1>` for instructions on how to attach the bike "
+"hitch to your own bike (not necessary if you take one of Santropol "
+"Roulant's bikes, as they already have the hitch attached). Information on"
+" safe biking practices can also be found in {ref}`Annex 1 <annex-1>`."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:37
+msgid ""
+"Once all this equipment is safely secured in the bike trailer (if you're "
+"using it), and you've successfully attached the trailer to your bike, "
+"you're ready to take off to the pick site."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:39
+msgid "A few things to keep in mind before leaving"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:41
+msgid ""
+"Plan your route in advance, and allow yourself extra time to arrive; you "
+"never know what could happen along the way."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:43
+msgid ""
+"Plan to arrive at the pick site 15-20 minutes in advance, such that "
+"you're the first to arrive and you'll have enough time to speak to the "
+"tree owner(s) and prepare the area for the pick. As the supervisor of the"
+" pick, it is very important that you arrive before the volunteer pickers."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:45
+msgid ""
+"Finally, be prepared for any potential weather conditions; bring "
+"sunscreen, rain jacket, etc."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:47
+msgid "Tips on biking with a bike trailer"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:49
+msgid ""
+"Before trying to pull the trailer, make sure the pin is fully inserted "
+"and that the hitch is securely attached to your bike frame (see "
+"{ref}`Annex 1 <annex-1>` for visual reference)."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:51
+msgid ""
+"Be more cautious than usual when biking with the trailer. Be aware of the"
+" size of the trailer you're pulling, you'll take up much more space than "
+"a bike alone! Also take into consideration how much time it will take you"
+" to stop with this behind you."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/pick-equipment.md:53
+msgid ""
+"Expect that pulling the trailer will significantly increase (probably "
+"double) the duration of your trip to and from the pick site."
+msgstr ""
+

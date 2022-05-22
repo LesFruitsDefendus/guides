@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Les Fruits Défendus
+# This file is distributed under the same license as the Les Fruits Défendus
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Les Fruits Défendus \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-21 21:04-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+
+#: ../../docs/source/harvest-guide/annexes/3-complementary-infos.md:2
+msgid "Annex 3: Complementary information - Health and security"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/annexes/3-complementary-infos.md:4
+msgid "**Arrive on the site prepared**"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/annexes/3-complementary-infos.md:6
+msgid ""
+"Bring water to stay hydrated, a hat, and sunscreen Waterproof clothes (if"
+" necessary) Closed toed shoes are ideal for everyone"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/annexes/3-complementary-infos.md:9
+msgid "**Environment**"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/annexes/3-complementary-infos.md:11
+msgid ""
+"Get to know the field before starting the pick. Locate possible dangers "
+"on the ground or up high. E.g. uneven soil, paving stones, cars below the"
+" tree, fences, electrical/phone cables, etc. Remove elements that could "
+"be in the way or that the pickers could trip on  Clear the way: keep the "
+"equipment at a good distance from the ladder"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/annexes/3-complementary-infos.md:15
+msgid "**Climbing on trees**"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/annexes/3-complementary-infos.md:17
+msgid ""
+"Evaluate the tree before letting anyone climb it. Climb the tree only if "
+"the tree owner explicitly gave you permission. Locate damaged branches or"
+" weaknesses on the trunk. Encourage the volunteer pickers to distribute "
+"his/her weight equally on the ladder Always have 3-point stable support "
+"on the tree while climbing it (Two feet + one hand / One hand while "
+"sitting on the branch) Do not climb on a branch that bends under the "
+"weight of your body."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/annexes/3-complementary-infos.md:23
+msgid "**Lifting and moving equipment**"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/annexes/3-complementary-infos.md:25
+msgid ""
+"Bend the knees, do not use your back! Let the others help you. No need to"
+" rush - take your time."
+msgstr ""
+

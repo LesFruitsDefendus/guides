@@ -1,0 +1,175 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Les Fruits Défendus
+# This file is distributed under the same license as the Les Fruits Défendus
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Les Fruits Défendus \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-21 21:04-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:1
+msgid "Annex C: Fruit ripeness"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:3
+msgid ""
+"Here are some tips for determining whether your fruit is ready to be "
+"harvested. In general, the best way to determine a fruit's maturity is to"
+" taste it!"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:6
+msgid "Apples"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:8
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:15
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:20
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:27
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:34
+msgid "Should be harvested at maturity."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:9
+msgid ""
+"Should be harvested by a simple rotation of the fruit: if the stem easily"
+" detaches from the branch, it's ready to be picked."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:10
+msgid ""
+"You can also taste the apple to see if it's ripe. Even naturally sour "
+"apples lose their bitterness when they're ripe."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:11
+msgid ""
+"Inspecting the apple's seeds is another good indication of fruit "
+"maturity: if they're a deep brown, the apple is definitely ripe (but do "
+"taste it to make sure that it's not bitter)."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:13
+msgid "Saskatoon Berries"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:16
+msgid ""
+"Should be completely purple/violet, but not too soft. If they're red, "
+"they're not ready yet."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:18
+msgid "Cherries"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:21
+msgid ""
+"Should be juicy and sweet yet firm. Note that sour cherries are sour even"
+" at maturity, hence the name!"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:22
+msgid ""
+"Sweet cherries should be dark red when harvested. Sour cherries should be"
+" a bright red when harvested."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:23
+msgid "Trust your taste buds!"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:25
+msgid "Plums"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:28
+msgid "Should be sweet but not too firm."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:29
+msgid ""
+"Note that in some trees, the plums exposed to more sunlight ripen faster,"
+" so parts of the tree will be ready to harvest and other parts not. With "
+"this in mind, when planning a plum pick, try to choose a time during "
+"which the largest quantity of fruit will be ready for harvest (if doing "
+"two picks is not an option)."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:30
+msgid ""
+"Plums enlarge quite a bit right before they hit maturity. If you notice "
+"that the plums are starting to look bigger, it's time to organize the "
+"pick!"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:32
+msgid "Grapes"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:35
+msgid ""
+"Should be firm but not too firm, juicy, and sweet. When they start "
+"looking wrinkly, that means you missed the ideal picking time."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:37
+msgid "Pears"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:39
+msgid ""
+"Should be harvested when they're still green (i.e. not mature) and firm. "
+"They should have a green-yellow hue."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:40
+msgid ""
+"After harvesting, pears need to be left to mature for a few days. Winter "
+"pears (Bosc, Anjou) should be refrigerated at least 30 days after being "
+"picked in order to ripen properly."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:41
+msgid ""
+"Do not leave the pears to mature on the tree, as this tends to give them "
+"a grainy texture and also causes them to rot at the core once stored. "
+"Pears ripen better once they have been harvested!"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:42
+msgid ""
+"Conversely, if you harvest pears too soon, they might not be able to "
+"completely develop their normal flavour."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:43
+msgid ""
+"A pear that's ready to harvest is supple. Cut one in half to verify the "
+"consistency inside: if it's as hard as wood, it's not ready. There should"
+" be a slight suppleness, but not too much."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:44
+msgid ""
+"Should be harvested by a simple rotation of the fruit: if the stem easily"
+" detaches from the branch, it should be ripe."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:45
+msgid ""
+"Like with apples, seeds are a good indication of fruit maturity: if "
+"they're deep brown, the fruit is most likely ripe."
+msgstr ""
+
