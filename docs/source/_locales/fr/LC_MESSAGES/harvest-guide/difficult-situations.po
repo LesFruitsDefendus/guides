@@ -1,0 +1,137 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Les Fruits Défendus
+# This file is distributed under the same license as the Les Fruits Défendus
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Les Fruits Défendus \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-21 21:04-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+
+#: ../../docs/source/harvest-guide/difficult-situations.md:1
+msgid "What to do in difficult situations?"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/difficult-situations.md:3
+msgid ""
+"It may be that not everything goes exactly as planned (ex. stormy "
+"weather, grumpy volunteers, unhappy neighbours, flat tire, etc.). If you "
+"find yourself in a difficult situation, and you don't know what to do, "
+"our recommendations are:"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/difficult-situations.md:5
+msgid "Consult the Pick-Leader Guides. If you are still not sure ..."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/difficult-situations.md:6
+msgid "Look at the Annexes! If you are still not sure..."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/difficult-situations.md:7
+msgid "Use your problem-solving skills."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/difficult-situations.md:9
+msgid ""
+"If you encounter a non-urgent issue that requires follow-up, please "
+"contact us at "
+"[info@lesfruitsdefendus.org](mailto:info@lesfruitsdefendus.org) or leave "
+"a voice message at our phone number: 514-360-8566. Please understand that"
+" we will not be able to respond immediately. You may also try contacting "
+"your fruit buddy or another pick-leader for advice."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/difficult-situations.md:11
+msgid ""
+"In case of emergency involving personal safety during a pick, call 911 "
+"immediately."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/difficult-situations.md:13
+msgid "In case you must cancel or re-schedule a harvest"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/difficult-situations.md:15
+msgid ""
+"If you need to cancel a harvest for any reason, you must advise the "
+"volunteer pickers, the owner of the tree and the beneficiary organization"
+" as soon as possible. You may consider re- scheduling the harvest rather "
+"than cancelling, if this is an option for you, keeping in mind that in "
+"this case, you will still need to follow up with the volunteer pickers, "
+"the owner of the tree and the beneficiary organization as soon as "
+"possible. Contact your fruit buddy if you need support re-scheduling a "
+"pick."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/difficult-situations.md:17
+msgid "In case of lightning"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/difficult-situations.md:19
+msgid ""
+"We do often pick fruit in the rain (although the rain can make the tree's"
+" branches and ladders slippery), but we do not pick in thunderstorms. "
+"It's important to remember that both trees and metal ladders can attract "
+"lightning."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/difficult-situations.md:21
+msgid ""
+"For this reason, it's very important that you remain aware of the weather"
+" forecast for your harvest date. That being said, since the weather "
+"forecasts in the Montreal area are often quite unpredictable, it can be "
+"difficult to judge in advance whether or not to proceed with a pick."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/difficult-situations.md:23
+msgid ""
+"For this reason, unless the forecast calls for a very high probability of"
+" thunderstorms during your scheduled harvest time, it may be better just "
+"to proceed with the harvest. In this situation, we recommend advising the"
+" tree owner and volunteer pickers that you may have to cancel (or re-"
+"schedule) the harvest upon very short notice."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/difficult-situations.md:25
+msgid ""
+"If, upon arrival at the site, you find that the pick cannot be conducted "
+"safely, you can choose to cancel the harvest immediately. However, we ask"
+" that you remain on site – under shelter of a building, if possible – "
+"until all of the volunteers have arrived or at least 15 minutes after the"
+" agreed upon time of harvest."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/difficult-situations.md:27
+msgid "In case of disruption or damage to the tree or property"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/difficult-situations.md:29
+msgid ""
+"Of course, we hope that this never happens, but should the tree or "
+"property be disrupted or damaged in some way, it is important that you "
+"let the tree owner and your fruit buddy know as soon as possible. We "
+"understand that unexpected accidents can occur, but please remember that "
+"tree owners put their trust in us, and therefore it's important for us to"
+" communicate openly and help them understand the situation."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/difficult-situations.md:31
+msgid ""
+"After having communicated the situation to the tree owner, you may direct"
+" him or her to contact the collective's core (by email: "
+"[info@lesfruitsdefendus.org](mailto:info@lesfruitsdefendus.org)), if any "
+"further discussion needs to take place. The core will follow up, if "
+"necessary."
+msgstr ""
+

@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Les Fruits Défendus
+# This file is distributed under the same license as the Les Fruits Défendus
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Les Fruits Défendus \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-21 21:04-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+
+#: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:1
+msgid "Life Cycle of a Pick on Saskatoon"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:3
+msgid ""
+"As a pick-leader, you will be using Saskatoon to plan your picks. "
+"Saskatoon shows a list of available \"harvests\", each of which "
+"corresponds to a potential harvest of a fruit tree or vine."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:5
+msgid ""
+"Each year, tree-owners from our community complete an online form "
+"indicating their interest in having us harvest their fruit. Consequently,"
+" Saskatoon creates a new \"harvest\" (a.k.a harvest record) for that "
+"year."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:7
+msgid ""
+"Additionally, a given property may have more than one type of fruit tree "
+"(or vine), each with its own distinct harvesting period. Each tree or "
+"vine can yield fruit over a period of several weeks, thus allowing more "
+"than one harvest to be scheduled for that tree/vine."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:9
+msgid ""
+"It's for these reasons that we use the term \"harvest\" in Saskatoon, "
+"rather than \"tree\". These \"harvests\" will help you plan your "
+"harvesting events."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:11
+msgid ""
+"Each stage of planning and fulfilling a harvest event is referred to as a"
+" harvest \"Status\". Here's an overview of each harvest status:"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:13
+msgid "**To be confirmed**: (Please ignore.)"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:14
+msgid ""
+"**Orphan**: The tree-owner gave us the \"okay\" to harvest their tree "
+"this season, but no pick-leader has selected it yet."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:15
+msgid "**Adopted**: A pick-leader has assigned his/herself to the tree."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:16
+msgid ""
+"**Date scheduled**: A pick-leader has confirmed a harvest date with the "
+"tree owner. The pick is published publicly in the calendar so that "
+"volunteers can sign up."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:17
+msgid ""
+"**Ready**: The team of pickers has been confirmed, and subscription to "
+"the pick is closed (i.e., it is no longer possible to sign up for the "
+"pick using the calendar)."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:18
+msgid "**Succeeded**: The fruit has been successfully picked."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:19
+msgid ""
+"**Cancelled**: Sadly, the tree or vine will not be harvested this year. "
+"Notes detailing why this is the case will be recorded in Saskatoon."
+msgstr ""
+
