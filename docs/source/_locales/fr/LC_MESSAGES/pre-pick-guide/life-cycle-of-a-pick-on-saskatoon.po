@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:1
 msgid "Life Cycle of a Pick on Saskatoon"
-msgstr "Cycle de vie d’une cueillette dans Saskatoon"
+msgstr "Cycle de vie d'une cueillette dans Saskatoon"
 
 #: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:3
 msgid ""
