@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Les Fruits Défendus
+# This file is distributed under the same license as the Les Fruits Défendus
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Les Fruits Défendus \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-21 21:04-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+
+#: ../../docs/source/harvest-guide/complete-the-pick.md:1
+msgid ""
+"Deliver the fruits to the beneficiary and return the equipment to the "
+"storage site"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/complete-the-pick.md:3
+msgid ""
+"You have packed up your harvesting materials, and the volunteer pickers "
+"have gone home. Now it is the time to deliver one third of the fruit to "
+"the beneficiary organization that you have chosen previously."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/complete-the-pick.md:5
+msgid ""
+"When interacting with beneficiary organizations, please be sure to do the"
+" following:"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/complete-the-pick.md:6
+msgid "Introduce yourself and be sure that you are in the right place."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/complete-the-pick.md:7
+msgid ""
+"Be courteous and patient. Some staff members may not be aware of the "
+"existing partnership with Les Fruits Défendus. Don't forget that you are "
+"representing the collective!"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/complete-the-pick.md:8
+msgid ""
+"When parking the bicycle and trailer, remember to park it securely either"
+" by locking it or asking someone to keep an eye on it, or bring it "
+"inside."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/complete-the-pick.md:10
+msgid "Return the equipment to the storage site and store it as you found it"
+msgstr ""
+
+#: ../../docs/source/harvest-guide/complete-the-pick.md:12
+msgid ""
+"When returning from a harvest, make sure that you return all of the "
+"equipment to its proper storage location."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/complete-the-pick.md:14
+msgid ""
+"Check the list of equipment on the \"checklist\" sheet (see pg. 5) to be "
+"sure that nothing is lost or forgotten."
+msgstr ""
+
+#: ../../docs/source/harvest-guide/complete-the-pick.md:16
+msgid ""
+"If any material is lost or damaged during your pick, please notify your "
+"Fruit Buddy so that they can make arrangements to have it fixed or "
+"replaced in time for future picks."
+msgstr ""
+

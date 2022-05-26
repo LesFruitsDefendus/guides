@@ -1,0 +1,495 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Les Fruits Défendus
+# This file is distributed under the same license as the Les Fruits Défendus
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Les Fruits Défendus \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-21 21:04-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:1
+msgid ""
+"Annex E: Script for Contacting the Tree-Owner and Editing Property "
+"Information"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:3
+msgid ""
+"To edit the property's information, click on the \"Edit Property\" button"
+" at the upper right of a property record."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:5
+msgid ""
+"Below is a script you may use when contacting the tree-owner (either by "
+"phone or by email). Details about editing the property record are "
+"provided within the contents of the script itself. As always, we ask that"
+" you help encourage success in future seasons by documenting as much "
+"information in the property and harvest records as you can. The more the "
+"better!"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:7
+msgid ""
+"You may choose to contact the tree-owner two times if you prefer. The "
+"first time could be as early as you'd like – mainly to ask for "
+"authorization, gather the most pertinent information, and ask for an "
+"estimate on when the fruit will be ripe. The follow-up call or email "
+"could be to schedule the actual harvest and get more detailed "
+"information. If the tree-owner authorizes a harvest, you do have the "
+"option of asking them to just fill out the online form themselves. While "
+"this might seem to save you time, not only are you depending on the tree-"
+" owner to follow up quickly, but once they've submitted the form, it will"
+" still require validation from a core member. For a harvest that's still "
+"several weeks away, the wait may not be an issue. But in the case of "
+"quickly ripening fruit, there's a clear advantage to getting these "
+"questions answered over the phone, or even by email. Plus, you may be "
+"able to schedule the harvest during the same conversation!"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:10
+msgid ""
+"Please remember that you not only represent the collective as a whole, "
+"but you will most likely be the first person contacting the tree-owner "
+"this year, and it's possible that it's been several years since the last "
+"time a pick-leader or core member contacted them. So please show extra "
+"patience, understanding and appreciation. 😊"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:12
+msgid ""
+"Please feel free to modify the script as you like. Just keep in mind, the"
+" more information you collect and record, the better prepared you'll be, "
+"and the more it helps us in future seasons!"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:14
+msgid ""
+"**You**: Hello, this is (**you**) calling from Les Fruits Défendus, may I"
+" please speak with (**tree owner**)?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:15
+msgid "**Tree owner**: Huh?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:16
+msgid ""
+"**You**: Les Fruits Défendus is a collective in Montreal that organizes "
+"volunteer pickers to harvest fruit trees in the city. We share the "
+"collected fruit among the volunteer pickers, tree owner and a local "
+"community organization"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:17
+msgid ""
+"**You**: I see that your tree was (**last harvested in year**) or "
+"(**never harvested**). I'm calling to ask if you'd be interested in "
+"having our collective harvest your fruit this summer."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:18
+msgid "**Tree owner**: Yes please [**skip to question 3**]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:19
+msgid "**Tree owner**: Not sure... [**continue below**]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:20
+msgid ""
+"You: It's great way to make sure that your fruit doesn't go to waste! We "
+"give one third of the harvested fruit to you, one third to a local food "
+"security organization, and we divide the last third among the volunteers "
+"who harvest the fruit. We're all volunteers and it's completely free."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:21
+msgid "**Tree owner**: No thanks [**continue below**]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:22
+msgid ""
+"**You**: I understand. Can we contact you next year to ask if you'd like "
+"to participate or do you want to be removed from our list?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:24
+msgid "**Tree owner**: Yes, contact me next year"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:25
+msgid ""
+"**You**: OK, we'll call or email you next year [**Update Additional "
+"Information section**]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:27
+msgid "**Tree owner**: No thanks, please take me off the list"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:28
+msgid ""
+"**You**: OK, do you mind sharing with me why you do not want to "
+"participate?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:29
+msgid "**Tree owner**: Bad experience"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:30
+msgid "**You**: I'm sorry to hear that."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:31
+msgid "Responses to (some) possible scenarios:"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:32
+msgid ""
+"Fruit left on tree: That was likely because it was out of reach. Pickers'"
+" safety is a priority and we tell volunteers to leave fruit if they are "
+"higher than what our ladder can reach."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:33
+msgid ""
+"LFD didn't arrive in time: Fruit can ripen faster than expected. We do "
+"our best to respond to calls requesting a harvest right away, however, we"
+" entirely volunteer-run and there are times when we are unable to "
+"organize folks quickly enough."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:34
+msgid "If the tree-owner doesn't want to continue with Les Fruits Défendus:"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:35
+msgid ""
+"**You**: I'm sorry you'll be leaving the collective, but I understand. "
+"I'll remove your tree from our database. Have a good day! Bye."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:37
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:140
+msgid "(End)"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:39
+msgid ""
+"[**Un-check \"Is Active\" box to change property to \"Inactive\". Please "
+"add any notes about why in the Additional Information section.**]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:41
+msgid ""
+"**You**: I want to be sure that the information we have in our system is "
+"correct in order to make organizing a harvest easier for you and the "
+"volunteers this summer. This should take no more than 10 minutes."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:43
+msgid ""
+"**You**: I show that you have (**number and type of trees, vines**) is "
+"this correct?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:44
+msgid "Tree owner: Yes [**skip to next question**]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:45
+msgid "Tree owner: No [**continue below**]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:47
+msgid "[**Update the property fruit type(s), then proceed to next question.**]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:49
+msgid ""
+"**You**: Could you (confirm or tell me) the height of the lowest hanging "
+"fruit?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:51
+msgid ""
+"If the height is above 12ft for cherry, Saskatoon berry or grapes or "
+"above 16ft for other trees..."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:53
+msgid ""
+"**You**: It sounds like most of the fruit may be beyond our reach but I "
+"can't say for sure without looking at the tree. Would you be able to send"
+" me a photo (with object or person for scale)?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:55
+msgid ""
+"(For instructions on uploading photos to the property record, please "
+"consult the Harvest Guide.)"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:57
+msgid "[**Update the property \"Height of lowest fruits\", if necessary.**]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:61
+msgid "**You**: What is the approximate maturity date of each tree (date range)?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:63
+msgid "[**Update \"Approximate maturity date\", if necessary.**]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:65
+msgid "**You**: Where is/are the tree(s) located (if blank)?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:67
+msgid "[**Update \"Trees location\", if necessary.**]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:69
+msgid "**You**: Can we still access the tree(s) by (method indicated)?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:71
+msgid ""
+"[**Update \"Trees accessibility\", if necessary. Check the box for "
+"\"Publicly accessible\" if the tree/vine is not located within a walled "
+"area, and can be accessed by the general public.** ]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:74
+msgid ""
+"**You**: Do we still (still not) have permission to access the tree "
+"through the neighbour's property?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:76
+msgid ""
+"[**Update \"Access to neighbouring terrain if needed\" checkbox, if "
+"necessary.**]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:78
+msgid ""
+"**You**: Do you still have (or do you now have) a ladder than can be used"
+" during the harvest? What kind and how tall is it?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:80
+msgid ""
+"[**Update \"A ladder is available...\" checkbox. Add extra info in "
+"\"Additional Information\" box.**]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:82
+msgid "**You**: Does the tree produce every year?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:84
+msgid "If so, check the box for \"Produces fruit every year\"."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:85
+msgid "If not..."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:87
+msgid "**You**: what frequency and when did the tree last produce fruit?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:89
+msgid ""
+"[**Make sure the box is unchecked and add info in \"Additional "
+"information\" box.**]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:91
+msgid ""
+"**You**: Can the tree be harvested in one-go or will it need multiple "
+"visits? What I mean is, does the fruit mature all at once or over a "
+"series of weeks?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:93
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:128
+msgid "[**Add info in \"Additional information\" box.**]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:95
+msgid "**You**: How many people would it take to harvest the tree in two hours?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:97
+msgid ""
+"[**Update \"Required pickers on average\", if necessary. This number "
+"doesn't include pick-leader.**]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:99
+msgid ""
+"If you want, you can go ahead and ask questions that are normally asked "
+"when scheduling a harvest."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:101
+msgid "**You**: Will you need to be present at the time of harvest?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:102
+msgid "**You**: Would you like to participate in the harvesting of fruit?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:103
+msgid "**You**: Would you like to keep your third of the fruit?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:105
+msgid ""
+"[**Update this information in the three corresponding checkboxes of the "
+"Harvest record.**]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:107
+msgid ""
+"**You**: Let me confirm that the information is correct in our system (if"
+" never been harvested; or any blanks in contact info)"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:108
+msgid "address"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:109
+msgid "email"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:110
+msgid "cell phone / home phone"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:111
+msgid "contact name"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:113
+msgid ""
+"[You may make updates to the address information here, but you won't be "
+"able to update other contact information for the tree-owner. Add this "
+"info in \"Additional information\" box and please ask a core member to "
+"update this.]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:115
+msgid "**You**: Is says you're located in (X neighbourhood). Is that correct?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:117
+msgid ""
+"[If not, select the neighbourhood from the drop-down list. If the one "
+"you're looking for isn't available, select \"Other\" and write in the "
+"neighbourhood in \"Additional Information.]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:120
+msgid "Important note"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:123
+msgid "If a person has changed address, a new property record should be created."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:126
+msgid ""
+"**You**: Can you tell me what is the best time for a volunteer to reach "
+"you? What is your preferred method of communication?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:130
+msgid ""
+"**You**: Do you want to receive more information from us? Do you already "
+"receive our newsletters? Interested?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:132
+msgid ""
+"[**If they're interested, please send their contact information to "
+"info@lesfruitsdefendus.org so that we can put them on our mailing list "
+"and subscribe them to our newsletter.**]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:134
+msgid ""
+"**You**: Here is my contact info. Can you please contact me when it looks"
+" like the fruits are around 10-15days from being ripe?"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:136
+msgid ""
+"[**If it's already close to that time, you may ask if it's possible to at"
+" least tentatively schedule the harvest.**]"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:138
+msgid "**You**: Thank you for your time! Have a great day and we'll be in touch!"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:142
+msgid ""
+"Please be sure to change the property status to \"Authorized\". (If the "
+"property has multiple trees or vines, and the tree-owner authorizes "
+"harvesting of some but not all trees/vines, please set it to "
+"\"Authorized\", but specifically indicate which trees/vines are off-"
+"limits in \"Additional Information\".)"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:144
+msgid ""
+"If the property had previously been marked as \"Inactive\", please check "
+"the \"Is Active\" box to show that it's now \"Active\" and that we have "
+"permission to contact them in future years. (Of course, the property "
+"should have already been \"Validated\", and should remain this way.) "
+"Before you finish updating the property record and click \"Submit\", "
+"please check that a \"Publishable location\" is included:"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:148
+msgid ""
+"Publishable location: This text will be visible to the general public "
+"once the Harvest is published to the public calendar. **DO NOT include "
+"any private information in this field** such as the exact address of the "
+"property. Instead, please choose a nearby intersection and type in its "
+"two street names (e.g. \"Roy & Coloniale\")"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:153
+msgid ""
+"After making all necessary updates to the property record, click "
+"\"Submit\". Once the harvest is scheduled, you'll need to continue with "
+"the remaining steps for planning a pick, starting with the section \"Find"
+" a beneficiary organization that will receive the fruit\" in the Pre-Pick"
+" guide."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:156
+msgid ""
+"Many thanks and the best of luck to you in planning and leading your "
+"harvest! 😊😊😊"
+msgstr ""
+

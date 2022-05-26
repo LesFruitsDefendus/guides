@@ -8,16 +8,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Guides \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-07 23:42-0400\n"
+"POT-Creation-Date: 2022-05-21 21:04-0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.1\n"
+"Generated-By: Babel 2.10.1\n"
 
-#: ../../docs/source/index.rst:15
+#: ../../docs/source/index.rst:28
 msgid "Contents:"
 msgstr "Contenu:"
 
@@ -31,22 +31,68 @@ msgstr "Ceci est la documentation principale des Fruits Défendus."
 
 #: ../../docs/source/index.rst:11
 msgid ""
-"It includes documentation about the Saskatoon harvest managment system as"
-" well as pickleaders harvest guides."
+"It includes documentation about the Saskatoon harvest management system "
+"as well as pick-leaders harvest guides."
 msgstr ""
 
-#: ../../docs/source/index.rst:21
+#: ../../docs/source/index.rst:14
+msgid "To download these guides as PDF, follow the links bellow:"
+msgstr ""
+
+#: ../../docs/source/index.rst:16
+msgid ""
+"`PDF (fr) "
+"<https://lesfruitsdefendus.readthedocs.io/_/downloads/fr/latest/pdf/>`_ "
+"(translations still in progress)"
+msgstr ""
+
+#: ../../docs/source/index.rst:17
+msgid ""
+"`PDF (en) "
+"<https://lesfruitsdefendus.readthedocs.io/_/downloads/en/latest/pdf/>`_"
+msgstr ""
+
+#: ../../docs/source/index.rst:20
+msgid "More infos on Les Fruits Défendus"
+msgstr ""
+
+#: ../../docs/source/index.rst:22
+msgid "`www.lesfruitsdefendus.org <http://www.lesfruitsdefendus.org>`_"
+msgstr ""
+
+#: ../../docs/source/index.rst:23
+msgid "`(514) 360-8566 <tel:+15143608566>`_"
+msgstr ""
+
+#: ../../docs/source/index.rst:24
+msgid "`info@lesfruitsdefendus.org <mailto:info@lesfruitsdefendus.org>`_"
+msgstr ""
+
+#: ../../docs/source/index.rst:25
+msgid "Santropol Roulant, 111 rue Roy est, Montréal (QC) H2W 1M1"
+msgstr ""
+
+#: ../../docs/source/index.rst:37
 msgid "Indices and tables"
 msgstr "Indices"
 
-#: ../../docs/source/index.rst:23
+#: ../../docs/source/index.rst:39
 msgid ":ref:`genindex`"
 msgstr ":ref:`genindex`"
 
-#: ../../docs/source/index.rst:24
+#: ../../docs/source/index.rst:40
 msgid ":ref:`search`"
 msgstr ":ref:`search`"
 
 #~ msgid "Les Fruits Défendus - Harvest guides"
 #~ msgstr "Les Fruits Défendus - Guides de cueillette"
+
+#~ msgid "Harvest guides"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "It includes documentation about the "
+#~ "Saskatoon harvest managment system as "
+#~ "well as pickleaders harvest guides."
+#~ msgstr ""
 

@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Les Fruits Défendus
+# This file is distributed under the same license as the Les Fruits Défendus
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Les Fruits Défendus \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-21 21:04-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+
+#: ../../docs/source/pre-pick-guide/support-for-pickleaders.md:1
+msgid "Support for Pick-leaders"
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/support-for-pickleaders.md:3
+msgid ""
+"New pick-leaders are paired with a member of the core, called a \"fruit "
+"buddy\". He or she is your primary contact person for questions related "
+"to organizing and leading picks."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/support-for-pickleaders.md:5
+msgid ""
+"We also ask our community of pick-leaders to help support each other by "
+"sharing questions and expertise through [Les Fruits Défendus's Facebook "
+"group for pick-"
+"leaders](https://www.facebook.com/groups/1915569122052107/)."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/support-for-pickleaders.md:7
+msgid ""
+"For those not using Facebook, we encourage pick leaders to exchange "
+"contacts (phone and/or email)."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/support-for-pickleaders.md:9
+msgid ""
+"If you need to reach the core for general questions, please write to "
+"[info@lesfruitsdefendus.org](mailto:info@lesfruitsdefendus.org). For "
+"urgent, significant technical issues regarding Saskatoon, please contact "
+"[tech@lesfruitsdefendus.org](mailto:tech@lesfruitsdefendus.org). We'll do"
+" our best to respond to your inquiries as soon as possible."
+msgstr ""
+
+#: ../../docs/source/pre-pick-guide/support-for-pickleaders.md:11
+msgid ""
+"In case of emergency involving personal safety during a pick, please call"
+" 911."
+msgstr ""
+
