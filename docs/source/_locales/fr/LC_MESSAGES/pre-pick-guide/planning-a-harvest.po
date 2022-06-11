@@ -37,7 +37,7 @@ msgstr ""
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:5
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:74
 msgid "Note"
-msgstr "NOTE"
+msgstr "Note"
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:8
 msgid ""
