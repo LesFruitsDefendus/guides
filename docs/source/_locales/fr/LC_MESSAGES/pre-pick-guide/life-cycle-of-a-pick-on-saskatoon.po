@@ -22,7 +22,7 @@ msgstr ""
 
 #: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:1
 msgid "Life Cycle of a Pick on Saskatoon"
-msgstr "Cycle de vie d'une récolte sur Saskatoon, la base données"
+msgstr "Cycle de vie d’une récolte sur Saskatoon, la base données"
 
 #: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:3
 msgid ""
@@ -33,7 +33,7 @@ msgstr ""
 "En tant que chef.fe.s de cueillette vous aurez à utiliser Saskatoon pour "
 "organiser des cueillettes. Saskatoon vous montre une liste des "
 "cueillettes disponibles. Chacune de ces cueillettes disponibles "
-"correspond à la cueillette d'un arbre fruitier ou d'une vigne."
+"correspond à la cueillette d’un arbre fruitier ou d’une vigne."
 
 #: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:5
 msgid ""
@@ -42,8 +42,8 @@ msgid ""
 "Consequently, Saskatoon creates a new \"harvest\" (a.k.a harvest record) "
 "for that year."
 msgstr ""
-"À chaque année, les propriétaires d'arbres de notre communauté "
-"remplissent un formulaire en ligne pour signaler leur intérêt pour qu'on "
+"À chaque année, les propriétaires d’arbres de notre communauté "
+"remplissent un formulaire en ligne pour signaler leur intérêt pour qu’on "
 "vienne cueilleur chez eux cette année. Ensuite, Saskatoon crée une "
 "nouvelle « récolte » pour cette année."
 
@@ -58,7 +58,7 @@ msgstr ""
 "(ou vignes), chacun avec sa période de cueillette propre. Chaque arbre "
 "fruitier donnée ou une vigne peut donner des fruits sur une période de "
 "plusieurs semaines permettant ainsi à plusieurs cueillettes de "
-"s'effectuer sur ce même arbre/cette même vigne."
+"s’effectuer sur ce même arbre/cette même vigne."
 
 #: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:9
 msgid ""
@@ -66,9 +66,9 @@ msgid ""
 "rather than \"tree\". These \"harvests\" will help you plan your "
 "harvesting events."
 msgstr ""
-"C'est pour cette raison que le terme de « récolte » est utilisé dans "
+"C’est pour cette raison que le terme de « récolte » est utilisé dans "
 "Saskatoon plutôt que le terme « arbre ». Ces « récoltes » vous "
-"permettront d'organiser votre activité de cueillette."
+"permettront d’organiser votre activité de cueillette."
 
 #: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:11
 msgid ""
@@ -76,25 +76,25 @@ msgid ""
 "a harvest \"Status\". Here's an overview of each harvest status:"
 msgstr ""
 "On réfère à chaque étape de planification et exécution de la récolte "
-"comme le "Status" de la récolte. Voici l'explication des différents "
+"comme le “Status” de la récolte. Voici l’explication des différents "
 "statuts possibles :"
 
 #: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:13
 msgid "**To be confirmed**: (Please ignore.)"
-msgstr "**À confirmer** : [Un statut obsolète, veuillez l'ignorer]"
+msgstr "**À confirmer** : [Un statut obsolète, veuillez l’ignorer]"
 
 #: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:14
 msgid ""
 "**Orphan**: The tree-owner gave us the \"okay\" to harvest their tree "
 "this season, but no pick-leader has selected it yet."
 msgstr ""
-"**Orphelin** : L'arbre est confirmé pour la saison, mais pas encore pris "
+"**Orphelin** : L’arbre est confirmé pour la saison, mais pas encore pris "
 "en charge par un.e chef.fe de cueillette."
 
 #: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:15
 msgid "**Adopted**: A pick-leader has assigned his/herself to the tree."
 msgstr ""
-"**Adopté**: Un.e chef.fe de cueillette s'est assigné.e cette arbre (ou "
+"**Adopté**: Un.e chef.fe de cueillette s’est assigné.e cette arbre (ou "
 "vigne)."
 
 #: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:16
@@ -105,7 +105,7 @@ msgid ""
 msgstr ""
 "**Date fixée** : Rendez-vous fixé entre le/la chef.fe de cueillette et "
 "le propriétaire. La cueillette est rendue publique dans le calendrier et "
-"les bénévoles peuvent s'inscrire."
+"les bénévoles peuvent s’inscrire."
 
 #: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:17
 msgid ""
@@ -113,8 +113,8 @@ msgid ""
 "the pick is closed (i.e., it is no longer possible to sign up for the "
 "pick using the calendar)."
 msgstr ""
-"**Prêt** : L'équipe de cueillette a été formée et les inscriptions à "
-"cette cueillette sont fermées (il n'est plus possible de s'inscrire pour "
+"**Prêt** : L’équipe de cueillette a été formée et les inscriptions à "
+"cette cueillette sont fermées (il n’est plus possible de s’inscrire pour "
 "cette cueillette sur le calendrier)."
 
 #: ../../docs/source/pre-pick-guide/life-cycle-of-a-pick-on-saskatoon.md:18
@@ -127,4 +127,4 @@ msgid ""
 "Notes detailing why this is the case will be recorded in Saskatoon."
 msgstr ""
 "**Annulé** : Nous ne serons pas capables de cueillir cet arbre cette "
-"année. Un commentaire d'explication sera enregistré dans Saskatoon."
+"année. Un commentaire d’explication sera enregistré dans Saskatoon."
