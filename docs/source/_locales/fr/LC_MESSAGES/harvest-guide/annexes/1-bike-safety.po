@@ -4,111 +4,130 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Les Fruits Défendus \n"
+"Project-Id-Version: Les Fruits Défendus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-21 21:04-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-06-06 16:15-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.10.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:2
 msgid "Annex 1: Information on bike safety and the trailer"
-msgstr ""
+msgstr "Annexe #1: Information sécurité-vélo"
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:4
 msgid ""
-"We know well that Montreal cyclists do not always follow the Highway Code"
-" to the letter, but when pulling a trailer, you should be extremely "
+"We know well that Montreal cyclists do not always follow the Highway "
+"Code to the letter, but when pulling a trailer, you should be extremely "
 "prudent. Be more than vigilant!"
 msgstr ""
+"On sait bien qu’à Montréal les cyclistes ne suivent pas toujours le Code "
+"de la route à la lettre, mais avec une remorque à l’arrière, il faut "
+"être extrêmement prudent.e. Soyez plus que vigilant.e!"
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:6
 msgid ""
 "Plan your route well in advance using bike path maps available to you in "
-"our binder or available online "
-"[here](http://www.velo.qc.ca/fr/publication.php?id=5112010)"
+"our binder or available online [here](http://www.velo.qc.ca/fr/"
+"publication.php?id=5112010)"
 msgstr ""
+"Planifiez votre route d’avance en utilisant des cartes pour cyclistes "
+"disponible dans le cartable des chef.fe.s de cueillette ou en ligne "
+"[here](http://www.velo.qc.ca/fr/publication.php?id=5112010)"
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:7
 msgid ""
 "Remember that you will travel slower with a trailer and remember that "
 "turning requires extra attention."
 msgstr ""
+"Notez que vous allez voyager plus lentement avec une remorque et notez "
+"que le virage nécessite une attention particulière."
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:8
 msgid "Look around you, be visible and predictable"
-msgstr ""
+msgstr "Regardez autour de vous, soyez visible et prévisible"
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:9
 msgid "Bike upright"
-msgstr ""
+msgstr "Roulez bien droit"
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:10
 msgid "We suggest that you wear a helmet"
-msgstr ""
+msgstr "Portez toujours un casque"
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:11
 msgid "Always signal your intention to turn"
-msgstr ""
+msgstr "Signalez toujours votre intention de tourner"
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:12
 msgid "Do not ride on the sidewalk"
-msgstr ""
+msgstr "Ne roulez pas sur le trottoir"
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:13
 msgid "Do not bike in a prohibited direction"
-msgstr ""
+msgstr "Ne roulez pas en sens interdit"
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:14
 msgid "Use your bell"
-msgstr ""
+msgstr "Utilisez votre sonnette"
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:15
 msgid "Do not forget to lock your bike"
-msgstr ""
+msgstr "N’oubliez pas d’attacher votre cadenas"
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:16
 msgid "Turn on your lights when necessary (nightfall, rain)"
 msgstr ""
+"Allumez vos lumières lorsque c’est nécessaire (tombée de la nuit, pluie)"
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:18
 msgid "(TODO: INSERT PHOTO, bike hitch)"
-msgstr ""
+msgstr "(TODO: INSERT PHOTO, bike hitch)"
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:20
 msgid "**How to attach the trailer**:"
-msgstr ""
+msgstr "**Comment attacher la remorque**:"
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:22
 msgid ""
-"If you use your own bike, follow steps 1 and 2. If you use the Les Fruits"
-" Défendus bike then begin at step 2."
+"If you use your own bike, follow steps 1 and 2. If you use the Les "
+"Fruits Défendus bike then begin at step 2."
 msgstr ""
+"Si vous utilisez votre propre vélo, suivez les étapes 1 et 2. Si vous "
+"utilisez le vélo des Fruits défendus, suivez l’étape 2."
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:24
 msgid "**1. Attach the hitch to your bike:**"
-msgstr ""
+msgstr "**1. Attachez le crochet d’attelage à votre vélo:**"
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:25
 msgid ""
-"Place the protective hose over the seatstay and chainstay tubes (Fig 1)--"
-" this will protect the paint and frame of the bike. The longer piece of "
-"hose should be placed on the chainstay and the shorter hose on the the "
-"seatstay."
+"Place the protective hose over the seatstay and chainstay tubes (Fig "
+"1)-- this will protect the paint and frame of the bike. The longer piece "
+"of hose should be placed on the chainstay and the shorter hose on the "
+"the seatstay."
 msgstr ""
+"Placez les tuyaux protecteurs (« protective hose ») sur le hauban et la "
+"base (Fig. 1) - cela protégera la peinture et le cadre du vélo. Le "
+"morceau de tuyau plus long doit être placé sur la base et le tuyau plus "
+"court sur le hauban."
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:29
 msgid ""
 "Set the hitch on the protective hose on the chainstay near the junction "
 "of the seatstay and chainstay (Fig. 2)."
 msgstr ""
+"Mettez l’attelage sur le tuyau sur le côté de la base près de la "
+"couronne (Fig. 2)."
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:30
 msgid ""
@@ -117,25 +136,38 @@ msgid ""
 "Put the remaining band clamp around both the vertical rod and seatstay. "
 "Tighten all band clamps securely."
 msgstr ""
+"Enroulez le ruban autour de l’angle et de la base tel que l’angle point "
+"vers le haut et vers l’intérieur (Fig. 3). Serrez légèrement. Mettez-la "
+"autour de la tige verticale et des sièges. Serrez fermement toutes les "
+"pinces de bande (« band clamps »)."
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:32
 msgid "(TODO : INSERT FIG 1-5)"
-msgstr ""
+msgstr "(TODO : INSERT FIG 1-5)"
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:34
 msgid "**2. Attach the trailer to the tow hook:**"
-msgstr ""
+msgstr "**2. Attachez la remorque au crochet d’attelage:**"
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:36
 msgid ""
-"Place the towbar bushings on both sides of the ball of the rod end.  Line"
-" up the holes so the hitchpin can fit down through the bushings and rod "
-"end (Fig.4.).  Take the hitchpin clip and swing it around behind the "
+"Place the towbar bushings on both sides of the ball of the rod end.  "
+"Line up the holes so the hitchpin can fit down through the bushings and "
+"rod end (Fig.4.).  Take the hitchpin clip and swing it around behind the "
 "solid part of the towbar and stretch the clasp so it goes around the "
 "bottom end of the pin (Fig.5.)."
 msgstr ""
+"Placez les bagues de la barre d’attelage (« towbar bushings ») des deux "
+"côtés de la bille de l’extrémité de la tige (« rod end »). Alignez les "
+"trous de sorte que l’attelage (« hitchpin ») puisse rentrer à travers "
+"les douilles et l’extrémité de la tige (Fig. 4). Prenez le clip de "
+"l’attelle (« hitchpin clasp ») et faites-le pivoter derrière la partie "
+"solide de l’attelage et étirez le fermoir de sorte qu’il se déplace "
+"autour de l’extrémité inférieure de la broche (Fig. 5)."
 
 #: ../../docs/source/harvest-guide/annexes/1-bike-safety.md:40
 msgid "You are now ready to use your trailer."
 msgstr ""
-
+"Vous êtes maintenant prêt à utiliser votre remorque. Le goujon devrait "
+"être attaché au bras de la remorque – assurez-vous que le tout soit bien "
+"fixé pour ne pas risquer de perdre le goujon (pin)."
