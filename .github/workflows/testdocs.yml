@@ -34,7 +34,6 @@ jobs:
       run: |
         tox -e testdocs
 
-    # Disable until the french build also succeeds
-    # - name: Run tests (French)
-    #   run: |
-    #     tox -e testdocs-fr
+    - name: Run tests (French)
+      run: |
+        tox -e testdocs-fr-quick
