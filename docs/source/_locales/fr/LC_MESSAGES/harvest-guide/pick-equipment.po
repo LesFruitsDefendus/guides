@@ -4,155 +4,192 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Les Fruits Défendus \n"
+"Project-Id-Version: Les Fruits Défendus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-21 21:04-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-06-06 16:03-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.10.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:1
 msgid "Retrieve equipment and bring it to the pick site"
 msgstr ""
+"Aller chercher l’équipement et le transporter sur le lieu de la récolte"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:3
 msgid ""
 "On the day of the harvest, your first step will be to retrieve the "
-"necessary equipment at an equipment storage site. You should have already"
-" indicated on Saskatoon from which site you plan to borrow equipment and "
-"ensured that no other pick-leaders are already planning to borrow the "
-"same equipment at the same time."
+"necessary equipment at an equipment storage site. You should have "
+"already indicated on Saskatoon from which site you plan to borrow "
+"equipment and ensured that no other pick-leaders are already planning to "
+"borrow the same equipment at the same time."
 msgstr ""
+"Le jour de la cueillette, votre première étape consiste à aller "
+"récupérer le matériel de cueillette à un des points d’équipement que "
+"vous avez au préalable choisi. Vous devriez avoir indiqué sur Saskatoon "
+"quel point d’équipement vous avez choisi afin de vous assurer qu’aucun.e "
+"autre chef.fe de cueillette n’ait prévu d’emprunter le même équipement "
+"au même moment."
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:5
 msgid ""
-"Please consult Annex B for a list of our equipment storage sites for this"
-" season. In addition, there are specific guidelines for retrieving "
+"Please consult Annex B for a list of our equipment storage sites for "
+"this season. In addition, there are specific guidelines for retrieving "
 "equipment at each of the sites. These instructions can also be found in "
 "Annex B. Since it contains private information, this annex is not "
 "available to the public. It can be found in Saskatoon."
 msgstr ""
+"Veuillez s’il vous plaît consulter l’Annexe B pour trouver une liste de "
+"nos points d’équipement cette saison. De plus, il y a des instructions à "
+"suivre pour récupérer les équipements selon chaque point qui se trouvent "
+"aussi dans l’Annexe B."
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:7
 msgid ""
 "You may print a copy of the checklist below to use for each harvest, in "
 "order to verify that you have all the equipment you need."
 msgstr ""
+"Vous pourrez imprimer une copie de la liste du matériel (ci-dessous) à "
+"avoir avant chaque cueillette afin de vous assurer que vous n’oublierez "
+"rien de nécessaire."
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:9
 msgid "Equipment to bring to a harvest"
-msgstr ""
+msgstr "Équipements et outils à amener lors d’une récolte"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:11
 msgid "Les Fruits Défendus Bike"
-msgstr ""
+msgstr "Le vélo de Les Fruits Défendus"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:12
 msgid "Les Fruits Défendus Trailer"
-msgstr ""
+msgstr "La remorque de Les Fruits Défendus"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:13
 msgid "Foldable Ladder"
-msgstr ""
+msgstr "Échelle pliante"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:14
 msgid "Operations Binder: with waivers, flyers, bike path map, etc."
 msgstr ""
+"Le cartable des opérations avec les formulaires de décharge, une carte "
+"des voies cyclable, et les dépliants des Fruits défendus (pochette pour "
+"mettre tous les documents, par exemple les feuilles de décharge et les "
+"notes sur la cueillette)"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:15
 msgid "Wooden Crate or Cloth bags for fruit transport"
-msgstr ""
+msgstr "Caisse en bois (pour les grosses cueillettes)"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:16
 msgid "Case containing:"
-msgstr ""
+msgstr "Caisse en bois (pour les grosses cueillettes)"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:17
 msgid "Pens"
-msgstr ""
+msgstr "Des stylos"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:18
 msgid "Bike Hitch (if not using Fruits Défendus' bike)"
 msgstr ""
+"Le « hitch » pour attacher la remorque à votre propre vélo si vous "
+"n’utilisez pas\n"
+"le vélo des Fruits défendus"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:19
 msgid "Scissors (for harvesting Saskatoon berries and grapes)"
-msgstr ""
+msgstr "Ciseaux"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:20
 msgid "Scale (2)"
-msgstr ""
+msgstr "(2) Balances"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:21
 msgid ""
 "Tools: socket wrench (8, 9, 10mm), hose clamps, flat head screwdriver "
 "[tools used to attach the hitch to your bike]"
 msgstr ""
+"Outils à vélo/hitch: (1) clé à douille (8, 9, 10mm), collier de serrage, "
+"(1) tournevis"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:22
 msgid "Gloves, Plastic Bags and Wipes for cleanup"
-msgstr ""
+msgstr "Des gants, des sacs de plastique et des sacs en toile"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:23
 msgid "First Aid Kit"
-msgstr ""
+msgstr "(1) Trousse de premiers soins"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:24
 msgid "Fruit picking tools, depending on fruit"
-msgstr ""
+msgstr "Outils de cueillette, dépendamment des fruits"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:25
 msgid "Fixed-length red poles with cloth basket"
-msgstr ""
+msgstr "Pôles fixes rouges avec des paniers en toile"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:26
 msgid ""
 "Extendable-length silver poles with cloth basket fruit baskets on poles "
 "(wooden handles)"
 msgstr ""
+"Pôles extensibles gris avec des paniers en toiles Paniers à fruits sur "
+"des pôles avec des poignées en bois"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:27
 msgid ""
 "Plastic fruit-picking buckets with strings (to hang around picker's neck "
 "to keep hands free)"
 msgstr ""
+"Les seaux de cueillette en plastiques avec les lanières (pour les "
+"accrocher autour du coup des cueilleurs afin d’avoir les mains libres "
+"pendant que vous cueillez)"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:28
 msgid "\"Les Fruits Défendus\" folding sidewalk sign"
 msgstr ""
+"Un panneau pliant “Les Fruits Défendus” à placer le long du trottoir"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:29
 msgid ""
 "Bags and containers with handles for collecting, weighing and "
 "transporting fruit"
 msgstr ""
+"Des sacs et conteneurs avec des poignées pour collecter, peser et "
+"transporter les fruits"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:31
 msgid "Optional items to bring:"
-msgstr ""
+msgstr "Objets optionnels à apporter:"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:32
 msgid "Bike repair kit"
-msgstr ""
+msgstr "Kit de réparation de vélo"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:33
 msgid "Lock and lights for the bike"
-msgstr ""
+msgstr "Cadenas et lumières pour le vélo"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:35
 msgid ""
 "See {ref}`Annex 1 <annex-1>` for instructions on how to attach the bike "
 "hitch to your own bike (not necessary if you take one of Santropol "
-"Roulant's bikes, as they already have the hitch attached). Information on"
-" safe biking practices can also be found in {ref}`Annex 1 <annex-1>`."
+"Roulant's bikes, as they already have the hitch attached). Information "
+"on safe biking practices can also be found in {ref}`Annex 1 <annex-1>`."
 msgstr ""
+"Consultez {ref}`Annex 1 <annex-1>`pour les pratiques sécuritaires à "
+"adopter en vélo et les instructions pour attacher la remorque à votre "
+"vélo (vous pouvez aussi utiliser le vélo du Santropol Roulant qui a "
+"toujours le « hitch » attaché)."
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:37
 msgid ""
@@ -160,53 +197,73 @@ msgid ""
 "using it), and you've successfully attached the trailer to your bike, "
 "you're ready to take off to the pick site."
 msgstr ""
+"Une fois l’équipement dans la remorque, il ne vous reste plus qu’à "
+"enfourcher le vélo et à partir à la rencontre de votre arbre fruitier!"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:39
 msgid "A few things to keep in mind before leaving"
-msgstr ""
+msgstr "Mémo avant le départ"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:41
 msgid ""
 "Plan your route in advance, and allow yourself extra time to arrive; you "
 "never know what could happen along the way."
 msgstr ""
+"Planifiez votre itinéraire à l’avance et prévoyez toujours plus de temps "
+"pour faire face aux imprévus."
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:43
 msgid ""
 "Plan to arrive at the pick site 15-20 minutes in advance, such that "
 "you're the first to arrive and you'll have enough time to speak to the "
-"tree owner(s) and prepare the area for the pick. As the supervisor of the"
-" pick, it is very important that you arrive before the volunteer pickers."
+"tree owner(s) and prepare the area for the pick. As the supervisor of "
+"the pick, it is very important that you arrive before the volunteer "
+"pickers."
 msgstr ""
+"Prévoyez être sur le site de la cueillette 15 à 20 minutes en avance "
+"pour vous donner le temps de préparer l’endroit et pour être sur place "
+"avant tout le monde. Vous êtes le/la superviseur.e de la cueillette, il "
+"est indispensable pour les propriétaires comme pour les autres "
+"cueilleurs.ses qu’aucun.e autre bénévole n’arrive sur place avant vous."
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:45
 msgid ""
 "Finally, be prepared for any potential weather conditions; bring "
 "sunscreen, rain jacket, etc."
 msgstr ""
+"Soyez prêt.e à affronter les conditions météo du jour (ex. : "
+"imperméable, crème solaire)."
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:47
 msgid "Tips on biking with a bike trailer"
-msgstr ""
+msgstr "Astuces concernant l’utilisation de la remorque à vélo"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:49
 msgid ""
 "Before trying to pull the trailer, make sure the pin is fully inserted "
-"and that the hitch is securely attached to your bike frame (see "
-"{ref}`Annex 1 <annex-1>` for visual reference)."
+"and that the hitch is securely attached to your bike frame (see {ref}"
+"`Annex 1 <annex-1>` for visual reference)."
 msgstr ""
+"Assurez-vous que le goujon (pin) soit bien attaché, et que le crochet "
+"d’attelage (hitch) soit bien enclenché (voir {ref}`Annex 1 <annex-1>` "
+"pour un exemple visuel)."
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:51
 msgid ""
-"Be more cautious than usual when biking with the trailer. Be aware of the"
-" size of the trailer you're pulling, you'll take up much more space than "
-"a bike alone! Also take into consideration how much time it will take you"
-" to stop with this behind you."
+"Be more cautious than usual when biking with the trailer. Be aware of "
+"the size of the trailer you're pulling, you'll take up much more space "
+"than a bike alone! Also take into consideration how much time it will "
+"take you to stop with this behind you."
 msgstr ""
+"Soyez plus prudent.e que d’habitude. Reconnaissez vos limites : quelle "
+"est la largeur de la remorque ? Combien de temps me faut-il pour "
+"m’arrêter ? Équipé.e de la remorque, vous êtes beaucoup plus large qu’un "
+"simple vélo. N’ayez pas peur de prendre de la place!"
 
 #: ../../docs/source/harvest-guide/pick-equipment.md:53
 msgid ""
 "Expect that pulling the trailer will significantly increase (probably "
 "double) the duration of your trip to and from the pick site."
 msgstr ""
-
+"Considérez que conduire la remorque double le temps de voyagement normal "
+"en vélo."

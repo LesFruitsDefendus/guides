@@ -4,34 +4,44 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Les Fruits Défendus \n"
+"Project-Id-Version: Les Fruits Défendus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-21 21:04-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-06-06 16:24-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.10.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:1
 msgid "Annex 2: Ladder Security"
-msgstr ""
+msgstr "Annexe #2: Utilisation sécuritaire de l’échelle"
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:3
 msgid ""
-"**Our ladders are all very similar, with three hinges so that they can be"
-" configured at least three ways: collapsed like the letter \"W\" for "
-"transport, folded like an upside-down \"V\" for a free-standing position,"
-" or opened straight like the letter \"I\" for a leaning position. Please "
-"consult the instructions on the side of the ladder. (Our \"Featherlite "
-"Combi 3316\" model of stepladders, which have three screw-type hinges, "
-"can be used in eight different ways.)**"
+"**Our ladders are all very similar, with three hinges so that they can "
+"be configured at least three ways: collapsed like the letter \"W\" for "
+"transport, folded like an upside-down \"V\" for a free-standing "
+"position, or opened straight like the letter \"I\" for a leaning "
+"position. Please consult the instructions on the side of the ladder. "
+"(Our \"Featherlite Combi 3316\" model of stepladders, which have three "
+"screw-type hinges, can be used in eight different ways.)**"
 msgstr ""
+"**Nos échelles sont toutes très similaires avec trois charnières. Ils "
+"peuvent être utilisés au moins de trois différentes manières : plié "
+"comme la letter « W » pour le transport, déplié des deux côtés comme un "
+"« V » inversé pour une position d’escabeau et déplié complètement comme "
+"la lettre « I » pour être accoter à une structure solide. Veuillez "
+"consulter les instructions collées sur le côté des échelles. (Notre "
+"modèle d’échelle « Featherlite Combi 3316 » qui a trois charnières à "
+"vis, peut être configuré de huit différentes manières.)**"
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:5
 msgid ""
@@ -39,26 +49,33 @@ msgid ""
 "stepladder (upside-down \"V\" position) and the 12-foot straight ladder "
 "(\"I\" position)."
 msgstr ""
+"Pour les cueillettes, nous trouvons que les configurations les plus "
+"utiles sont l’escabeau plié de 6 pieds (position « V » inversé) et "
+"l’échelle droite de 12 pieds (position « I »)."
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:7
 msgid "(TODO : INSERT PHOTO, folding ladder)"
-msgstr ""
+msgstr "(TODO : INSERT PHOTO, folding ladder)"
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:9
 msgid ""
 "**Be sure to give instructions on safe ladder use at the beginning of "
 "every pick to help ensure everyone is using the ladder safely.**"
 msgstr ""
+"**Veuillez vous assurer de donner des instructions sur l’utilisation "
+"d’une échelle sécurisée au début de chaque cueillette.**"
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:11
 msgid "Inspection"
-msgstr ""
+msgstr "Inspection"
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:13
 msgid ""
 "Always visually inspect the ladder before installing it and using it for "
 "a pick."
 msgstr ""
+"Toujours inspecter visuellement l’échelle avant de l’installer et "
+"l’utiliser pour une sélection."
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:14
 msgid ""
@@ -67,14 +84,19 @@ msgid ""
 "condition. Moreover, make sure the hinges are secure and tight before "
 "climbing."
 msgstr ""
+"Soyez attentif.ve.s aux fissures et aux éventuelles détériorations. "
+"Vérifiez l’état des barres verticales, des barreaux et des pieds. "
+"Assurez-vous qu’il n’y ait pas de vis, clous ou autre danger. De plus, "
+"assurez-vous que les charnières sont sûres et bien ajustées avant de "
+"monter."
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:16
 msgid "Installation"
-msgstr ""
+msgstr "Installation"
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:18
 msgid "When moving the ladder, ask for assistance if necessary."
-msgstr ""
+msgstr "Lorsque vous déplacez l’échelle, demandez de l’aide si nécessaire."
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:19
 msgid ""
@@ -84,6 +106,11 @@ msgid ""
 "the ladder's stability, tie down the top of the ladder to something "
 "secure to prevent sliding up and down and side-to-side."
 msgstr ""
+"Si vous utilisez l’échelle en forme droite, assurez-vous de la supporter "
+"contre une surface plane, par exemple, un mur ou une branche horizontale "
+"stable, si disponible. Ne vous penchez pas sur un tronc d’arbre. En cas "
+"de doute sur la stabilité de l’échelle, attachez le haut de l’échelle à "
+"quelque chose de sécurisé pour éviter de glisser."
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:20
 msgid ""
@@ -92,55 +119,78 @@ msgid ""
 "words, the feet of the ladder should be positioned at a distance of 1⁄4 "
 "of the extended length away from the wall."
 msgstr ""
+"En repoussant **une échelle droite** contre une surface plane et "
+"verticale, elle doit être positionnée à un angle de 75 ° par rapport à "
+"cette surface. En d’autres termes, les pieds de l’échelle doivent être "
+"positionnés à une distance de 1⁄4 de sa taille maximale du mur."
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:22
 msgid "(TODO :INSERT PHOTO, straight ladder)"
-msgstr ""
+msgstr "(TODO :INSERT PHOTO, straight ladder)"
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:24
 msgid ""
-"The feet of the ladder, or rubber stoppers, need to be on the ground, not"
-" on a stone or a bench."
+"The feet of the ladder, or rubber stoppers, need to be on the ground, "
+"not on a stone or a bench."
 msgstr ""
+"Les pieds de l’échelle, ou les bouchons en caoutchouc, doivent être sur "
+"le sol, pas sur une pierre ou sur un banc."
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:25
 msgid ""
-"To adjust the ladder, adjust the hinges and fold the ladder into place on"
-" the ground. Once the hinges are secured at the proper angle, lift the "
+"To adjust the ladder, adjust the hinges and fold the ladder into place "
+"on the ground. Once the hinges are secured at the proper angle, lift the "
 "ladder. **Assure that all the hinges are secure (all screw hinges "
 "tightened, if applicable) before letting volunteers climb the ladder.**"
 msgstr ""
+"Pour ajuster l’échelle, ajustez les charnières et plier l’échelle en "
+"place sur le sol. Une fois que les charnières sont sûres et au bon "
+"angle, soulevez l’échelle. **Assurez-vous que toutes les vis sont "
+"serrées avant de laisser les bénévoles grimper sur l’échelle.**"
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:26
 msgid ""
 "Always check that the ladder is stable before allowing volunteers to "
 "climb it."
 msgstr ""
+"Toujours vérifier que l’échelle est stable avant d’autoriser les "
+"bénévoles à la grimper."
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:28
 msgid "Usage"
-msgstr ""
+msgstr "Usage"
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:31
 msgid ""
 "We always require that someone secure the ladder and keep it stable with "
 "both hands by standing at the bottom and facing the ladder."
 msgstr ""
+"Nous exigeons toujours que quelqu’un sécurise l’échelle et qu’il reste "
+"stable avec les deux mains en restant debout à la base et face à "
+"l’échelle."
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:32
 msgid ""
-"The person climbing the ladder always needs to be in contact with **three"
-" points** at all times, e.g. the ladder's side rail, two feet on the "
-"rungs/steps and/or hand on the tree. No extending oneself to reach "
+"The person climbing the ladder always needs to be in contact with "
+"**three points** at all times, e.g. the ladder's side rail, two feet on "
+"the rungs/steps and/or hand on the tree. No extending oneself to reach "
 "fruits, branches or anything else. We do not want anyone getting hurt "
 "trying to get that last cherry."
 msgstr ""
+"La personne qui monte sur l’échelle doit toujours avoir **trois points** "
+"de contact en tout temps, par exemple, le rail latéral de l’échelle, "
+"deux pieds sur les échelons / marches et / ou la main sur l’arbre. Ne "
+"pas s’étirer pour atteindre les fruits, les branches ou autres chose. "
+"Nous ne voulons pas que quelqu’un se fait mal en essayant d’obtenir "
+"cette dernière cerise."
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:33
 msgid ""
 "Always make sure the person climbing the ladder is facing the ladder as "
 "well as the person securing the ladder."
 msgstr ""
+"Assurez-vous toujours que la personne qui grimpe sur l’échelle est face "
+"à l’échelle ainsi que la personne qui sécurise l’échelle."
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:34
 msgid ""
@@ -148,10 +198,16 @@ msgid ""
 "wait until the person is on the ladder and climbed on/or off completely "
 "before passing objects and equipment to them."
 msgstr ""
+"Faites monter et descendre l’équipement face à l’échelle (et non sur le "
+"côté) et attendez jusqu’à ce que la personne soit sur l’échelle et "
+"grimpé sur / ou complètement avant de vous transporter des objets et de "
+"l’équipement."
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:35
 msgid "Be extra careful when it is wet as the rungs may be slippery."
 msgstr ""
+"Soyez particulièrement prudent lorsqu’il est mouillé car les échelons "
+"peuvent être glissants."
 
 #: ../../docs/source/harvest-guide/annexes/2-ladder-security.md:36
 msgid ""
@@ -159,4 +215,6 @@ msgid ""
 "3316 in the wide and low stepladder configuration (see Fig.1 above), "
 "where one person can stand on the third step of each side."
 msgstr ""
-
+"Une personne par échelle, sauf lors de l’utilisation de notre "
+"Featherlite 3316 dans la configuration de l’escalier (Fig.1 au-dessus), "
+"lorsqu’une personne par côté peut grimper jusqu’à la troisième marche."

@@ -4,34 +4,39 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Les Fruits Défendus \n"
+"Project-Id-Version: Les Fruits Défendus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-21 21:04-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-06-06 17:01-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.10.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:1
 msgid "Annex C: Fruit ripeness"
-msgstr ""
+msgstr "Annexe C: Maturation des fruits"
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:3
 msgid ""
 "Here are some tips for determining whether your fruit is ready to be "
-"harvested. In general, the best way to determine a fruit's maturity is to"
-" taste it!"
+"harvested. In general, the best way to determine a fruit's maturity is "
+"to taste it!"
 msgstr ""
+"Voici quelques conseils pour vous aider à déterminer quand les fruits "
+"sont prêts à être récoltés. En général, la meilleure façon de savoir si "
+"un fruit est mûr consiste à le goûter!"
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:6
 msgid "Apples"
-msgstr ""
+msgstr "Pommes"
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:8
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:15
@@ -39,19 +44,23 @@ msgstr ""
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:27
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:34
 msgid "Should be harvested at maturity."
-msgstr ""
+msgstr "Elles doivent être cueillies à maturité."
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:9
 msgid ""
-"Should be harvested by a simple rotation of the fruit: if the stem easily"
-" detaches from the branch, it's ready to be picked."
+"Should be harvested by a simple rotation of the fruit: if the stem "
+"easily detaches from the branch, it's ready to be picked."
 msgstr ""
+"Tournez le fruit : si la tige se détache facilement de la branche, c’est "
+"prêt à être cueilli."
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:10
 msgid ""
 "You can also taste the apple to see if it's ripe. Even naturally sour "
 "apples lose their bitterness when they're ripe."
 msgstr ""
+"Goûtez-le pour vérifier s’il est mûr. Même les pommes naturellement "
+"acides perdent leur côté âpre lorsqu’elles sont mûres."
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:11
 msgid ""
@@ -59,53 +68,69 @@ msgid ""
 "maturity: if they're a deep brown, the apple is definitely ripe (but do "
 "taste it to make sure that it's not bitter)."
 msgstr ""
+"L’inspection des pépins peut vous donner un autre indice : s’ils sont "
+"brun foncé, le fruit est sans doute mûr (goûtez-le tout de même pour "
+"vérifier qu’il n’est pas âpre)."
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:13
 msgid "Saskatoon Berries"
-msgstr ""
+msgstr "Amélanches"
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:16
 msgid ""
 "Should be completely purple/violet, but not too soft. If they're red, "
 "they're not ready yet."
 msgstr ""
+"Elles doivent être cueillies à maturité. Les amélanches doivent être "
+"complètement violettes, mais pas trop molles. Lorsqu’elles sont rouges, "
+"elles ne sont pas prêtes."
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:18
 msgid "Cherries"
-msgstr ""
+msgstr "Cerises"
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:21
 msgid ""
-"Should be juicy and sweet yet firm. Note that sour cherries are sour even"
-" at maturity, hence the name!"
+"Should be juicy and sweet yet firm. Note that sour cherries are sour "
+"even at maturity, hence the name!"
 msgstr ""
+"Elles doivent être cueillies à maturité. Elles doivent être juteuses et "
+"sucrées tout en restant fermes. Les griottes devraient être rouge vif."
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:22
 msgid ""
-"Sweet cherries should be dark red when harvested. Sour cherries should be"
-" a bright red when harvested."
+"Sweet cherries should be dark red when harvested. Sour cherries should "
+"be a bright red when harvested."
 msgstr ""
+"Les variétés les plus foncées doivent devenir très foncées avant d’être "
+"cueillies."
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:23
 msgid "Trust your taste buds!"
-msgstr ""
+msgstr "Faites confiance à vos papilles!"
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:25
 msgid "Plums"
-msgstr ""
+msgstr "Prunes"
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:28
 msgid "Should be sweet but not too firm."
 msgstr ""
+"Elles doivent être cueillies à maturité. Elles doivent être sucrées et "
+"pas trop fermes."
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:29
 msgid ""
-"Note that in some trees, the plums exposed to more sunlight ripen faster,"
-" so parts of the tree will be ready to harvest and other parts not. With "
-"this in mind, when planning a plum pick, try to choose a time during "
-"which the largest quantity of fruit will be ready for harvest (if doing "
-"two picks is not an option)."
+"Note that in some trees, the plums exposed to more sunlight ripen "
+"faster, so parts of the tree will be ready to harvest and other parts "
+"not. With this in mind, when planning a plum pick, try to choose a time "
+"during which the largest quantity of fruit will be ready for harvest (if "
+"doing two picks is not an option)."
 msgstr ""
+"Dans certains arbres, les prunes les plus exposées au soleil mûrissent "
+"avant les autres. À moins que vous ne prévoyiez faire une deuxième "
+"récolte, vous devrez choisir le moment où le plus grand nombre de fruits "
+"pourra être cueilli pour organiser la récolte."
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:30
 msgid ""
@@ -113,26 +138,32 @@ msgid ""
 "that the plums are starting to look bigger, it's time to organize the "
 "pick!"
 msgstr ""
+"Les prunes grossissent beaucoup dans les derniers jours précédant la "
+"maturation. Si vous remarquez que les prunes commencent à gonfler, il "
+"est temps d’organiser la cueillette!"
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:32
 msgid "Grapes"
-msgstr ""
+msgstr "Raisins"
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:35
 msgid ""
 "Should be firm but not too firm, juicy, and sweet. When they start "
 "looking wrinkly, that means you missed the ideal picking time."
 msgstr ""
+"Ils doivent être cueillis à maturité. Ils doivent être fermes, mais se "
+"croquer facilement et être juteux et sucrés. Lorsqu’ils commencent à "
+"être ridés, cela signifie que la date idéale de cueillette est passée."
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:37
 msgid "Pears"
-msgstr ""
+msgstr "Poires"
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:39
 msgid ""
 "Should be harvested when they're still green (i.e. not mature) and firm. "
 "They should have a green-yellow hue."
-msgstr ""
+msgstr "Elles doivent être cueillies encore vertes et fermes."
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:40
 msgid ""
@@ -140,6 +171,9 @@ msgid ""
 "pears (Bosc, Anjou) should be refrigerated at least 30 days after being "
 "picked in order to ripen properly."
 msgstr ""
+"Il faudra ensuite les laisser mûrir pendant quelques jours après la "
+"récolte. Les poires d’hiver (Bosc, Anjou) doivent être réfrigérées au "
+"moins 30 jours après avoir été cueillies pour pouvoir mûrir correctement."
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:41
 msgid ""
@@ -147,29 +181,42 @@ msgid ""
 "a grainy texture and also causes them to rot at the core once stored. "
 "Pears ripen better once they have been harvested!"
 msgstr ""
+"On ne doit jamais laisser les poires mûrir directement sur l’arbre, car "
+"elles auraient tendance à devenir granuleuses et à pourrir au niveau du "
+"trognon une fois entreposées. Les poires mûrissent mieux après la "
+"récolte!"
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:42
 msgid ""
 "Conversely, if you harvest pears too soon, they might not be able to "
 "completely develop their normal flavour."
 msgstr ""
+"Si vous les cueillez trop tôt, elles risquent de ne jamais développer "
+"complètement leur saveur."
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:43
 msgid ""
 "A pear that's ready to harvest is supple. Cut one in half to verify the "
-"consistency inside: if it's as hard as wood, it's not ready. There should"
-" be a slight suppleness, but not too much."
+"consistency inside: if it's as hard as wood, it's not ready. There "
+"should be a slight suppleness, but not too much."
 msgstr ""
+"Une poire prête à être cueillie doit être souple. Serrez-en une dans "
+"votre main pour vérifier la consistance. Si elle est dure comme du bois, "
+"elle n’est pas prête. Vous devez percevoir une légère souplesse, mais "
+"pas trop."
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:44
 msgid ""
-"Should be harvested by a simple rotation of the fruit: if the stem easily"
-" detaches from the branch, it should be ripe."
+"Should be harvested by a simple rotation of the fruit: if the stem "
+"easily detaches from the branch, it should be ripe."
 msgstr ""
+"Le fruit devrait se détacher de la branche sans trop d’effort, d’une "
+"simple rotation du fruit."
 
 #: ../../docs/source/pre-pick-guide/annexes/C-fruit-ripeness.md:45
 msgid ""
 "Like with apples, seeds are a good indication of fruit maturity: if "
 "they're deep brown, the fruit is most likely ripe."
 msgstr ""
-
+"Les pépins devraient brunir (comme pour les pommes) : s’ils sont bruns "
+"foncé, le fruit est probablement mûr."

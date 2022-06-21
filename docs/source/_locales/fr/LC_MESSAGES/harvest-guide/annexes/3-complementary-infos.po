@@ -4,69 +4,88 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Les Fruits Défendus \n"
+"Project-Id-Version: Les Fruits Défendus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-21 21:04-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-06-06 16:36-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.10.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../docs/source/harvest-guide/annexes/3-complementary-infos.md:2
 msgid "Annex 3: Complementary information - Health and security"
-msgstr ""
+msgstr "Annexe #3: Informations Complémentaires – Santé et Sécurité"
 
 #: ../../docs/source/harvest-guide/annexes/3-complementary-infos.md:4
 msgid "**Arrive on the site prepared**"
-msgstr ""
+msgstr "**Arrivée sur le site préparé**"
 
 #: ../../docs/source/harvest-guide/annexes/3-complementary-infos.md:6
 msgid ""
-"Bring water to stay hydrated, a hat, and sunscreen Waterproof clothes (if"
-" necessary) Closed toed shoes are ideal for everyone"
+"Bring water to stay hydrated, a hat, and sunscreen Waterproof clothes "
+"(if necessary) Closed toed shoes are ideal for everyone"
 msgstr ""
+"Apportez de l’eau pour rester hydraté, un chapeau et de la crème solaire "
+"Vêtements imperméables (si nécessaire) Les chaussures fermées sont "
+"idéales pour tous"
 
 #: ../../docs/source/harvest-guide/annexes/3-complementary-infos.md:9
 msgid "**Environment**"
-msgstr ""
+msgstr "**Environnement**"
 
 #: ../../docs/source/harvest-guide/annexes/3-complementary-infos.md:11
 msgid ""
 "Get to know the field before starting the pick. Locate possible dangers "
-"on the ground or up high. E.g. uneven soil, paving stones, cars below the"
-" tree, fences, electrical/phone cables, etc. Remove elements that could "
-"be in the way or that the pickers could trip on  Clear the way: keep the "
-"equipment at a good distance from the ladder"
+"on the ground or up high. E.g. uneven soil, paving stones, cars below "
+"the tree, fences, electrical/phone cables, etc. Remove elements that "
+"could be in the way or that the pickers could trip on  Clear the way: "
+"keep the equipment at a good distance from the ladder"
 msgstr ""
+"Connaitre le terrain avant de commencer la cueillette. Identifiez les "
+"dangers potentiels au sol ou haut en haut. Par exemple, sol inégal, "
+"pavés, voitures sous l’arbre, clôtures, câbles électriques / "
+"téléphoniques, etc. Dégagez les éléments qui pourraient être dans le "
+"chemin ou que les cueilleur.e.s pourraient déclencher Dégagez le chemin: "
+"garder l’équipement à une bonne distance de l’échelle"
 
 #: ../../docs/source/harvest-guide/annexes/3-complementary-infos.md:15
 msgid "**Climbing on trees**"
-msgstr ""
+msgstr "**Grimper les arbres**"
 
 #: ../../docs/source/harvest-guide/annexes/3-complementary-infos.md:17
 msgid ""
 "Evaluate the tree before letting anyone climb it. Climb the tree only if "
-"the tree owner explicitly gave you permission. Locate damaged branches or"
-" weaknesses on the trunk. Encourage the volunteer pickers to distribute "
-"his/her weight equally on the ladder Always have 3-point stable support "
-"on the tree while climbing it (Two feet + one hand / One hand while "
-"sitting on the branch) Do not climb on a branch that bends under the "
-"weight of your body."
+"the tree owner explicitly gave you permission. Locate damaged branches "
+"or weaknesses on the trunk. Encourage the volunteer pickers to "
+"distribute his/her weight equally on the ladder Always have 3-point "
+"stable support on the tree while climbing it (Two feet + one hand / One "
+"hand while sitting on the branch) Do not climb on a branch that bends "
+"under the weight of your body."
 msgstr ""
+"Évaluez l’arbre avant de laisser quelqu’un l’e grimper. Grimpez l’arbre "
+"uniquement si le propriétaire de l’arbre vous donne autorisation "
+"explicite. Identifiez les branches endommagées ou les faiblesses sur le "
+"tronc. Encouragez les cueilleur.e.s à distribuer son poids également sur "
+"l’échelle Toujours avoir un support stable, e.g. 3 points de contact sur "
+"l’arbre (deux pieds + une main / une main, assis sur la branche) Ne "
+"grimpez pas sur une branche qui se penche sous le poids de votre corps."
 
 #: ../../docs/source/harvest-guide/annexes/3-complementary-infos.md:23
 msgid "**Lifting and moving equipment**"
-msgstr ""
+msgstr "**Déplacement de l’équipement**"
 
 #: ../../docs/source/harvest-guide/annexes/3-complementary-infos.md:25
 msgid ""
-"Bend the knees, do not use your back! Let the others help you. No need to"
-" rush - take your time."
+"Bend the knees, do not use your back! Let the others help you. No need "
+"to rush - take your time."
 msgstr ""
-
+"Pliez les genoux, n’utilisez pas votre dos! Laissez les autres vous "
+"aider. Pas besoin de se presser - prenez votre temps."
