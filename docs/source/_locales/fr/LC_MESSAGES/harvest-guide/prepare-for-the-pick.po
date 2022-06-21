@@ -4,23 +4,25 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Les Fruits Défendus \n"
+"Project-Id-Version: Les Fruits Défendus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-21 21:04-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-06-06 15:17-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.10.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md:1
 msgid "Prepare for the pick"
-msgstr ""
+msgstr "Se préparer pour la récolte"
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md:3
 msgid ""
@@ -28,127 +30,164 @@ msgid ""
 "residential property. It's therefore very important to treat the "
 "properties with the utmost respect."
 msgstr ""
+"La grande majorité des récoltes auxquelles participe Les Fruits Défendus "
+"ont lieu dans des espaces résidentiels privés. Nous devons donc de traiter "
+"ces propriétés avec le plus grand respect."
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md:5
 msgid ""
 "When you arrive at the pick site, knock on the door and introduce "
-"yourself. Even if no one's expected to be home, it's always a good idea "
-"to knock. If the tree owners are at home, you can ask them for small "
-"garbage bags or a compost bin for the fallen/spoiled fruits, as well as a"
-" container for their portion of the fruit, and a ladder or step stool, if"
-" required."
+"yourself. Even if no one's expected to be home, it's always a good idea to "
+"knock. If the tree owners are at home, you can ask them for small garbage "
+"bags or a compost bin for the fallen/spoiled fruits, as well as a "
+"container for their portion of the fruit, and a ladder or step stool, if "
+"required."
 msgstr ""
+"Lorsque vous arrivez sur le site de la cueillette, frappez à la porte et "
+"présentez-vous. Il se peut que ce soit prévu que personne ne soit présent, "
+"assurez-vous tout de même d’avoir frappé, par précaution. Si les "
+"propriétaires sont présent.e.s, vous pouvez aussi demander des sacs de "
+"vidanges ou un composteur/bac brun pour disposer des fruits tombés/"
+"écrasés, des récipients pour leur portion de fruits et une échelle/"
+"escabeau (s’il.s/elle.s en ont un.e)."
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md:7
 msgid ""
 "Take time to talk to the tree owner(s) and answer their questions about "
-"the collective. Be polite and positive! You represent Les Fruits "
-"Défendus, so be sure to put your best foot forward!"
+"the collective. Be polite and positive! You represent Les Fruits Défendus, "
+"so be sure to put your best foot forward!"
 msgstr ""
+"Prenez le temps de parler avec les propriétaires, répondez à leurs "
+"questions concernant le collectif, soyez poli.e et positif.ve. Vous "
+"représentez Les Fruits Défendus, montrez comme nous sommes dégourdi.e.s, "
+"organisé.e.s et souriant.e.s!"
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md:9
 msgid "Additional steps to prepare for the pick:"
-msgstr ""
+msgstr "Étapes de préparation:"
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md:11
 msgid "Inspect the pick site for potential hazards during the pick."
-msgstr ""
+msgstr "Inspectez l’endroit pour repérer d’éventuels dangers."
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md:12
 msgid "Unload the equipment from the bike trailer."
-msgstr ""
+msgstr "Sortez l’équipement de la remorque."
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md:13
 msgid ""
-"Prepare the garbage bags used to collect fruit that falls during the pick"
-" (freshly fallen fruit). **Please review the table below to familiarize "
+"Prepare the garbage bags used to collect fruit that falls during the pick "
+"(freshly fallen fruit). **Please review the table below to familiarize "
 "yourself with our policies regarding fallen fruit**."
 msgstr ""
+"Préparez les sacs de vidanges qui serviront à collecter les fruits qui "
+"tomberont au sol pendant la cueillette (fruits fraîchement tombés). "
+"**Veuillez prendre connaissance du tableau ci-dessous pour vous "
+"familiariser avec nos « politiques » concernant les fruits tombés**."
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md:16
 msgid "Fallen fruit"
-msgstr ""
+msgstr "Fruits tombés"
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md:18
 msgid ""
 "In the interest of health and sanitation, Les Fruits Défendus does not "
 "donate fruit that has come in contact with the ground. This rule also "
-"applies to the fruit given to the tree owner. Please consult the "
-"following table for procedures regarding fallen fruit and the "
-"corresponding rationale."
+"applies to the fruit given to the tree owner. Please consult the following "
+"table for procedures regarding fallen fruit and the corresponding "
+"rationale."
 msgstr ""
+"Par mesure de sécurité et d’hygiène, Les Fruits Défendus ne fait don "
+"d’aucun fruit ayant été en contact avec le sol. Cette règle s’applique "
+"également aux fruits réservés au propriétaire de l’arbre. Le tableau ci-"
+"dessous explique les procédures concernant les fruits tombés et pourquoi "
+"de telles précautions sont nécessaires."
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md
 msgid "**Fruit that already fell before the harvest begins**"
-msgstr ""
+msgstr "**Fruits tombés avant la récolte**"
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md
 msgid "**Fruit that falls during the harvest**"
-msgstr ""
+msgstr "**Fruits tombés pendant la récolte**"
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md
 msgid "**What we call it:**"
-msgstr ""
+msgstr "**On les nomme:**"
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md
 msgid "Lost fruit"
-msgstr ""
+msgstr "Fruits perdus"
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md
 msgid "Freshly fallen fruit"
-msgstr ""
+msgstr "Fruits fraichement tombés"
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md
 msgid "**Risks:**"
-msgstr ""
+msgstr "**Risques:**"
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md
 msgid ""
 "Could be contaminated with E. coli bacteria, plus we don't know how long "
 "it has been on the ground."
 msgstr ""
+"Peuvent être infectés par la bactérie E. coli. De plus, on ne sait pas "
+"depuis combien de temps ces fruits sont à terre."
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md
 msgid "Could be contaminated with E. coli bacteria."
-msgstr ""
+msgstr "Peuvent être infectés par la bactérie E. coli."
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md
 msgid "**What we do with it:**"
-msgstr ""
+msgstr "**Ce qu’on en fait:**"
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md
 msgid "We compost it if possible, or throw it in the garbage."
 msgstr ""
+"On les composte ou les met dans la poubelle s’il n’y a pas d’option "
+"compostage."
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md
 msgid ""
 "We may offer it to the volunteer pickers or we can just compost or throw "
 "it away."
 msgstr ""
+"On les donne aux bénévoles ou on les composte. Les fruits fraîchement "
+"tombés sont bien souvent encore bons, les bénévoles peuvent donc décider "
+"de les rapporter chez eux à condition qu’ils sachent comment les laver "
+"correctement."
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md
 msgid "**Where we put it:**"
-msgstr ""
+msgstr "**Où les met-on?**"
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md
 msgid "In the backyard composter, brown food scraps bin, or the garbage can."
 msgstr ""
+"Dans un sac de vidanges pour le jardin ou dans un bac vert. Cette étape "
+"doit avoir lieu avant le début la cueillette."
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md
 msgid "In the bag specifically labelled for fallen fruit."
-msgstr ""
+msgstr "Dans les sacs prévus pour la collecte des fruits fraîchement tombés."
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md
 msgid "**Do we weigh it or not?**"
-msgstr ""
+msgstr "**Peser ou pas peser?**"
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md
 msgid "We do not count its weight in the final tally."
 msgstr ""
+"Les fruits perdus ne sont pas pesés, leur poids n’est pas pris en compte "
+"dans le calcul saisonnier de l’ensemble des « fruits cueillis »."
 
 #: ../../docs/source/harvest-guide/prepare-for-the-pick.md
 msgid ""
 "If the volunteer pickers decide to take it, we note its weight in the "
 "harvest total."
 msgstr ""
-
+"Si les bénévoles les prennent, les fruits fraichement tombés sont pesés et "
+"leur poids est pris en compte dans le calcul saisonnier de l’ensemble des "
+"« fruits cueillis »."
