@@ -4,199 +4,259 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Les Fruits Défendus \n"
+"Project-Id-Version: Les Fruits Défendus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-21 21:04-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-06-03 14:48-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.10.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:1
 msgid "How to harvest and store fruit"
-msgstr ""
+msgstr "Comment cueillir et entreposer les fruits"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:3
 msgid "Harvest fruits"
-msgstr ""
+msgstr "Cueillir des fruits"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:5
 msgid ""
-"Most fruit grows each year on the same parts of the branch (at the "
-"\"spur\"; see **Fig 1** ). If you destroy the spur while picking the "
-"fruit, you may compromise future harvests. Moreover, how fruit is picked "
-"can influence its conservation once stored. Keep in mind that you have "
-"less chance of damaging the tree when you pick the fruit correctly and at"
-" the right time. Follow these **general harvesting tips** to ensure the "
-"protection of the tree and its fruit:"
+"Most fruit grows each year on the same parts of the branch (at the \"spur\"; "
+"see **Fig 1** ). If you destroy the spur while picking the fruit, you may "
+"compromise future harvests. Moreover, how fruit is picked can influence its "
+"conservation once stored. Keep in mind that you have less chance of damaging "
+"the tree when you pick the fruit correctly and at the right time. Follow these "
+"**general harvesting tips** to ensure the protection of the tree and its fruit:"
 msgstr ""
+"La plupart des fruits poussent chaque année sur le même endroit de la branche "
+"(éperon ou « spur » en anglais; voir Fig 1). Si vous abîmez l’éperon, vous "
+"risquez d’anéantir les récoltes futures. Par ailleurs, la manière de cueillir "
+"les fruits peut influencer leur conservation une fois entreposés. Vous avez "
+"moins de chances d’endommager l’arbre lorsque vous cueillez les fruits au "
+"moment opportun (c’est vrai pour tous les fruits). Suivez les conseils "
+"généraux suivants pour garantir la protection de l’arbre et de ses fruits:"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:9
 msgid "**Fig 1**  (TODO : INSERT PHOTO of spur and stem)"
-msgstr ""
+msgstr "**Fig 1** (TODO : INSERT PHOTO d’éperon et de tige)"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:11
 msgid "Fruit should be picked with the stem, but without the spur."
 msgstr ""
+"Le fruit doit être cueilli avec la tige (« stem »), mais sans l’éperon (« spur "
+"»)."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:12
 msgid "Never cut the stem of the fruit."
-msgstr ""
+msgstr "Ne coupez jamais la tige (« stem ») du fruit."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:13
 msgid "Try to not pull down a fruit; it is always better to lift it."
 msgstr ""
+"Ne tirez jamais un fruit vers le bas, il est toujours\n"
+"préférable de le soulever."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:14
 msgid ""
-"Do not do anything which damages the bark of the tree. It is its "
-"circulatory system!"
+"Do not do anything which damages the bark of the tree. It is its circulatory "
+"system!"
 msgstr ""
+"Ne faites rien qui abîme l’écorce de l’arbre. C’est son système circulatoire."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:15
 msgid ""
-"NEVER CUT THE BRANCHES OF FRUIT TREES DURING THE SUMMER! Even if the "
-"owner requests this, be aware that we are not qualified to provide such "
-"services; therefore, we must decline any such requests."
+"NEVER CUT THE BRANCHES OF FRUIT TREES DURING THE SUMMER! Even if the owner "
+"requests this, be aware that we are not qualified to provide such services; "
+"therefore, we must decline any such requests."
 msgstr ""
+"NE COUPEZ JAMAIS LES BRANCHES DES ARBRES FRUITIERS PENDANT L’ÉTÉ! Même si le "
+"propriétaire le demande, sachez que c’est mauvais pour l’arbre à ce temps de "
+"l’année car ça invite les maladies."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:16
 msgid ""
-"When using a picking bucket (hung around the neck) to pick fruit, don't "
-"allow the bucket get too full, because the fruit will inevitably spill! "
-"Below are some **specific harvesting tips** for different kinds of fruit:"
+"When using a picking bucket (hung around the neck) to pick fruit, don't allow "
+"the bucket get too full, because the fruit will inevitably spill! Below are "
+"some **specific harvesting tips** for different kinds of fruit:"
 msgstr ""
+"Quand vous utilisez un seau de cueillette (accrochez le autour du cou) pour "
+"cueillir les fruits, ne remplissez pas le seau en entier sinon certains fruits "
+"seront écrasés et d’autres risquent de tomber ! Voici ci-dessous quelques "
+"conseils spécifiques de cueillette pour différents types de fruits :"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:19
 msgid "**Fig 2** (TODO : INSERT PHOTO, apple harvest)"
-msgstr ""
+msgstr "**Fig 2** (TODO : INSERT PHOTO, apple harvest)"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:21
 msgid "Apples"
-msgstr ""
+msgstr "Pommes"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:23
 msgid ""
-"Apples must be picked with a \"rotation gesture\" accompanied by a slight"
-" lift. If the fruit does not come off easily, then it is not mature."
+"Apples must be picked with a \"rotation gesture\" accompanied by a slight "
+"lift. If the fruit does not come off easily, then it is not mature."
 msgstr ""
+"Les pommes doivent être cueillies d’un geste de rotation accompagné d’un léger "
+"soulèvement. Si le fruit ne se détache pas facilement, c’est qu’il n’est pas "
+"mûr."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:24
 msgid ""
-"By hand: Turn the apple while slightly raising and pull gently. Do not "
-"pull down on the fruit."
+"By hand: Turn the apple while slightly raising and pull gently. Do not pull "
+"down on the fruit."
 msgstr ""
+"À la main: Tournez la pomme tout en la levant légèrement et tirez doucement. "
+"Ne tirez pas le fruit vers le bas."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:25
 msgid ""
 "With fruit picking tool: position the metal part around the apple, lift "
 "slightly and rotate (see Fig 2). Do not pull down on the fruit."
 msgstr ""
+"Avec un cueille-fruits: positionnez la partie métallique autour de la pomme, "
+"soulevez légèrement et tournez (voir Fig 2). Ne tirez pas le fruit."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:27
 msgid "Cherries"
-msgstr ""
+msgstr "Cerises"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:29
 msgid ""
-"Cherries should be picked with the stem intact, if possible; otherwise, "
-"they will spoil quickly!"
+"Cherries should be picked with the stem intact, if possible; otherwise, they "
+"will spoil quickly!"
 msgstr ""
+"Cueillez toujours les cerises avec la tige intacte sinon elles se gâteront "
+"rapidement!"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:30
 msgid ""
-"By hand: Grasp the knot at the top of the stem. Either twist or gently "
-"push sideways or upwards, until the knot of the stem comes apart from the"
-" spur. **Do not pull down on the stem. Do not use scissors to cut the "
-"stem**."
+"By hand: Grasp the knot at the top of the stem. Either twist or gently push "
+"sideways or upwards, until the knot of the stem comes apart from the spur. "
+"**Do not pull down on the stem. Do not use scissors to cut the stem**."
 msgstr ""
+"À la main: Saisissez le fruit à l’extrémité de la tige. Ensuite soit tournez "
+"ou tirez doucement sur un côté ou vers le haut, jusqu’à ce que le nœud à "
+"l’extrémité de la tige se défasse de la branche. Ne tirez pas la tige vers le "
+"bas. N’utilisez pas de ciseaux pour couper la tige. "
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:32
 msgid "Plums"
-msgstr ""
+msgstr "Prunes"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:34
 msgid ""
-"Plums can be picked like apples. A ripe plum is easily removed from the "
-"tree."
+"Plums can be picked like apples. A ripe plum is easily removed from the tree."
 msgstr ""
+"Les prunes peuvent être cueillies de la même manière que les pommes. Une prune "
+"mûre se détache facilement."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:35
 msgid "By hand: Turn the fruit gently upward. **Do not pull down on the fruit**."
 msgstr ""
+"À la main: Tournez la prune délicatement vers le haut. **Ne tirez pas le fruit "
+"vers le bas**."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:36
 msgid ""
 "With fruit picking tool: Position the metal part around the plum, lift "
 "slightly and rotate. **Do not pull down on the fruit**."
 msgstr ""
+"Avec un cueille-fruits: Positionnez la partie métallique autour de la prune, "
+"soulevez doucement et tournez. **Ne tirez pas le fruit vers le bas**."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:38
 msgid "Pears"
-msgstr ""
+msgstr "Poires"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:39
 msgid ""
-"Pears can be picked like apples (see section above)– but remember that "
-"they must be picked before they are completely ripe, so removing them "
-"from the tree can be slightly more tricky. Therefore, when harvesting "
-"pears, take extra care not pull on the fruit and damage the spurs!"
+"Pears can be picked like apples (see section above)– but remember that they "
+"must be picked before they are completely ripe, so removing them from the tree "
+"can be slightly more tricky. Therefore, when harvesting pears, take extra care "
+"not pull on the fruit and damage the spurs!"
 msgstr ""
+"Les poires peuvent être cueillies comme des pommes (voir la section ci-dessus) "
+"mais souvenez- vous qu’elles doivent être cueillies avant d’être complètement "
+"mûres, alors parfois les cueillir peut s’avérer un peu plus difficile. Pendant "
+"que vous cueillez les poires, redoublez d’attention à ne pas tirer le fruit "
+"afin de ne pas endommager la branche!"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:41
 msgid "Saskatoon berries"
-msgstr ""
+msgstr "Amélanches"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:42
 msgid "By hand: Pick off berries gently by hand."
-msgstr ""
+msgstr "À la main: Coupez les baies à l’aide d’un sécateur ou des ciseaux."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:44
 msgid "Grapes"
-msgstr ""
+msgstr "Raisins"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:45
 msgid ""
-"By hand: Cut off each bunch of grapes using a pair of scissors or pruning"
-" shears."
-msgstr ""
+"By hand: Cut off each bunch of grapes using a pair of scissors or pruning "
+"shears."
+msgstr "À la main: Coupez les grappes à l’aide d’un sécateur ou de ciseaux."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:47
 msgid "Storage"
-msgstr ""
+msgstr "Entreposage"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:49
 msgid ""
-"**At Santropol Roulant**, all fruits except apples can be put in the "
-"walk-in fridge in the basement of the building (a.k.a. cold room, cold "
-"storage). Apples can be put on the Fruits Défendus shelf unless they are "
-"in danger of rotting. Please don't place containers on the floor of the "
-"walk-in fridge."
+"**At Santropol Roulant**, all fruits except apples can be put in the walk-in "
+"fridge in the basement of the building (a.k.a. cold room, cold storage). "
+"Apples can be put on the Fruits Défendus shelf unless they are in danger of "
+"rotting. Please don't place containers on the floor of the walk-in fridge."
 msgstr ""
+"**Au Santropol Roulant**, tous les fruits sauf les pommes peuvent être mis "
+"dans le réfrigérateur dans le sous-sol. Les pommes peuvent être mises dans "
+"l’étagère des Fruits Défendus sauf si elles sont en danger de pourrir. Svp, ne "
+"déposez pas les conteneurs sur le sol du réfrigérateur."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:51
 msgid ""
-"Soft fruits (cherries, Saskatoon berries, plums, grapes) should be stored"
-" in a way where they do not get crushed under their own weight. "
-"Therefore, use small bags and try not to pile the bags on top of each "
-"other. If you can, we recommend using recyclable plastic produce "
-"containers (rigid packaging used for selling mixed greens, cherry "
-"tomatoes, strawberries, etc.) to transport and store soft fruit. Wooden "
-"boxes used to sell clementines can also be used for this."
+"Soft fruits (cherries, Saskatoon berries, plums, grapes) should be stored in a "
+"way where they do not get crushed under their own weight. Therefore, use small "
+"bags and try not to pile the bags on top of each other. If you can, we "
+"recommend using recyclable plastic produce containers (rigid packaging used "
+"for selling mixed greens, cherry tomatoes, strawberries, etc.) to transport "
+"and store soft fruit. Wooden boxes used to sell clementines can also be used "
+"for this."
 msgstr ""
+"Les fruits “mous” (cerises, amélanches, prunes et raisins) doivent être "
+"entreposés à un endroit où ils ne sont pas écrasés par d’autres fruits plus "
+"lourds. Vous pouvez utiliser de petits sacs en essayant de ne pas remplir le "
+"sac en entier et de ne pas les entasser les uns sur les autres. Nous vous "
+"recommandons d’utiliser des sacs/conteneurs recyclables en plastique (comme "
+"des emballages utilisés pour contenir divers légumes, barquettes de fraises, "
+"tomates, etc.) pour transporter et entreposer les fruits mous. Des cartons en "
+"bois utilisés habituellement pour les clémentines peuvent également être "
+"utilisés."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:52
 msgid ""
-"Pears must be stored in a space where the temperature is around 0 ° C, "
-"e.g. a cool room, otherwise they will continue to mature. Pears stored at"
-" room temperature will mature quickly and can only be eaten for a few "
-"days after picking. If you store un-ripe pears at a cold temperature, you"
-" can pile them on top of each other without a problem."
+"Pears must be stored in a space where the temperature is around 0 ° C, e.g. a "
+"cool room, otherwise they will continue to mature. Pears stored at room "
+"temperature will mature quickly and can only be eaten for a few days after "
+"picking. If you store un-ripe pears at a cold temperature, you can pile them "
+"on top of each other without a problem."
 msgstr ""
-
+"Il convient d’entreposer les poires dans un espace dont la température "
+"avoisine les 0°C, sinon elles continueront à mûrir. Les poires entreposées à "
+"la température ambiante mûriront assez vite et pourront être mangées quelques "
+"jours après la cueillette. Si vous entreposez les poires non-mûres au froid, "
+"vous pouvez les mettre l’une par-dessus l’autre sans problème, par contre, si "
+"elles sont à la température de la salle, il ne faut pas qu’elles soient trop "
+"compactées."
