@@ -4,25 +4,29 @@
 # package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Les Fruits Défendus \n"
+"Project-Id-Version: Les Fruits Défendus\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-21 21:04-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2022-06-06 14:15-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Generated-By: Babel 2.10.1\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: ../../docs/source/harvest-guide/complete-the-pick.md:1
 msgid ""
 "Deliver the fruits to the beneficiary and return the equipment to the "
 "storage site"
 msgstr ""
+"Livrer les fruits au point de chute et rapportez l’équipement au site "
+"d’entreposage"
 
 #: ../../docs/source/harvest-guide/complete-the-pick.md:3
 msgid ""
@@ -30,16 +34,21 @@ msgid ""
 "have gone home. Now it is the time to deliver one third of the fruit to "
 "the beneficiary organization that you have chosen previously."
 msgstr ""
+"Vous avez tout remballé et les bénévoles sont bien repartis chez eux avec "
+"leur part des fruits. Il est maintenant temps de livrer un tiers des "
+"fruits à l’organisme bénéficiaire que vous avez choisi préalablement."
 
 #: ../../docs/source/harvest-guide/complete-the-pick.md:5
 msgid ""
-"When interacting with beneficiary organizations, please be sure to do the"
-" following:"
+"When interacting with beneficiary organizations, please be sure to do the "
+"following:"
 msgstr ""
+"Quand vous communiquez avec les organisations, suivez bien les "
+"instructions suivantes :"
 
 #: ../../docs/source/harvest-guide/complete-the-pick.md:6
 msgid "Introduce yourself and be sure that you are in the right place."
-msgstr ""
+msgstr "Présentez-vous et assurez-vous d’être au bon endroit."
 
 #: ../../docs/source/harvest-guide/complete-the-pick.md:7
 msgid ""
@@ -47,29 +56,40 @@ msgid ""
 "existing partnership with Les Fruits Défendus. Don't forget that you are "
 "representing the collective!"
 msgstr ""
+"Veuillez faire preuve de courtoisie et de patience envers les organismes\n"
+"bénéficiaires. Certains membres du personnel pourraient ne pas être au "
+"courant du partenariat existant avec les Fruits défendus. N’oubliez pas "
+"que vous représentez le collectif !"
 
 #: ../../docs/source/harvest-guide/complete-the-pick.md:8
 msgid ""
-"When parking the bicycle and trailer, remember to park it securely either"
-" by locking it or asking someone to keep an eye on it, or bring it "
-"inside."
+"When parking the bicycle and trailer, remember to park it securely either "
+"by locking it or asking someone to keep an eye on it, or bring it inside."
 msgstr ""
+"Le vélo et la remorque doivent toujours être attachés. Ne les laissez "
+"jamais sans surveillance. Il s’agit de matériel onéreux et facile à voler."
 
 #: ../../docs/source/harvest-guide/complete-the-pick.md:10
 msgid "Return the equipment to the storage site and store it as you found it"
 msgstr ""
+"Rapportez l’équipement au site d’entreposage et rangez-le tel que vous "
+"l’avez trouvé"
 
 #: ../../docs/source/harvest-guide/complete-the-pick.md:12
 msgid ""
 "When returning from a harvest, make sure that you return all of the "
 "equipment to its proper storage location."
 msgstr ""
+"En revenant d’une récolte, assurez-vous de bien replacer l’ensemble du "
+"matériel à l’endroit où vous l’avez trouvé."
 
 #: ../../docs/source/harvest-guide/complete-the-pick.md:14
 msgid ""
 "Check the list of equipment on the \"checklist\" sheet (see pg. 5) to be "
 "sure that nothing is lost or forgotten."
 msgstr ""
+"Consultez la liste des équipements dans la feuille “aide-mémoire” pour "
+"être sûr.e de ne rien avoir perdu ou oublié."
 
 #: ../../docs/source/harvest-guide/complete-the-pick.md:16
 msgid ""
@@ -77,4 +97,7 @@ msgid ""
 "Fruit Buddy so that they can make arrangements to have it fixed or "
 "replaced in time for future picks."
 msgstr ""
-
+"Si une partie du matériel a été perdu ou endommagé pendant la cueillette, "
+"avertissez svp votre « Fruit Buddy » afin que nous puissions nous arranger "
+"pour réparer ou remplacer le matériel en question pour les prochaines "
+"cueillettes."
