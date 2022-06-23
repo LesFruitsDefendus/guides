@@ -61,8 +61,8 @@ if (window.location.pathname.indexOf('/en/') != -1) {
     <!-- And make it visible -->
     link.style.display = "";
     delete link;
-    <!-- french banner -->
-    var banner = document.getElementById('fr-banner');
+    <!-- display english banner -->
+    var banner = document.getElementById('en-banner');
     banner.style.display = "";
     delete banner
 }
@@ -74,8 +74,8 @@ else{
         <!-- And make it visible -->
         link.style.display = "";
         delete link;
-        <!-- english banner -->
-        var banner = document.getElementById('en-banner');
+        <!-- display french banner -->
+        var banner = document.getElementById('fr-banner');
         banner.style.display = "";
         delete banner
     }
