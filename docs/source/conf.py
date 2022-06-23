@@ -77,8 +77,6 @@ else{
 HEADER_HTML = f"""
 <div style="float:left;"></div>
 
-Work in progress... 
-
 <div style="float:right;">
     <a href="https://saskatoon.lesfruitsdefendus.org/">Saskatoon</a>
     |
