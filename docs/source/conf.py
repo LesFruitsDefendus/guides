@@ -61,6 +61,10 @@ if (window.location.pathname.indexOf('/en/') != -1) {
     <!-- And make it visible -->
     link.style.display = "";
     delete link;
+    <!-- french banner -->
+    var banner = document.getElementById('fr-banner');
+    banner.style.display = "";
+    delete banner
 }
 else{
     if (window.location.pathname.indexOf('/fr/') != -1) {
@@ -70,12 +74,19 @@ else{
         <!-- And make it visible -->
         link.style.display = "";
         delete link;
+        <!-- english banner -->
+        var banner = document.getElementById('en-banner');
+        banner.style.display = "";
+        delete banner
     }
 }
 """
 
 HEADER_HTML = f"""
 <div style="float:left;"></div>
+
+<span id="fr-banner" style="display:none;">Guides des Fruits Défendus</span>
+<span id="en-banner" style="display:none;">Les Fruits Défendus' Guides</span>
 
 <div style="float:right;">
     <a href="https://saskatoon.lesfruitsdefendus.org/">Saskatoon</a>
