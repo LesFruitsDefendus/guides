@@ -173,7 +173,7 @@ Or by searching their name under the "Properties" tab (**Fig.I**, **Fig.J**, **F
 <!-- Figure I, J, K -->
 
 
-```{figure} /_static/pre-pick-guide-screenshots/guide-fig-I-properties.png
+```{figure} /_static/pre-pick-guide-screenshots/guide-fig-I-proprietes.png
 ---
 name: fig-I
 alt: Property list
