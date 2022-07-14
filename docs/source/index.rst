@@ -31,7 +31,7 @@ What's new in Saskatoon 2022
 The collective worked hard over the last two years to develop an updated version of Saskatoon.
 We fixed many bugs and added a few improvements. 
 
-Changes that affects pick-leaders
+Changes that affect pick-leaders
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Les Fruits Défendus Guides are now accessible as a public website instead of being PDF documents.
@@ -56,7 +56,7 @@ Changes that affects pick-leaders
   Pick-leader still need to organize with selected pickers.
 
 
-Changes that mostly affects core members
+Changes that mostly affect core members
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - When a pending property has been validated, the tree owner receives a confirmation email. The template looks like the following::
