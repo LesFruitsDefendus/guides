@@ -20,11 +20,11 @@ To begin entering information about the type and quantity of fruit harvested, di
    ---
    name: fig-03
    scale: 10%
-   alt: Adding a new fruits recepient
+   alt: Adding a new fruits recipient
    align: right
    ---
 
-   Figure 03: Adding a new fruits recepient
+   Figure 03: Adding a new fruits recipient
    ```
 
 4. Using the drop-down menu, choose the fruit type under "Tree" ({ref}`Fig 04 <fig-04>`).
