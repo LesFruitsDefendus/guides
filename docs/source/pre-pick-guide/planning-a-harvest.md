@@ -181,7 +181,7 @@ align: left
 scale: 10%
 ---
 
-Figure F2: Property informations
+Figure F2: Property information
 ```
 
 Or by searching their name under the "Properties" tab ({ref}`Fig I <fig-I>`).
@@ -259,12 +259,12 @@ Figure N: Edit property
 ```{figure} /_static/pre-pick-guide-screens/guide-fig-O-editer-propriete.png
 ---
 name: fig-O
-alt: Property additional informations
+alt: Property additional information
 align: left
 scale: 10%
 ---
 
-Figure O: Property additional informations
+Figure O: Property additional information
 ```
 
 It is always a good idea to **visit the tree or vine in person to check the maturity of the fruit**. Be sure to note your observations in the Harvest Comments. See Annex C for tips on how to determine the maturity of the tree's or vine's fruit. It is your responsibility to know when the fruit is ready to be picked – owners do not always know!
@@ -312,12 +312,12 @@ Figure P: Edit the date of the harvest
 ```{figure} /_static/pre-pick-guide-screens/guide-fig-Q-harvest-info-publique.png
 ---
 name: fig-Q
-alt: Add public informations to the harvest
+alt: Add public information to the harvest
 align: left
 scale: 10%
 ---
 
-Figure Q: Add public informations to the harvest
+Figure Q: Add public information to the harvest
 ```
 
 **Note**: We never publish the exact address of the tree in the calendar. This information is provided to volunteers by email after they have signed up.
