@@ -18,7 +18,6 @@ build:
     python: "3.8"
 
 python:
-  system_packages: False
   install:
     - method: pip
       path: .
