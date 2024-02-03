@@ -44,7 +44,7 @@ Figure A2: Saskatoon login form
 ```
 
 
-2) Once you have accessed the main page of Saskatoon (the "Dashboard"), select the "Harvests" tab ({ref}`Fig.B <fig-B>`). This is where you will find a list of harvests that are available to pick-leaders at that particular moment in time. 
+2) Once you have accessed the main page of Saskatoon (the "Dashboard"), select the "Harvests" tab ({ref}`Fig B <fig-B>`). This is where you will find a list of harvests that are available to pick-leaders at that particular moment in time. 
 
 ```{figure} /_static/pre-pick-guide-screens/guide-fig-B-accueil.png
 ---
@@ -58,7 +58,7 @@ Figure B: Saskatoon dashboard
 ```
 
 
-3) Explore all the possible trees and vines. Those that have no pick-leader assigned and are "orphans" ({ref}`Fig.C <fig-C>`) are yours for the taking! Be sure to note the tree's location (neighbourhood) and its scheduled date ({ref}`Fig.C2 <fig-C2>`), which corresponds to its approximate date of fruit maturity. 
+3) Explore all the possible trees and vines. Those that have no pick-leader assigned and are "orphans" ({ref}`Fig C <fig-C>`) are yours for the taking! Be sure to note the tree's location (neighbourhood) and its scheduled date ({ref}`Fig C2 <fig-C2>`), which corresponds to its approximate date of fruit maturity. 
 
   ```{admonition} Important
 
@@ -88,9 +88,9 @@ Figure C2: Harvest filters
 ```
 
 
-4) To learn more about a tree or vine, click on the name of its owner ({ref}`Fig.D <fig-D>`). 
+4) To learn more about a tree or vine, click on the name of its owner ({ref}`Fig D <fig-D>`). 
 
-This will bring you to what we call the "Property Page". There, you will find information about the owner, including contact info. and language preference, and about the property, including important physical attributes and equipment available on- site. Additional information about the harvest itself can be found by clicking on the Harvest ID button further to the left (Fig.D). This will bring you to what we call the "Harvest Page" (for an example, see {ref}`Fig.F <fig-F>`).
+This will bring you to what we call the "Property Page". There, you will find information about the owner, including contact info. and language preference, and about the property, including important physical attributes and equipment available on- site. Additional information about the harvest itself can be found by clicking on the Harvest ID button further to the left ({ref}`Fig D <fig-D>`). This will bring you to what we call the "Harvest Page" (for an example, see {ref}`Fig F <fig-F>`).
 
 ```{figure} /_static/pre-pick-guide-screens/guide-fig-D-detail-arbre.png
 ---
