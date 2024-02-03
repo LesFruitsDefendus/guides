@@ -43,7 +43,6 @@ scale: 20%
 Figure A2: Saskatoon login form
 ```
 
----
 
 2) Once you have accessed the main page of Saskatoon (the "Dashboard"), select the "Harvests" tab ({ref}`Fig.B <fig-B>`). This is where you will find a list of harvests that are available to pick-leaders at that particular moment in time. 
 
@@ -58,7 +57,6 @@ scale: 30%
 Figure B: Saskatoon dashboard
 ```
 
----
 
 3) Explore all the possible trees and vines. Those that have no pick-leader assigned and are "orphans" ({ref}`Fig.C <fig-C>`) are yours for the taking! Be sure to note the tree's location (neighbourhood) and its scheduled date ({ref}`Fig.C2 <fig-C2>`), which corresponds to its approximate date of fruit maturity. 
 
@@ -89,7 +87,6 @@ scale: 10%
 Figure C2: Harvest filters
 ```
 
----
 
 4) To learn more about a tree or vine, click on the name of its owner ({ref}`Fig.D <fig-D>`). 
 
@@ -106,7 +103,6 @@ scale: 10%
 Figure D: Harvest list row
 ```
 
----
 
 <!-- 
 The following is commented because we don't have thir feature yet;
@@ -154,7 +150,6 @@ scale: 10%
 Figure H: Edit harvest form
 ```
 
----
 
 Congratulations! You just adopted a tree or vine to save its fruit! 
 A few important things to keep in mind when adopting trees:
