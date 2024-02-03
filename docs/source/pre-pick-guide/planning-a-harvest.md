@@ -24,9 +24,9 @@ If you need a username or password, contact your fruit buddy or someone from the
 ```{figure} /_static/pre-pick-guide-screens/guide-fig-A-login.png
 ---
 name: fig-A
-scale: 30%
+scale: 15%
 alt: Saskatoon public welcome page
-align: left
+align: right
 ---
 
 Figure A: Saskatoon public welcome page
@@ -37,11 +37,13 @@ Figure A: Saskatoon public welcome page
 name: fig-A2
 alt: Saskatoon login form
 align: right
-scale: 60%
+scale: 20%
 ---
 
 Figure A2: Saskatoon login form
 ```
+
+---
 
 2) Once you have accessed the main page of Saskatoon (the "Dashboard"), select the "Harvests" tab ({ref}`Fig.B <fig-B>`). This is where you will find a list of harvests that are available to pick-leaders at that particular moment in time. 
 
@@ -50,11 +52,13 @@ Figure A2: Saskatoon login form
 name: fig-B
 alt: Saskatoon Dashboard
 align: left
-scale: 60%
+scale: 30%
 ---
 
 Figure B: Saskatoon dashboard
 ```
+
+---
 
 3) Explore all the possible trees and vines. Those that have no pick-leader assigned and are "orphans" ({ref}`Fig.C <fig-C>`) are yours for the taking! Be sure to note the tree's location (neighbourhood) and its scheduled date ({ref}`Fig.C2 <fig-C2>`), which corresponds to its approximate date of fruit maturity. 
 
@@ -68,6 +72,7 @@ Figure B: Saskatoon dashboard
 name: fig-C
 alt: Harvest list
 align: left
+scale: 10%
 ---
 
 Figure C: Harvest list
@@ -78,25 +83,31 @@ Figure C: Harvest list
 name: fig-C2
 alt: Harvest filters
 align: left
+scale: 10%
 ---
 
 Figure C2: Harvest filters
 ```
- 
+
+---
+
 4) To learn more about a tree or vine, click on the name of its owner ({ref}`Fig.D <fig-D>`). 
 
-This will bring you to what we call the "Property Page" (for an example, see {ref}`Fig.M <fig-M>`). There, you will find information about the owner, including contact info. and language preference, and about the property, including important physical attributes and equipment available on- site. Additional information about the harvest itself can be found by clicking on the Harvest ID button further to the left (Fig.D). This will bring you to what we call the "Harvest Page" (for an example, see {ref}`Fig.F <fig-F>`).
+This will bring you to what we call the "Property Page". There, you will find information about the owner, including contact info. and language preference, and about the property, including important physical attributes and equipment available on- site. Additional information about the harvest itself can be found by clicking on the Harvest ID button further to the left (Fig.D). This will bring you to what we call the "Harvest Page" (for an example, see {ref}`Fig.F <fig-F>`).
 
 ```{figure} /_static/pre-pick-guide-screens/guide-fig-D-detail-arbre.png
 ---
 name: fig-D
 alt: Harvest list row
 align: left
+scale: 10%
 ---
 
 Figure D: Harvest list row
 ```
- 
+
+---
+
 <!-- 
 The following is commented because we don't have thir feature yet;
 Until https://github.com/LesFruitsDefendus/saskatoon-ng/pull/294 is merged.
@@ -105,9 +116,9 @@ Until https://github.com/LesFruitsDefendus/saskatoon-ng/pull/294 is merged.
 **Fig.X** (TODO : ADD SCREENSHOT) -->
 
 5) If, after having done your research, you decide you want to lead a pick at that tree or vine:
-    1) In the "Harvests" tab, select your tree or vine's ID number (see **Fig.D**).
-    2) Click "Edit this harvest" (**Fig.F**)
-    3) Change the "Harvest Status" from "Orphan" to "Adopted" using the drop-down menu (**Fig.G**) and select your name as pick-leader (**Fig.H**).
+    1) In the "Harvests" tab, select your tree or vine's ID number (see {ref}`Fig D <fig-D>`).
+    2) Click "Edit this harvest" ({ref}`Fig F <fig-F>`)
+    3) Change the "Harvest Status" from "Orphan" to "Adopted" using the drop-down menu ({ref}`Fig G <fig-G>`) and select your name as pick-leader ({ref}`Fig H <fig-H>`).
     4) Click "Save" at the bottom of the page
 
 ```{figure} /_static/pre-pick-guide-screens/guide-fig-F-orphelin.png
@@ -115,6 +126,7 @@ Until https://github.com/LesFruitsDefendus/saskatoon-ng/pull/294 is merged.
 name: fig-F
 alt: Orphan harvest record
 align: left
+scale: 10%
 ---
 
 Figure F: Orphan harvest record
@@ -125,6 +137,7 @@ Figure F: Orphan harvest record
 name: fig-G
 alt: Edit harvest form
 align: left
+scale: 10%
 ---
 
 Figure G: Edit harvest form
@@ -135,10 +148,13 @@ Figure G: Edit harvest form
 name: fig-H
 alt: Edit harvest form
 align: left
+scale: 10%
 ---
 
-Figure H: Edit harvest form (focus on pick-leader drop-down)
+Figure H: Edit harvest form
 ```
+
+---
 
 Congratulations! You just adopted a tree or vine to save its fruit! 
 A few important things to keep in mind when adopting trees:
@@ -148,26 +164,27 @@ A few important things to keep in mind when adopting trees:
 - **Once you've adopted a harvest**, you are responsible for this tree (see the next steps to understand what this responsibility entails). 
 
 **If, for whatever reason, you cannot lead a pick at a tree or vine you've adopted, you must un-assign yourself from that harvest (aka "unadopt")**. If you fail to do so, we risk missing that tree or vine's fruit! To un-assign yourself from a tree or vine you've adopted, follow these steps:
-  1) In the "Harvests" tab, select your tree or vine's ID number (see **Fig.D**).
-  2) Click "Edit this harvest" (**Fig.F**)
-  3) Change the "Harvest Status" back to "Orphan" using the drop-down menu (**Fig.H**) and remove your name as pick-leader (**Fig.H**).
+  1) In the "Harvests" tab, select your tree or vine's ID number (see {ref}`Fig D <fig-D>`).
+  2) Click "Edit this harvest" ({ref}`Fig F <fig-F>`)
+  3) Change the "Harvest Status" back to "Orphan" using the drop-down menu and remove your name as pick-leader ({ref}`Fig H <fig-H>`).
   4) Click "Save" at the bottom of the page
  
 ## Contact the tree owner to schedule the pick.
 
-It is your responsibility to contact the owner of each tree or vine you've adopted (by phone, email, or in person) to determine the date and time of the pick. Contact information for each owner can be found in Saskatoon by clicking on their name under the "Harvests" tab (see **Fig.D**):
+It is your responsibility to contact the owner of each tree or vine you've adopted (by phone, email, or in person) to determine the date and time of the pick. Contact information for each owner can be found in Saskatoon by clicking on their name under the "Harvests" tab (see {ref}`Fig D <fig-D>`):
 
 ```{figure} /_static/pre-pick-guide-screens/guide-fig-F-orphelin-property-info.png
 ---
 name: fig-F2
 alt: Orphan harvest record
 align: left
+scale: 10%
 ---
 
-Figure F2: Orphan harvest record (focus on property informations)
+Figure F2: Property informations
 ```
 
-Or by searching their name under the "Properties" tab (**Fig.I**, **Fig.J**, **Fig.K**).
+Or by searching their name under the "Properties" tab ({ref}`Fig I <fig-I>`).
 
 <!-- Figure I, J, K -->
 
@@ -177,21 +194,23 @@ Or by searching their name under the "Properties" tab (**Fig.I**, **Fig.J**, **F
 name: fig-I
 alt: Property list
 align: left
+scale: 10%
 ---
 
 Figure I: Property list
 ```
 
-Always consult the pick calendar (**Fig.L**) before choosing a date and time, to avoid scheduling conflicts with other picks. Note that two picks can take place at the same time if the pick-leaders use equipment located at different storage locations; in such cases, however, it is always a good idea to contact the pick-leader of the conflicting time slot to confirm who is using what.
+Always consult the pick calendar ({ref}`Fig L <fig-L>`) before choosing a date and time, to avoid scheduling conflicts with other picks. Note that two picks can take place at the same time if the pick-leaders use equipment located at different storage locations; in such cases, however, it is always a good idea to contact the pick-leader of the conflicting time slot to confirm who is using what.
 
 ```{figure} /_static/pre-pick-guide-screens/guide-fig-L-calendrier.png
 ---
 name: fig-L
 alt: Calendar view
 align: left
+scale: 10%
 ---
 
-Figure L: Calendar view (authenticated user)
+Figure L: Authenticated calendar view
 ```
 
 To ensure that you have enough time for picking, cleanup, and delivery of the fruit, plan your picks no less than four (4) hours before the closing of your chosen material storage location. If an exception is necessary, discuss with your fruit buddy. See Annex B (TODO: Add link to equipment points in Saskatoon)) for the opening hours of our equipment points.
@@ -211,25 +230,27 @@ be left. Ask them to provide one or more containers (preferably with lids, if po
   From season to season, it can help new pick-leaders gauge timelines and expectations when dealing with the same trees and vines. Therefore, make sure you record the information you collect each time you communicate with the tree owner.
   ```
 
-- For information regarding the particular pick you are leading (short term information), add your notes into the Harvest Comments by clicking on "New Comment" when viewing the Harvest Page (**Fig.F3**).
+- For information regarding the particular pick you are leading (short term information), add your notes into the Harvest Comments by clicking on "New Comment" when viewing the Harvest Page ({ref}`Fig F3 <fig-F3>`).
 
 ```{figure} /_static/pre-pick-guide-screens/guide-fig-F-orphelin-comment.png
 ---
 name: fig-F3
 alt: Add a comment to an harvest
 align: left
+scale: 10%
 ---
 
 Figure F3: Add a comment to an harvest
 ```
 
-- For all information concerning the tree itself or the owner (long term information), add your notes to the property page. You can do this by clicking "Edit property" when viewing the property page (**Fig.N**). Most notes can be added to the "Additional Information" section (**Fig.O**).
+- For all information concerning the tree itself or the owner (long term information), add your notes to the property page. You can do this by clicking "Edit property" when viewing the property page ({ref}`Fig N <fig-N>`). Most notes can be added to the "Additional Information" section ({ref}`Fig O <fig-O>`).
 
 ```{figure} /_static/pre-pick-guide-screens/guide-fig-N-propriete.png
 ---
 name: fig-N
 alt: Edit property
 align: left
+scale: 10%
 ---
 
 Figure N: Edit property
@@ -238,16 +259,17 @@ Figure N: Edit property
 ```{figure} /_static/pre-pick-guide-screens/guide-fig-O-editer-propriete.png
 ---
 name: fig-O
-alt: Add additional informations to a property
+alt: Property additional informations
 align: left
+scale: 10%
 ---
 
-Figure O: Add additional informations to a property
+Figure O: Property additional informations
 ```
 
 It is always a good idea to **visit the tree or vine in person to check the maturity of the fruit**. Be sure to note your observations in the Harvest Comments. See Annex C for tips on how to determine the maturity of the tree's or vine's fruit. It is your responsibility to know when the fruit is ready to be picked – owners do not always know!
 
-You always need to have the consent of the owner before harvesting their tree or vine. If you don't succeed in contacting the owner before it's too late for the fruit*, cancel the pick by updating the tree/vine's status to "cancelled" (similar to **Fig.F,G,H**) and leave a note in the Harvest Comments section (see **Fig.F3**) explaining why the pick was cancelled.
+You always need to have the consent of the owner before harvesting their tree or vine. If you don't succeed in contacting the owner before it's too late for the fruit*, cancel the pick by updating the tree/vine's status to "cancelled" (similar to  {ref}`Fig F <fig-F>`, {ref}`Fig G <fig-G>`, {ref}`Fig H <fig-H>`) and leave a note in the Harvest Comments section (see {ref}`Fig F3 <fig-F3>`) explaining why the pick was cancelled.
 
 *If you need help determining whether it's too late for the fruit you want to pick, ask your fruit buddy or pass by the tree/vine to have a look for yourself. If you go in person and find fruit still on the tree/vine, use the information in **Annex C** to gauge the fruit's maturity.
 
@@ -265,10 +287,10 @@ In 2019, we coordinated with some community fridges to expand our donations poss
 
 Once you have chosen a harvest date with the tree or vine's owner and you have found an organization to receive your fruit, you are now ready to announce the pick to our volunteers! We do this by publishing the picks in Saskatoon's pick calendar.
 
-Before publishing the pick on the calendar, go to the "Edit Harvest" page (**see Fig.F**) and verify/input the following:
-- The date and time of the pick, as determined with the owner, in 24-hour format (**Fig.P**).
-- The number of pickers necessary (this does not need to be changed unless you've determined with the owner that more or fewer pickers will be needed) (**Fig.P**).
-- The "Public announcement" section, which should include any information about the pick that you'd like to make visible to prospective pickers, e.g. you're looking for volunteers to help with transport of fruit to the beneficiary organization after the pick, or maybe the tree is particularly beautiful (**Fig.Q**). 
+Before publishing the pick on the calendar, go to the "Edit Harvest" page (see {ref}`Fig F <fig-F>`) and verify/input the following:
+- The date and time of the pick, as determined with the owner, in 24-hour format ({ref}`Fig P <fig-P>`).
+- The number of pickers necessary (this does not need to be changed unless you've determined with the owner that more or fewer pickers will be needed) ({ref}`Fig P <fig-P>`).
+- The "Public announcement" section, which should include any information about the pick that you'd like to make visible to prospective pickers, e.g. you're looking for volunteers to help with transport of fruit to the beneficiary organization after the pick, or maybe the tree is particularly beautiful ({ref}`Fig Q <fig-Q>`). 
 
   ```{admonition} Attention
   :class: warning
@@ -281,6 +303,7 @@ Before publishing the pick on the calendar, go to the "Edit Harvest" page (**see
 name: fig-P
 alt: Edit the date of the harvest
 align: left
+scale: 10%
 ---
 
 Figure P: Edit the date of the harvest
@@ -291,6 +314,7 @@ Figure P: Edit the date of the harvest
 name: fig-Q
 alt: Add public informations to the harvest
 align: left
+scale: 10%
 ---
 
 Figure Q: Add public informations to the harvest
@@ -308,24 +332,26 @@ When a volunteer signs up for a pick, you will receive an automatic email, and a
 name: fig-R
 alt: Manage volunteer pickers participation
 align: left
+scale: 10%
 ---
 
 Figure R: Manage volunteer pickers participation
 ```
 
-In the "Pickers" section of the harvest page (**Fig.R**), you can manage your pick requests. Here, you can see comments that were added by each person requesting to volunteer. You may change the status of their request to "accepted" or "declined" and you may add your own comments (**Fig.S**). However, please note that **any information you update here is not visible to the potential volunteers**. Currently this information is only visible to those who can log in to Saskatoon. This means that **you will need to contact each hopeful picker yourself directly by phone or email to let him/her know if you have accepted or declined his/her request to participate in the harvest**. (TODO: Update this with latest Saskatoon workflow. Saskatoon will send automatic emails to notice pickers if their participation is declined)
+In the "Pickers" section of the harvest page ({ref}`Fig R <fig-R>`), you can manage your pick requests. Here, you can see comments that were added by each person requesting to volunteer. You may change the status of their request to "accepted" or "declined" and you may add your own comments ({ref}`Fig S <fig-S>`). However, please note that **any information you update here is not visible to the potential volunteers**. Currently this information is only visible to those who can log in to Saskatoon. This means that **you will need to contact each hopeful picker yourself directly by phone or email to let him/her know if you have accepted or declined his/her request to participate in the harvest**. (TODO: Update this with latest Saskatoon workflow. Saskatoon will send automatic emails to notice pickers if their participation is declined)
 
 ```{figure} /_static/pre-pick-guide-screens/guide-fig-S-pickers-update.png
 ---
 name: fig-S
 alt: Update volunteer picker participation
 align: left
+scale: 10%
 ---
 
 Figure S: Update volunteer picker participation
 ```
 
-After a sufficient number of volunteers have signed up, change the pick status to "Ready" (similar to **Fig.G**).
+After a sufficient number of volunteers have signed up, change the pick status to "Ready" (similar to {ref}`Fig G <fig-G>`).
 
 When assembling your team, please give priority to the first-time harvesters, those who have never done a pick. Ideally, at least one spot per pick can be reserved for new pickers. If you have requested help with transporting equipment or fruit, you may give priority to those who agreed to help you.
 
