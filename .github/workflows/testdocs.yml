@@ -18,6 +18,7 @@ jobs:
 
     - name: Install requirements
       run: |
+        brew update
         brew install enchant
         python -m pip install --upgrade wheel
         python -m pip install --upgrade pip 
