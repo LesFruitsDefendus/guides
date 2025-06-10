@@ -32,7 +32,7 @@ jobs:
     
     - name: Run tests (English)
       run: |
-        tox -e testdocs
+        tox -e testdocs || cat /tmp/sphinx-err*.log && exit 1
 
     - name: Run tests (French)
       run: |
