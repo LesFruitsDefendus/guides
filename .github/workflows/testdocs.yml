@@ -18,6 +18,7 @@ jobs:
 
     - name: Install requirements
       run: |
+        sudo apt update
         sudo apt install libenchant-2-dev
         python -m pip install --upgrade wheel
         python -m pip install --upgrade pip 
