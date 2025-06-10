@@ -25,6 +25,7 @@ Auth
 neighbour
 neighbours
 neighbourhood
+neighbourhoods
 cancelled
 cancelling
 labelled
