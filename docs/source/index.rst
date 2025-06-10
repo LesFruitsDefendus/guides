@@ -3,10 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Documentation index
-===================
-
-This is Les Fruits Défendus main documentation.
+Les Fruits Défendus' Guides
+===========================
 
 It includes documentation about the Saskatoon harvest management system
 as well as pick-leaders harvest guides.

@@ -9,11 +9,11 @@ import os
 # -- Project information -----------------------------------------------------
 
 project = 'Les Fruits Défendus'
-copyright = '2022, Les Fruits Défendus'
+copyright = '2025, Les Fruits Défendus'
 author = 'Les Fruits Défendus'
 
 # The full version, including alpha/beta/rc tags
-release = '2022'
+release = '2025'
 
 
 # -- General configuration ---------------------------------------------------
@@ -49,8 +49,7 @@ tokenizer_lang = spelling_lang = os.getenv('SPHINX_SPLELLING_LANG') or 'en_CA'
 #
 html_theme = 'sphinx_book_theme'
 
-# html_title = "Your title"
-html_logo = "_static/lfd.png"
+html_title = "Les Fruits Défendus"
 
 # JS to swicth language easily
 JS_LANG = """
@@ -83,12 +82,10 @@ else{
 """
 
 HEADER_HTML = f"""
-<div style="float:left;"></div>
-
-<span id="fr-banner" style="display:none;">Guides des Fruits Défendus</span>
-<span id="en-banner" style="display:none;">Les Fruits Défendus' Guides</span>
-
-<div style="float:right;">
+<div class="lang-toogle">
+    <span id="fr-banner" style="display:none;">Guides des Fruits Défendus</span>
+    <span id="en-banner" style="display:none;">Les Fruits Défendus' Guides</span>
+    |
     <a href="https://saskatoon.lesfruitsdefendus.org/">Saskatoon</a>
     |
     <a id="en-docs-link" href="/en/latest/" style="display:none;">English</a>
@@ -108,10 +105,13 @@ html_theme_options = {
     "use_edit_page_button": True,
     "use_issues_button": True,
     "use_download_button": True,
-    "logo_only": True,
     "home_page_in_toc": True,
     "show_navbar_depth": 3,
     "announcement": HEADER_HTML,
+    "logo": {
+      "image_light": "_static/logo-light.png",
+      "image_dark": "_static/logo-dark.png",
+   }
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
