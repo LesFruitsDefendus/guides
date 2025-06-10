@@ -6,7 +6,7 @@ on:
     branches: [ master ]
 jobs:
   test:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v4
@@ -18,8 +18,7 @@ jobs:
 
     - name: Install requirements
       run: |
-        brew update
-        brew install enchant
+        sudo apt install libenchant-2-dev
         python -m pip install --upgrade wheel
         python -m pip install --upgrade pip 
         python -m pip install --upgrade tox
