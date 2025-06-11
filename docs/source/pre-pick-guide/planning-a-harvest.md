@@ -24,7 +24,7 @@ If you need a username or password, contact your fruit buddy or someone from the
 ```{figure} /_static/pre-pick-guide-screens/guide-fig-A-login.png
 ---
 name: fig-A
-scale: 15%
+scale: 20%
 alt: Saskatoon public welcome page
 align: right
 ---
@@ -37,7 +37,7 @@ Figure A: Saskatoon public welcome page
 name: fig-A2
 alt: Saskatoon login form
 align: right
-scale: 20%
+scale: 30%
 ---
 
 Figure A2: Saskatoon login form
@@ -50,8 +50,8 @@ Figure A2: Saskatoon login form
 ---
 name: fig-B
 alt: Saskatoon Dashboard
-align: left
-scale: 30%
+align: right
+scale: 20%
 ---
 
 Figure B: Saskatoon dashboard
@@ -104,18 +104,19 @@ Figure D: Harvest list row
 ```
 
 
-<!-- 
-The following is commented because we don't have thir feature yet;
-Until https://github.com/LesFruitsDefendus/saskatoon-ng/pull/294 is merged.
 
-5) If, after having done your research, you decide you want to lead a pick at that tree or vine, "adopt" it by clicking the harvest ID number (**Fig.F**) and then clicking the "adopt" button (**Fig.X**).
-**Fig.X** (TODO : ADD SCREENSHOT) -->
+5) If, after having done your research, you decide you want to lead a pick at that tree or vine, "adopt" it by opening the harvest record and then clicking the "adopt" button ({ref}`Fig F1 <fig-F1>`).
 
-5) If, after having done your research, you decide you want to lead a pick at that tree or vine:
-    1) In the "Harvests" tab, select your tree or vine's ID number (see {ref}`Fig D <fig-D>`).
-    2) Click "Edit this harvest" ({ref}`Fig F <fig-F>`)
-    3) Change the "Harvest Status" from "Orphan" to "Adopted" using the drop-down menu ({ref}`Fig G <fig-G>`) and select your name as pick-leader ({ref}`Fig H <fig-H>`).
-    4) Click "Save" at the bottom of the page
+```{figure} /_static/pre-pick-guide-screens/guide-fig-F1-orphelin.png
+---
+name: fig-F1
+alt: Adopt an orphan harvest
+align: left
+scale: 50%
+---
+
+Figure F1: Adopt an orphan harvest button
+```
 
 ```{figure} /_static/pre-pick-guide-screens/guide-fig-F-orphelin.png
 ---
@@ -127,6 +128,13 @@ scale: 10%
 
 Figure F: Orphan harvest record
 ```
+
+Congratulations! You just adopted a tree or vine to save its fruit! 
+A few important things to keep in mind when adopting trees:
+
+- Try to give priority to those with earlier due dates (these are more urgent).
+- Try not to choose too many trees with pick dates that are close to each other, so that you do not become overwhelmed. It's important to keep in mind that scheduling a harvest is dependent on many unpredictable variables (weather, your schedule, the tree owner's schedule, etc.). We request that you not adopt more than three (3) harvests at the same time.
+- **Once you've adopted a harvest**, you are responsible for this tree (see the next steps to understand what this responsibility entails). 
 
 ```{figure} /_static/pre-pick-guide-screens/guide-fig-G-adopte.png
 ---
@@ -149,14 +157,6 @@ scale: 10%
 
 Figure H: Edit harvest form
 ```
-
-
-Congratulations! You just adopted a tree or vine to save its fruit! 
-A few important things to keep in mind when adopting trees:
-
-- Try to give priority to those with earlier due dates (these are more urgent).
-- Try not to choose too many trees with pick dates that are close to each other, so that you do not become overwhelmed. It's important to keep in mind that scheduling a harvest is dependent on many unpredictable variables (weather, your schedule, the tree owner's schedule, etc.). We request that you not adopt more than three (3) harvests at the same time.
-- **Once you've adopted a harvest**, you are responsible for this tree (see the next steps to understand what this responsibility entails). 
 
 **If, for whatever reason, you cannot lead a pick at a tree or vine you've adopted, you must un-assign yourself from that harvest (aka "unadopt")**. If you fail to do so, we risk missing that tree or vine's fruit! To un-assign yourself from a tree or vine you've adopted, follow these steps:
   1) In the "Harvests" tab, select your tree or vine's ID number (see {ref}`Fig D <fig-D>`).
@@ -208,7 +208,7 @@ scale: 10%
 Figure L: Authenticated calendar view
 ```
 
-To ensure that you have enough time for picking, cleanup, and delivery of the fruit, plan your picks no less than four (4) hours before the closing of your chosen material storage location. If an exception is necessary, discuss with your fruit buddy. See Annex B (TODO: Add link to equipment points in Saskatoon)) for the opening hours of our equipment points.
+To ensure that you have enough time for picking, cleanup, and delivery of the fruit, plan your picks no less than four (4) hours before the closing of your chosen material storage location. If an exception is necessary, discuss with your fruit buddy or core members. See the Equipment Points page for the opening hours of our equipment points.
 
 Since a member of the fruit group should have already contacted the owner, their will be waiting for your call. Theoretically, all relevant information should have already been gathered and entered into Saskatoon by the fruit group. However, if you find that information you might need is missing, do ask the tree owner. Some questions fruit groups do not pose to owners, but which might be relevant, include:
 
