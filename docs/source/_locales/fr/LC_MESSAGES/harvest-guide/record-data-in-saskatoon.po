@@ -116,7 +116,6 @@ msgstr ""
 " la page des récoltes, consultez svp le guide de pré-cueillette."
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:17
-#, fuzzy, python-brace-format
 msgid ""
 "Scroll down to the section near the bottom of the Harvest page called "
 "\"Distribution of fruit\". Click on the \"+\" button at the upper right "
@@ -124,32 +123,32 @@ msgid ""
 msgstr ""
 "Descendez jusqu’à la section située en bas de la page de la récolte "
 "nommée “distribution de fruits”. Cliquez sur le “+” en haut à droite de "
-"cette section (**Fig. 3**)."
+"cette section ({ref}`Fig 03 <fig-03>`)."
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:19
 msgid "Adding a new fruits recipient"
-msgstr ""
+msgstr "Ajouter un nouveau bénéficiaire de fruits"
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:27
 msgid "Figure 03: Adding a new fruits recipient"
-msgstr ""
+msgstr "Figure 03: Ajouter un nouveau bénéficiaire de fruits"
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:30
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid ""
 "Using the drop-down menu, choose the fruit type under \"Tree\" ({ref}`Fig"
 " 04 <fig-04>`)."
 msgstr ""
 "En utilisant le menu déroulant, choisissez le type de fruit dans la "
-"section “tree” (**Fig. 4**)."
+"section “tree” ({ref}`Fig 04 <fig-04>`)."
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:32
 msgid "Choosing fruit, recipient and weigh"
-msgstr ""
+msgstr "Choix du fruit, du bénéficiaire et du poids"
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:40
 msgid "Figure 04: Choosing fruit, recipient and weigh"
-msgstr ""
+msgstr "Figure 04: Choix du fruit, du bénéficiaire et du poids"
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:43
 msgid ""
@@ -196,15 +195,15 @@ msgid ""
 msgstr ""
 "Une fois que vous avez fini cette étape, le poids total de votre "
 "cueillette pourra se voir en bas de la section “distribution de fruits” "
-"et correspondra au poids total que vous avez cueilli. (**Fig. 5**)."
+"et correspondra au poids total que vous avez cueilli. ({ref}`Fig 05 <fig-05>`)."
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:50
 msgid "Total balance"
-msgstr ""
+msgstr "Total récolté"
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:58
 msgid "Figure 05: Total balances"
-msgstr ""
+msgstr "Figure 05: Total de la récolte"
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:61
 #, fuzzy, python-brace-format
@@ -221,15 +220,15 @@ msgstr ""
 "prochaines récoltes sur cette propriété. Pour ajouter des commentaires "
 "sur chaque bénévole qui a participé, cliquez dans la section “Cueilleurs”"
 " sur le bouton jaune orangé carré sur la droite de la section en-dessous "
-"de la colonne “Action” (**Fig 6**)."
+"de la colonne “Action” ({ref}`Fig 06 <fig-06>`)."
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:63
 msgid "Manager pick leader requests"
-msgstr ""
+msgstr "Gestion des demandes de cueilleur.euse.s "
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:71
 msgid "Figure 06: Manager pick leader requests"
-msgstr ""
+msgstr "Figure 06: Gestion des demandes de cueilleur.euse.s"
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:74
 #, fuzzy, python-brace-format
@@ -243,21 +242,21 @@ msgid ""
 "in your comments, however."
 msgstr ""
 "Sous la section “Gérer la demande,” cochez le cercle qui correspond à la "
-"participation effective du cueilleur bénévole (**Fig. 7, item 1**). Si "
+"participation effective du cueilleur bénévole. Si "
 "vous avez des commentaires utiles pour des futures cueillettes, vous "
 "pouvez les ajouter dans l’espace de commentaire en- dessous [par exemple "
 "“Elle avait beaucoup d’énergie et elle a beaucoup aidé” or “Le cueilleur "
 "ne s’est jamais présenté à la cueillette et ne m’a pas contacté avant ou "
-"après la cueillette pour me tenir au courant”] (**Fig. 7, item 2**). Nous"
+"après la cueillette pour me tenir au courant”] ({ref}`Fig 07 <fig-07>`). Nous"
 " vous demandons svp de faire des commentaires constructifs pour tous."
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:76
 msgid "Adding a note to a picker participation"
-msgstr ""
+msgstr "Ajout d'une note de participation a la cueillette"
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:84
 msgid "Figure 07: Adding a note to a picker participation"
-msgstr ""
+msgstr "Figure 07: Ajout d'une note de participation a la cueillette"
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:87
 msgid ""
@@ -276,16 +275,16 @@ msgid ""
 msgstr ""
 "Maintenant, la dernière étape consiste à changer une dernière fois le "
 "statut de votre récolte. Sur le coin en haut à droite de la page de la "
-"cueillette, cliquez sur le bouton jaune orangé “modifier récolte” (**Fig."
-" 8**)."
+"cueillette, cliquez sur le bouton jaune orangé \"modifier récolte\""
+" ({ref}`Fig 08 <fig-08>`)."
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:92
 msgid "Edit harvest"
-msgstr ""
+msgstr "Éditer la récolte"
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:100
 msgid "Figure 08: Edit harvest"
-msgstr ""
+msgstr "Figure 08: Éditer la récolte"
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:103
 #, fuzzy, python-brace-format
@@ -294,15 +293,15 @@ msgid ""
 "\"Succeeded\" ({ref}`Fig 09 <fig-09>`)."
 msgstr ""
 "À l’aide du menu déroulant “Status de la récolte”, changez pour “Réussie”"
-" (**Fig. 9**)."
+" ({ref}`Fig 09 <fig-09>`)."
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:105
 msgid "Edit harvest form"
-msgstr ""
+msgstr "Formulaire d'édition de récolte"
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:113
 msgid "Figure 09: Edit harvest form"
-msgstr ""
+msgstr "Figure 09: Formulaire d'édition de récolte"
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:116
 msgid ""
@@ -341,15 +340,15 @@ msgid ""
 msgstr ""
 "De retour sur la page de récolte, assurez-vous d’ajouter toutes les "
 "informations pertinentes à propos de la cueillette dans la section "
-"“commentaires” en cliquant sur le “+” (**Fig. 10**)."
+"“commentaires” en cliquant sur le “+” ({ref}`Fig 10 <fig-10>`)."
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:121
 msgid "Add comment"
-msgstr ""
+msgstr "Ajouter un commentaire"
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:129
 msgid "Figure 10: Add comment"
-msgstr ""
+msgstr "Figure 10: Ajouter un commentaire"
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:132
 #, fuzzy, python-brace-format
@@ -358,15 +357,15 @@ msgid ""
 "({ref}`Fig 11 <fig-11>`)."
 msgstr ""
 "Notez votre commentaire dans la section qui s’ouvre à l’écran et cliquez "
-"sur le bouton “Enregistrer” (**Fig. 11**)."
+"sur le bouton “Enregistrer” ({ref}`Fig 11 <fig-11>`)."
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:134
 msgid "Comment form"
-msgstr ""
+msgstr "Formulaire de commentaire"
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:142
 msgid "Figure 11: Comment form"
-msgstr ""
+msgstr "Figure 11: Formulaire de commentaire"
 
 #: ../../docs/source/harvest-guide/record-data-in-saskatoon.md:145
 msgid ""

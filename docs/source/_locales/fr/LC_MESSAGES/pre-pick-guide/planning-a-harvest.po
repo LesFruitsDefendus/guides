@@ -110,26 +110,25 @@ msgstr ""
 "Rendez-vous sur la page de Saskatoon : saskatoon.lesfruitsdefendus.org. "
 "Connectez-vous en appuyant sur le bouton en haut à droite de l’écran « se"
 " connecter » et entrez votre nom d’utilisateur et votre mot de passe. "
-"**(Fig.3)**. **Fig.3** (TODO : ADD SCREENSHOT)"
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:24
 msgid "Saskatoon public welcome page"
-msgstr ""
+msgstr "Page d'accueil publique de Saskatoon"
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:32
 msgid "Figure A: Saskatoon public welcome page"
-msgstr ""
+msgstr "Figure A: Page d'accueil publique de Saskatoon"
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:35
 msgid "Saskatoon login form"
-msgstr ""
+msgstr "Formulaire de connexion de Saskatoon"
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:43
 msgid "Figure A2: Saskatoon login form"
-msgstr ""
+msgstr "Figure A2: Formulaire de connexion de Saskatoon"
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:47
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid ""
 "Once you have accessed the main page of Saskatoon (the \"Dashboard\"), "
 "select the \"Harvests\" tab ({ref}`Fig B <fig-B>`). This is where you "
@@ -138,16 +137,16 @@ msgid ""
 msgstr ""
 "Une fois que vous êtes sur la page principale de Saskatoon (le « "
 "Dashboard »), cliquez sur l’onglet « Récoltes » sur le côté gauche de la "
-"page **(Fig.4)**. C’est à cet endroit que vous trouverez la liste des "
-"récoltes disponibles en ce moment. **Fig.4** (TODO : ADD SCREENSHOT)"
+"page ({ref}`Fig B <fig-B>`). C’est à cet endroit que vous trouverez la liste des "
+"récoltes disponibles en ce moment."
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:49
 msgid "Saskatoon Dashboard"
-msgstr ""
+msgstr "Dashboard de Saskatoon"
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:57
 msgid "Figure B: Saskatoon dashboard"
-msgstr ""
+msgstr "Figure B: Dashboard de Saskatoon"
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:61
 #, fuzzy, python-brace-format
@@ -159,41 +158,40 @@ msgid ""
 "approximate date of fruit maturity."
 msgstr ""
 "Parcourez les arbres et vignes disponibles. Ceux qui n’ont pas de "
-"chef.fe.s de cueillette assigné.e.s sont « orphelins » (Fig.5) et peuvent"
+"chef.fe.s de cueillette assigné.e.s sont « orphelins » ({ref}`Fig C <fig-C>`) et peuvent"
 " être sélectionnés. Renseignez-vous sur la localisation exacte de l’arbre"
 " en question et sur la date à laquelle les fruits devraient entrer à "
-"maturité, ce qui correspond à la colonne « Date » (Fig.6). **Commentaire "
-": Il faut contacter le propriétaire d’arbre plusieurs semaines à l’avance"
-" de la date approximative. De cette façon, nous évitons de manquer la "
-"vraie date de mûrissement!** **Fig.5** (TODO : ADD SCREENSHOT) **Fig.6** "
-"(TODO : ADD SCREENSHOT)"
+"maturité, ce qui correspond à la colonne « Date » ({ref}`Fig C2 <fig-C2>`)."
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:63
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:361
 msgid "Important"
-msgstr "IMPORTANT"
+msgstr "Important"
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:65
 msgid ""
 "You must contact the tree owner several weeks before the approximate "
 "default date. This way, we do not miss the actual due date."
 msgstr ""
+"Il faut contacter le propriétaire d’arbre plusieurs semaines à l’avance"
+" de la date approximative. De cette façon, nous évitons de manquer la "
+"vraie date de mûrissement!"
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:68
 msgid "Harvest list"
-msgstr ""
+msgstr "Liste des récoltes"
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:76
 msgid "Figure C: Harvest list"
-msgstr ""
+msgstr "Figure C: Liste des récoltes"
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:79
 msgid "Harvest filters"
-msgstr ""
+msgstr "Filtres applicables à la liste des récoltes"
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:87
 msgid "Figure C2: Harvest filters"
-msgstr ""
+msgstr "Figure C2: Filtres applicables à la liste des récoltes"
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:91
 #, python-brace-format
@@ -201,6 +199,9 @@ msgid ""
 "To learn more about a tree or vine, click on the name of its owner "
 "({ref}`Fig D <fig-D>`)."
 msgstr ""
+"Pour en apprendre plus à propos d’un arbre ou d’une vigne, cliquez sur le"
+" nom de son propriétaire ({ref}`Fig D <fig-D>`)"
+
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:93
 #, fuzzy, python-brace-format
@@ -214,18 +215,16 @@ msgid ""
 " what we call the \"Harvest Page\" (for an example, see {ref}`Fig F "
 "<fig-F>`)."
 msgstr ""
-"Pour en apprendre plus à propos d’un arbre ou d’une vigne, cliquez sur le"
-" nom de son propriétaire (**Fig.7, item #1**). Cela vous amènera jusqu’à "
-"la page d’information sur le propriétaire (par exemple, voir **Fig.15**)."
+"Cela vous amènera jusqu’à "
+"la page d’information sur le propriétaire."
 " Vous trouverez un certain nombre d’informations comme le contact, la "
 "langue dans lequel il ou elle préfère communiquer et des informations "
 "relatives à la propriété, notamment certains importants aspects physiques"
 " de la maison et une liste des équipements disponibles sur place. Des "
 "informations supplémentaires concernant la cueillette peuvent être "
 "trouvées en cliquant sur les numéros dans la colonne « Id », première à "
-"gauche du tableau (**Fig.7, item #2**). Cela vous amènera à ce que nous "
-"appelons la page des « récoltes » (pour un exemple, voir **Fig.8**). "
-"**Fig.7** (TODO : ADD SCREENSHOT)"
+"gauche du tableau ({ref}`Fig D <fig-D>`). Cela vous amènera à "
+"la page d'information de la récolte (pour un exemple, voir {ref}`Fig F <fig-F>`). "
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:95
 msgid "Harvest list row"
@@ -249,13 +248,13 @@ msgid ""
 "{ref}`Fig D <fig-D>`)."
 msgstr ""
 "Dans le tableau des récoltes, sélectionnez le numéro ID de votre arbre "
-"(voir **Fig 7, item #2**)."
+"(voir {ref}`Fig D <fig-D>`)."
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:116
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:163
 #, fuzzy, python-brace-format
 msgid "Click \"Edit this harvest\" ({ref}`Fig F <fig-F>`)"
-msgstr "Cliquez sur “Modifier cette récolte” (**Fig 9**)"
+msgstr "Cliquez sur “Modifier cette récolte” ({ref}`Fig F <fig-F>`)"
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:117
 #, fuzzy, python-brace-format
@@ -264,10 +263,9 @@ msgid ""
 "drop-down menu ({ref}`Fig G <fig-G>`) and select your name as pick-leader"
 " ({ref}`Fig H <fig-H>`)."
 msgstr ""
-"Changez le « statut de la récolte » pour « Orphelin » (**Fig.10**) et "
+"Changez le « statut de la récolte » pour « Orphelin » ({ref}`Fig G <fig-G>`) et "
 "retirer votre nom en tant que chef.fe de cueillette pour cet arbre "
-"(**Fig.11**). **Fig.10** (TODO : ADD SCREENSHOT) **Fig.11** (TODO : ADD "
-"SCREENSHOT)"
+"({ref}`Fig H <fig-H>`)."
 
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:118
 #: ../../docs/source/pre-pick-guide/planning-a-harvest.md:165

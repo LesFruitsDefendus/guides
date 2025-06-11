@@ -49,7 +49,7 @@ msgstr ""
 
 #: ../../docs/source/index.rst:27
 msgid "What's new in Saskatoon 2022"
-msgstr ""
+msgstr "Quoi de neuf dans Saskatoon 2022"
 
 #: ../../docs/source/index.rst:29
 msgid ""
