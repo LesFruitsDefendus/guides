@@ -8,21 +8,20 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Les Fruits Défendus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-21 21:04-0400\n"
+"POT-Creation-Date: 2026-10-29 11:53-0400\n"
 "PO-Revision-Date: 2022-06-06 16:48-0400\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: \n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"Generated-By: Babel 2.10.1\n"
-"X-Generator: Poedit 3.0.1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
 
 #: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:1
 msgid "Annex A: Beneficiary organizations"
-msgstr "Annexe A: Organismes bénéficiaires"
+msgstr "Annexe A : Organismes bénéficiaires"
 
 #: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:3
 msgid ""
@@ -43,3 +42,249 @@ msgstr ""
 "Durant la saison des récoltes, notre liste d’organismes bénéficiaires "
 "sera mise à jour régulièrement. Donc, référez-vous à la liste la plus à "
 "jour sur Saskatoon."
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:7
+msgid "Decision Tree: Where Should You Donate Your Harvest?"
+msgstr "Arbre décisionnel : où donner sa récolte?"
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:9
+msgid "**Identify potential recipient organizations**"
+msgstr "**Repérer les organismes bénéficiaires potentiels**"
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:10
+msgid "Open the list of beneficiary organizations in the software."
+msgstr "Ouvrez la liste des organismes bénéficiaires dans le logiciel."
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:11
+msgid ""
+"Filter by the neighbourhood where your harvest is taking place to "
+"identify our partners located closest to your tree."
+msgstr ""
+"Filtrez par quartier, selon l’endroit où se déroule votre cueillette, "
+"afin de repérer les organismes partenaires situés à proximité de l’arbre."
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:13
+msgid "**Assess the quantity and quality of your harvest**"
+msgstr "**Évaluer la quantité et la qualité de la récolte**"
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:15
+msgid "There are several factors to consider:"
+msgstr "Plusieurs facteurs sont à considérer :"
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:16
+msgid ""
+"**Quantity:** Is it a small harvest, a substantial harvest, or more fruit"
+" than one organization can receive?"
+msgstr ""
+"**Quantité :** S’agit-il d’une petite récolte, d’une récolte importante "
+"ou d’une quantité qui dépasse la capacité de réception d’un seul "
+"organisme?"
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:17
+msgid ""
+"**Quality:** Is the fruit in good condition and ready to eat, or is it "
+"overripe, bruised, spotted, or otherwise better suited to processing?"
+msgstr ""
+"**Qualité :** Les fruits sont-ils en bon état et prêts à être consommés "
+"tels quels, ou sont-ils en surmaturité, piqués, tavelés, quelque peu "
+"abîmés ou autrement mieux adaptés à la transformation?"
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:18
+msgid ""
+"**Shelf life:** How quickly does the fruit need to be consumed or "
+"processed?"
+msgstr ""
+"**Durée de conservation :** À quelle vitesse les fruits doivent-ils être "
+"consommés ou transformés ?"
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:20
+msgid "**Match the harvest to the right organization**"
+msgstr "**Choisir un organisme adapté à la récolte**"
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:22
+msgid "**Good-quality fruit that can be eaten as is**"
+msgstr "**Des fruits de bonne qualité qui peuvent être consommés tels quels**"
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:24
+msgid ""
+"For substantial quantities of fruit in good condition, prioritize food "
+"banks and other organizations that distribute fresh produce directly to "
+"their users."
+msgstr ""
+"Pour des quantités intéressantes de fruits en bon état, privilégiez les "
+"banques alimentaires et les organismes qui offrent du dépannage "
+"alimentaire directement aux usagers."
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:26
+msgid "**Fruit that needs processing before consumption**"
+msgstr "**Des fruits qui nécessitent une transformation avant consommation**"
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:28
+msgid ""
+"Collective kitchens and organizations that offer food-processing "
+"activities are generally better suited to receiving fruit that is "
+"overripe, bruised, spotted, or otherwise requires processing before it "
+"can be eaten."
+msgstr ""
+"Les cuisines collectives et les organismes qui offrent des activités de "
+"transformation alimentaire sont généralement mieux adaptés pour recevoir "
+"des fruits en surmaturité, piqués, tavelés, abîmés ou autrement "
+"nécessitant une transformation avant consommation."
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:30
+msgid "**Very large harvests**"
+msgstr "**De très grosses récoltes**"
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:32
+msgid ""
+"If your harvest exceeds the receiving capacity of a single organization, "
+"consider:"
+msgstr ""
+"Si la récolte dépasse la capacité de réception d’un seul organisme, vous "
+"pouvez :"
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:33
+msgid "Dividing the donation among several organizations;"
+msgstr "Répartir le don entre plusieurs organismes ;"
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:34
+msgid ""
+"Donating to SADA (de la Corbeille), which redistributes food through its "
+"network of community organizations."
+msgstr ""
+"Privilégier un don au SADA (de la Corbeille), qui redistribue ensuite les"
+" aliments à son réseau d’organismes communautaires."
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:36
+msgid "**Very small harvests**"
+msgstr "**De très petites cueillettes**"
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:38
+msgid ""
+"For small quantities of berries, such as chokeberries, elderberries, goji"
+" berries, or sometimes serviceberries, consider:"
+msgstr ""
+"Pour de petites quantités de petits fruits, comme l’aronie, le sureau, le"
+" goji ou parfois les amélanches, vous pouvez envisager :"
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:39
+msgid ""
+"**Community fridges:** Always label the fruit with its type, origin, and "
+"harvest date."
+msgstr ""
+"**Les frigos communautaires :** laissez toujours une étiquette indiquant "
+"le type de fruits, leur provenance et la date de cueillette."
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:40
+msgid ""
+"**Sharing within the harvesting group:** If the quantity is too small to "
+"make a meaningful donation, it is perfectly fine to share the harvest "
+"among volunteers and the tree owner."
+msgstr ""
+"**Le partage au sein du groupe de cueillette :** si la récolte est trop "
+"petite pour constituer un don significatif, il est tout à fait acceptable"
+" de la partager entre les bénévoles et la personne propriétaire de "
+"l’arbre."
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:42
+msgid "**Contact the organization in advance**"
+msgstr "**Communiquer avec l’organisme avant le don**"
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:44
+msgid ""
+"Whenever possible, contact the organization before making the donation. "
+"Confirm that it can receive the type, quantity, and quality of fruit you "
+"are offering."
+msgstr ""
+"Dans la mesure du possible, communiquez avec l’organisme en amont afin de"
+" confirmer qu’il est en mesure de recevoir le type, la quantité et la "
+"qualité de fruits que vous souhaitez offrir."
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:46
+msgid ""
+"You can also donate to a community organization or initiative that is not"
+" yet listed in our software. The same principles outlined above apply: "
+"the goal is to ensure that the fruit will be enjoyed, valued, and "
+"redistributed for free. If you would like to add a new beneficiary "
+"organization to our network, simply email me its name and contact "
+"details, along with any relevant information, and go ahead with the "
+"donation."
+msgstr ""
+"Vous pouvez également donner votre récolte à un organisme communautaire "
+"ou à une initiative qui ne figure pas encore dans notre logiciel. Les "
+"mêmes principes s’appliquent : l’objectif est de s’assurer que les fruits"
+" seront appréciés, valorisés et redistribués gratuitementSi vous "
+"souhaitez ajouter un nouvel organisme bénéficiaire à notre réseau, "
+"envoyez-moi simplement un courriel avec son nom, ses coordonnées et toute"
+" information pertinente. Vous pouvez ensuite procéder au don."
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:48
+msgid ""
+"The only organizations that cannot be part of our beneficiary network are"
+" those that would privatize the fruit, generate a profit from it, or "
+"assign it a monetary value—for example, markets or companies that would "
+"sell the fruit. Our network is built around free sharing and "
+"redistribution, not the commercialization of our harvests."
+msgstr ""
+"Les seuls organismes qui ne peuvent pas faire partie de notre réseau de "
+"bénéficiaires sont ceux qui chercheraient à privatiser les fruits, à en "
+"tirer un profit ou à leur attribuer une valeur monétaire, par exemple des"
+" marchés ou des entreprises qui les revendraient. Notre réseau repose sur"
+" le don, le partage et la redistribution gratuite, et non sur la "
+"commercialisation des récoltes."
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:52
+msgid ""
+"**Remember: The goal is to ensure that the fruit is enjoyed, valued, and "
+"redistributed for free.**"
+msgstr ""
+"**À retenir : l’objectif est que les fruits soient appréciés, valorisés "
+"et redistribués gratuitement.**"
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:54
+msgid ""
+"Our goal is to collectively build a food system based on **decommodified "
+"urban fruit-tree commons:** food that circulates through neighbourhoods "
+"according to principles of solidarity, equity, and sharing, rather than "
+"market-driven or capitalist logic."
+msgstr ""
+"Notre objectif est de bâtir collectivement un système alimentaire fondé "
+"sur un modèle de **communs arboricoles démarchandisés**, où les fruits "
+"circulent dans les quartiers selon une logique de solidarité, d’équité et"
+" de partage, plutôt que dans une optique marchande ou capitaliste."
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:56
+msgid ""
+"Relationships are at the heart of this model. The network we build must "
+"be developed intentionally, recognizing the complementary roles and "
+"potential synergies among the organizations and people involved."
+msgstr ""
+"Le relationnel est à la base de ce modèle. Le réseau que nous bâtissons "
+"doit être développé consciemment, en tenant compte des complémentarités "
+"et des synergies que nous souhaitons approfondir entre les organismes et "
+"les personnes impliquées."
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:58
+msgid ""
+"We want to help create a society of abundance. To make this possible, "
+"everyone involved in harvesting needs opportunities to get to know the "
+"people behind the community organizations in their neighbourhood and to "
+"build meaningful relationships of mutual aid and thoughtful giving."
+msgstr ""
+"Nous voulons contribuer à créer une société d’abondance. Pour y parvenir,"
+" il est essentiel que les personnes responsables des cueillettes puissent"
+" connaître les gens derrière les organismes communautaires de leur "
+"quartier et tisser avec eux des liens durables d’entraide et de don "
+"approprié."
+
+#: ../../docs/source/pre-pick-guide/annexes/A-beneficiary-organizations.md:60
+msgid ""
+"A successful donation is not just about finding somewhere to drop off "
+"fruit. It is about building lasting relationships that help food "
+"circulate freely and meaningfully within our communities."
+msgstr ""
+"Un don réussi ne consiste pas simplement à trouver un endroit où déposer "
+"des fruits. Il s’agit de bâtir des relations qui permettent aux aliments "
+"de circuler librement et de manière significative au sein de nos "
+"communautés."
+
