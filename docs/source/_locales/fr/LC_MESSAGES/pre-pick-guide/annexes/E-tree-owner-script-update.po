@@ -178,7 +178,7 @@ msgid ""
 "**You**: I understand. Can we contact you next year to ask if you'd like to "
 "participate or do you want to be removed from our list?"
 msgstr ""
-"**Vous**: Je comprends. Devrions-nous communiquer avec vous l’an prochain pour "
+"**Vous** : Je comprends. Devrions-nous communiquer avec vous l’an prochain pour "
 "vous demander si vous aimeriez participer ou si vous voulez être retiré de "
 "notre liste ?"
 
@@ -209,7 +209,7 @@ msgstr "**Propriétaire**: Mauvaise expérience"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:30
 msgid "**You**: I'm sorry to hear that."
-msgstr "**Vous**: Je suis désolé d’entendre ça."
+msgstr "**Vous** : Je suis désolé d’entendre ça."
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:31
 msgid "Responses to (some) possible scenarios:"
@@ -240,14 +240,14 @@ msgstr ""
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:34
 msgid "If the tree-owner doesn't want to continue with Les Fruits Défendus:"
-msgstr "Si la propriétaire ne souhaite plus s’impliquer aux Fruits défendus:"
+msgstr "Si la propriétaire ne souhaite plus s’impliquer aux Fruits défendus :"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:35
 msgid ""
 "**You**: I'm sorry you'll be leaving the collective, but I understand. I'll "
 "remove your tree from our database. Have a good day! Bye."
 msgstr ""
-"**Vous**: Je suis désolé que vous quittez le collectif, mais je comprends. Je "
+"**Vous** : Je suis désolé que vous quittez le collectif, mais je comprends. Je "
 "vais enlever votre arbre de notre base des données. Bonne journée! Bye."
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:37
@@ -271,7 +271,7 @@ msgid ""
 "correct in order to make organizing a harvest easier for you and the "
 "volunteers this summer. This should take no more than 10 minutes."
 msgstr ""
-"**Vous**: Je veux m’assurer que l’information que nous avons dans notre "
+"**Vous** : Je veux m’assurer que l’information que nous avons dans notre "
 "système est exacte afin de faciliter l’organisation d’une récolte pour vous et "
 "les bénévoles cet été. Cela ne devrait pas prendre plus de 10 minutes."
 
@@ -280,16 +280,16 @@ msgid ""
 "**You**: I show that you have (**number and type of trees, vines**) is this "
 "correct?"
 msgstr ""
-"**Vous**: Je vois que vous avez (nombre et type d’arbres, vignes), est-ce "
+"**Vous** : Je vois que vous avez (nombre et type d’arbres, vignes), est-ce "
 "correct ?"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:44
 msgid "Tree owner: Yes [**skip to next question**]"
-msgstr "Propriétaire: Oui [**passez à la question prochaine**]"
+msgstr "Propriétaire : Oui [**passez à la question prochaine**]"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:45
 msgid "Tree owner: No [**continue below**]"
-msgstr "Propriétaire: Non [**continuez ci-dessous**]"
+msgstr "Propriétaire : Non [**continuez ci-dessous**]"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:47
 msgid "[**Update the property fruit type(s), then proceed to next question.**]"
@@ -299,7 +299,7 @@ msgstr "[**Mettre à jour le nombre et type d’arbre au besoin**]"
 msgid ""
 "**You**: Could you (confirm or tell me) the height of the lowest hanging fruit?"
 msgstr ""
-"**Vous**: Pourriez-vous (confirmer) ou (me dire) la hauteur du fruit suspendu "
+"**Vous** : Pourriez-vous (confirmer) ou (me dire) la hauteur du fruit suspendu "
 "le plus bas ?"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:51
@@ -316,7 +316,7 @@ msgid ""
 "say for sure without looking at the tree. Would you be able to send me a photo "
 "(with object or person for scale)?"
 msgstr ""
-"**Vous**: On dirait que la plupart des fruits sont hors de notre portée, mais "
+"**Vous** : On dirait que la plupart des fruits sont hors de notre portée, mais "
 "je ne peux pas le dire avec certitude sans regarder l’arbre. Pourriez-vous "
 "m’envoyer une photo avec un objet ou une personne à l’échelle ? (Pour obtenir "
 "des instructions sur le téléchargement des photos dans le dossier de "
@@ -337,7 +337,7 @@ msgstr ""
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:61
 msgid "**You**: What is the approximate maturity date of each tree (date range)?"
-msgstr "**Vous**: Quelle est la date approximative de maturité de chaque arbre ?"
+msgstr "**Vous** : Quelle est la date approximative de maturité de chaque arbre ?"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:63
 msgid "[**Update \"Approximate maturity date\", if necessary.**]"
@@ -345,7 +345,7 @@ msgstr "[**Mettre à jour la date approximative de maturité**]"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:65
 msgid "**You**: Where is/are the tree(s) located (if blank)?"
-msgstr "**Vous**: Où est l’arbre ? (si le champ est vide) ?"
+msgstr "**Vous** : Où est l’arbre ? (si le champ est vide) ?"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:67
 msgid "[**Update \"Trees location\", if necessary.**]"
@@ -354,7 +354,7 @@ msgstr "[**Mettre à jour le lieux de l’arbre**]"
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:69
 msgid "**You**: Can we still access the tree(s) by (method indicated)?"
 msgstr ""
-"**Vous**: Peut-on toujours accéder à l’arbre par (méthode enregistrée dans "
+"**Vous** : Peut-on toujours accéder à l’arbre par (méthode enregistrée dans "
 "Saskatoon) ?"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:71
@@ -372,7 +372,7 @@ msgid ""
 "**You**: Do we still (still not) have permission to access the tree through "
 "the neighbour's property?"
 msgstr ""
-"**Vous**: Avons-nous toujours (toujours pas) la permission d’accéder à l’arbre "
+"**Vous** : Avons-nous toujours (toujours pas) la permission d’accéder à l’arbre "
 "par la propriété du voisin ?"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:76
@@ -388,7 +388,7 @@ msgid ""
 "**You**: Do you still have (or do you now have) a ladder than can be used "
 "during the harvest? What kind and how tall is it?"
 msgstr ""
-"**Vous**: Avez-vous encore (ou avez-vous maintenant) une échelle qui peut être "
+"**Vous** : Avez-vous encore (ou avez-vous maintenant) une échelle qui peut être "
 "utilisée pendant la récolte ?"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:80
@@ -402,7 +402,7 @@ msgstr ""
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:82
 msgid "**You**: Does the tree produce every year?"
-msgstr "**Vous**: L’arbre produit-il chaque année ?"
+msgstr "**Vous** : L’arbre produit-il chaque année ?"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:84
 msgid "If so, check the box for \"Produces fruit every year\"."
@@ -415,7 +415,7 @@ msgstr "Sinon…"
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:87
 msgid "**You**: what frequency and when did the tree last produce fruit?"
 msgstr ""
-"**Vous**: à quelle fréquence et quand l’arbre a-t-il produit des fruits pour "
+"**Vous** : à quelle fréquence et quand l’arbre a-t-il produit des fruits pour "
 "la dernière fois?"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:89
@@ -431,7 +431,7 @@ msgid ""
 "**You**: Can the tree be harvested in one-go or will it need multiple visits? "
 "What I mean is, does the fruit mature all at once or over a series of weeks?"
 msgstr ""
-"**Vous**: L’arbre peut-il être récolté en une seule fois ou aura-t-il besoin "
+"**Vous** : L’arbre peut-il être récolté en une seule fois ou aura-t-il besoin "
 "de plusieurs visites ? Ce que je veux dire, c’est que le fruit arrive à "
 "maturité en une seule fois ou sur une série de semaines?"
 
@@ -443,7 +443,7 @@ msgstr "[**Ajout d’informations dans la case “Informations complémentaires�
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:95
 msgid "**You**: How many people would it take to harvest the tree in two hours?"
 msgstr ""
-"** Vous**: Combien de personnes faudrait-il pour récolter l’arbre en deux "
+"** Vous** : Combien de personnes faudrait-il pour récolter l’arbre en deux "
 "heures?"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:97
@@ -464,15 +464,15 @@ msgstr ""
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:101
 msgid "**You**: Will you need to be present at the time of harvest?"
-msgstr "**Vous**: Aurez-vous besoin d’être présent au moment de la récolte?"
+msgstr "**Vous** : Aurez-vous besoin d’être présent au moment de la récolte?"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:102
 msgid "**You**: Would you like to participate in the harvesting of fruit?"
-msgstr "**Vous**: Vous souhaitez participer à la récolte des fruits?"
+msgstr "**Vous** : Vous souhaitez participer à la récolte des fruits?"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:103
 msgid "**You**: Would you like to keep your third of the fruit?"
-msgstr "**Vous**: Voudriez-vous garder votre tiers des fruits?"
+msgstr "**Vous** : Voudriez-vous garder votre tiers des fruits?"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:105
 msgid ""
@@ -487,7 +487,7 @@ msgid ""
 "**You**: Let me confirm that the information is correct in our system (if "
 "never been harvested; or any blanks in contact info)"
 msgstr ""
-"**Vous**: Permettez-moi de confirmer que l’information est correcte dans notre "
+"**Vous** : Permettez-moi de confirmer que l’information est correcte dans notre "
 "système (si elle n’a jamais été récoltée ; ou tout blanc dans les coordonnées "
 "de contact)."
 
@@ -521,7 +521,7 @@ msgstr ""
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:115
 msgid "**You**: Is says you're located in (X neighbourhood). Is that correct?"
 msgstr ""
-"**Vous**: Nous avons enregistré que vous êtes situé dans le quartier X. Est-ce "
+"**Vous** : Nous avons enregistré que vous êtes situé dans le quartier X. Est-ce "
 "que c’est exact?"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:117
@@ -549,7 +549,7 @@ msgid ""
 "**You**: Can you tell me what is the best time for a volunteer to reach you? "
 "What is your preferred method of communication?"
 msgstr ""
-"**Vous**: Pouvez-vous me dire quel est le meilleur moment pour qu’un bénévole "
+"**Vous** : Pouvez-vous me dire quel est le meilleur moment pour qu’un bénévole "
 "puisse vous joindre ? Quelle est votre méthode de communication préférée?"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:130
@@ -557,7 +557,7 @@ msgid ""
 "**You**: Do you want to receive more information from us? Do you already "
 "receive our newsletters? Interested?"
 msgstr ""
-"**Vous**: Souhaitez-vous recevoir plus d’informations de notre part ? Recevez-"
+"**Vous** : Souhaitez-vous recevoir plus d’informations de notre part ? Recevez-"
 "vous déjà notre bulletin?"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:132
@@ -575,7 +575,7 @@ msgid ""
 "**You**: Here is my contact info. Can you please contact me when it looks like "
 "the fruits are around 10-15days from being ripe?"
 msgstr ""
-"**Vous**: Voici mes coordonnées. Pouvez-vous s’il vous plaît me contacter "
+"**Vous** : Voici mes coordonnées. Pouvez-vous s’il vous plaît me contacter "
 "quand vous pensez que les fruits seront murs d’ici 10 à 15 jours ?"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:136
@@ -589,7 +589,7 @@ msgstr ""
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:138
 msgid "**You**: Thank you for your time! Have a great day and we'll be in touch!"
 msgstr ""
-"**Vous**: Merci pour votre temps ! Passez une bonne journée et nous restons en "
+"**Vous** : Merci pour votre temps ! Passez une bonne journée et nous restons en "
 "contact!"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:142
@@ -620,7 +620,7 @@ msgstr ""
 "nous avons l’autorisation de les contacter dans les années à venir. (Bien sûr, "
 "la propriété doit déjà avoir été “Validée”, et doit le rester.) Avant de "
 "terminer la mise à jour de la fiche de propriété et de cliquer sur "
-"“Soumettre”, veuillez vérifier qu’un “Coordonnées publiable” est inclus:"
+"“Soumettre”, veuillez vérifier qu’un “Coordonnées publiable” est inclus :"
 
 #: ../../docs/source/pre-pick-guide/annexes/E-tree-owner-script-update.md:148
 msgid ""
