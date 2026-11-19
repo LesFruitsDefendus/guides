@@ -8,255 +8,1885 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Les Fruits Défendus\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-21 21:04-0400\n"
+"POT-Creation-Date: 2026-10-29 16:16-0400\n"
 "PO-Revision-Date: 2022-06-03 14:48-0400\n"
 "Last-Translator: \n"
-"Language-Team: \n"
 "Language: fr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: \n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"Generated-By: Babel 2.10.1\n"
-"X-Generator: Poedit 3.0.1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:1
 msgid "How to harvest and store fruit"
 msgstr "Comment cueillir et entreposer les fruits"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:3
-msgid "Harvest fruits"
+msgid "Harvesting fruit"
 msgstr "Cueillir des fruits"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:5
 msgid ""
-"Most fruit grows each year on the same parts of the branch (at the \"spur\"; "
-"see **Fig 1** ). If you destroy the spur while picking the fruit, you may "
-"compromise future harvests. Moreover, how fruit is picked can influence its "
-"conservation once stored. Keep in mind that you have less chance of damaging "
-"the tree when you pick the fruit correctly and at the right time. Follow these "
-"**general harvesting tips** to ensure the protection of the tree and its fruit:"
+"Most fruit grows each year on the same parts of the branch (at the "
+"\"spur\"; see **Fig 1** ). If you damage the spur while picking the "
+"fruit, you may compromise future harvests. Moreover, how fruit is picked "
+"can influence its conservation once stored. Keep in mind that you have "
+"less chance of damaging the tree when you pick the fruit correctly and at"
+" the right time. Follow these **general harvesting tips** to ensure the "
+"protection of the tree and its fruit:"
 msgstr ""
-"La plupart des fruits poussent chaque année sur le même endroit de la branche "
-"(éperon ou « spur » en anglais; voir Fig 1). Si vous abîmez l’éperon, vous "
-"risquez d’anéantir les récoltes futures. Par ailleurs, la manière de cueillir "
-"les fruits peut influencer leur conservation une fois entreposés. Vous avez "
-"moins de chances d’endommager l’arbre lorsque vous cueillez les fruits au "
-"moment opportun (c’est vrai pour tous les fruits). Suivez les conseils "
-"généraux suivants pour garantir la protection de l’arbre et de ses fruits:"
+"La plupart des fruits poussent chaque année sur le même endroit de la "
+"branche (la coursonne ou l'éperon, ou « spur » en anglais; voir Fig 1). "
+"Si vous abîmez la coursonne, vous risquez d’anéantir les récoltes "
+"futures. Par ailleurs, la manière de cueillir les fruits peut influencer "
+"leur conservation une fois entreposés. Vous avez moins de chances "
+"d’endommager l’arbre lorsque vous cueillez les fruits au moment opportun "
+"(c’est vrai pour tous les fruits). Suivez les conseils généraux suivants "
+"pour garantir la protection de l’arbre et de ses fruits :"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:9
 msgid "**Fig 1**  (TODO : INSERT PHOTO of spur and stem)"
 msgstr "**Fig 1** (TODO : INSERT PHOTO d’éperon et de tige)"
 
-#: ../../docs/source/harvest-guide/how-to-harvest.md:11
+#: ../../docs/source/harvest-guide/how-to-harvest.md:10
 msgid "Fruit should be picked with the stem, but without the spur."
 msgstr ""
-"Le fruit doit être cueilli avec la tige (« stem »), mais sans l’éperon (« spur "
-"»)."
+"Le fruit doit être cueilli avec la tige (« stem »), mais sans la "
+"coursonne ou l’éperon (« spur »)."
 
-#: ../../docs/source/harvest-guide/how-to-harvest.md:12
+#: ../../docs/source/harvest-guide/how-to-harvest.md:11
 msgid "Never cut the stem of the fruit."
 msgstr "Ne coupez jamais la tige (« stem ») du fruit."
 
-#: ../../docs/source/harvest-guide/how-to-harvest.md:13
-msgid "Try to not pull down a fruit; it is always better to lift it."
+#: ../../docs/source/harvest-guide/how-to-harvest.md:12
+msgid ""
+"Never pull fruit downward. It is always better to lift or twist it to "
+"detach it from the branch. When fruit is ready, a natural break occurs at"
+" the abscission zone—the specialized area between the fruit and the "
+"branch that allows the tree to shed fruit."
 msgstr ""
-"Ne tirez jamais un fruit vers le bas, il est toujours\n"
-"préférable de le soulever."
+"Ne tirez jamais un fruit vers le bas, il est toujours préférable de le "
+"soulever ou de le tourner pour faire détacher le fruit de la branche. "
+"Quand le fruit est prêt, une rupture naturelle se produit au niveau de la"
+" zone d'abscission – la région spécialisée entre le fruit et la branche "
+"qui permet à l’arbre de se séparer de ses fruits."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:13
+msgid ""
+"Do not do anything which damages the bark of the tree. It is its "
+"circulatory system!"
+msgstr ""
+"Ne faites rien qui abîme l’écorce de l’arbre. C’est son système "
+"vasculaire !"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:14
 msgid ""
-"Do not do anything which damages the bark of the tree. It is its circulatory "
-"system!"
+"For more information about fruiting structures, see [this "
+"reference.](https://www.pomologie.fr/elements-vegetaux-des-fruitiers-"
+"identifier-pour-mieux-tailler-3/)"
 msgstr ""
-"Ne faites rien qui abîme l’écorce de l’arbre. C’est son système circulatoire."
+"Pour en savoir plus sur les organes fruitiers, voici [une "
+"référence.](https://www.pomologie.fr/elements-vegetaux-des-fruitiers-"
+"identifier-pour-mieux-tailler-3/)"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:15
 msgid ""
-"NEVER CUT THE BRANCHES OF FRUIT TREES DURING THE SUMMER! Even if the owner "
-"requests this, be aware that we are not qualified to provide such services; "
-"therefore, we must decline any such requests."
+"Avoid cutting, damaging, or removing branches, especially in summer. Even"
+" if the owner asks you to do so, be aware that this is harmful to the "
+"tree at this time of year because it can invite disease. Pruning must be "
+"done at the right point in the tree’s growth cycle."
 msgstr ""
-"NE COUPEZ JAMAIS LES BRANCHES DES ARBRES FRUITIERS PENDANT L’ÉTÉ! Même si le "
-"propriétaire le demande, sachez que c’est mauvais pour l’arbre à ce temps de "
-"l’année car ça invite les maladies."
+"Évitez de couper, d’endommager ou d’enlever des branches, surtout en été "
+"! Même si le propriétaire le demande, sachez que c’est mauvais pour "
+"l’arbre à cette période de l’année, car cela favorise les maladies. Il "
+"faut intervenir au bon moment du cycle de croissance de l’arbre."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:16
 msgid ""
-"When using a picking bucket (hung around the neck) to pick fruit, don't allow "
-"the bucket get too full, because the fruit will inevitably spill! Below are "
-"some **specific harvesting tips** for different kinds of fruit:"
+"When using a picking bucket, hang it around your neck. Do not fill it "
+"completely, or some fruit may be crushed and other fruit may fall out."
 msgstr ""
-"Quand vous utilisez un seau de cueillette (accrochez le autour du cou) pour "
-"cueillir les fruits, ne remplissez pas le seau en entier sinon certains fruits "
-"seront écrasés et d’autres risquent de tomber ! Voici ci-dessous quelques "
-"conseils spécifiques de cueillette pour différents types de fruits :"
+"Quand vous utilisez un seau de cueillette (accrochez-le autour du cou) "
+"pour cueillir les fruits, ne remplissez pas le seau en entier sinon "
+"certains fruits seront écrasés et d’autres risquent de tomber !"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:17
+msgid ""
+"When using any kind of tools, especially those that come in direct "
+"contact with branches, ALWAYS sterilise your tools between harvests (at "
+"the end of the harvest, or before moving on to the next property) in "
+"order to ensure that there is no risk of spreading bacterial or fungal "
+"infections between the trees in our network."
+msgstr ""
+"Lorsque vous utilisez des outils, quels qu’ils soient, en particulier "
+"ceux qui entrent en contact direct avec les branches, veillez à TOUJOURS "
+"les désinfecter entre chaque récolte (à la fin de la récolte ou avant de "
+"passer à la propriété suivante) afin d’éviter tout risque de propagation "
+"d’infections bactériennes ou fongiques entre les arbres de notre réseau."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:19
+msgid "Below are some specific harvesting tips for different kinds of fruit:"
+msgstr ""
+"Voici ci-dessous quelques conseils spécifiques de cueillette pour la "
+"cueillette de différents types de fruits :"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:21
 msgid "**Fig 2** (TODO : INSERT PHOTO, apple harvest)"
 msgstr "**Fig 2** (TODO : INSERT PHOTO, apple harvest)"
 
-#: ../../docs/source/harvest-guide/how-to-harvest.md:21
-msgid "Apples"
-msgstr "Pommes"
-
-#: ../../docs/source/harvest-guide/how-to-harvest.md:23
-msgid ""
-"Apples must be picked with a \"rotation gesture\" accompanied by a slight "
-"lift. If the fruit does not come off easily, then it is not mature."
-msgstr ""
-"Les pommes doivent être cueillies d’un geste de rotation accompagné d’un léger "
-"soulèvement. Si le fruit ne se détache pas facilement, c’est qu’il n’est pas "
-"mûr."
-
 #: ../../docs/source/harvest-guide/how-to-harvest.md:24
-msgid ""
-"By hand: Turn the apple while slightly raising and pull gently. Do not pull "
-"down on the fruit."
-msgstr ""
-"À la main: Tournez la pomme tout en la levant légèrement et tirez doucement. "
-"Ne tirez pas le fruit vers le bas."
+msgid "Apples and crabapples"
+msgstr "Pommes et pommettes"
 
-#: ../../docs/source/harvest-guide/how-to-harvest.md:25
-msgid ""
-"With fruit picking tool: position the metal part around the apple, lift "
-"slightly and rotate (see Fig 2). Do not pull down on the fruit."
-msgstr ""
-"Avec un cueille-fruits: positionnez la partie métallique autour de la pomme, "
-"soulevez légèrement et tournez (voir Fig 2). Ne tirez pas le fruit."
+#: ../../docs/source/harvest-guide/how-to-harvest.md:26
+#: ../../docs/source/harvest-guide/how-to-harvest.md:102
+#: ../../docs/source/harvest-guide/how-to-harvest.md:172
+#: ../../docs/source/harvest-guide/how-to-harvest.md:266
+#: ../../docs/source/harvest-guide/how-to-harvest.md:344
+#: ../../docs/source/harvest-guide/how-to-harvest.md:418
+#: ../../docs/source/harvest-guide/how-to-harvest.md:494
+msgid "Harvest period"
+msgstr "Période de récolte"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:27
-msgid "Cherries"
-msgstr "Cerises"
+msgid ""
+"In Montréal, the apple and crabapple season generally runs from late "
+"August to October."
+msgstr ""
+"À Montréal, la saison des pommes et des pommettes s’étend généralement de"
+" la fin août à octobre."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:29
-msgid ""
-"Cherries should be picked with the stem intact, if possible; otherwise, they "
-"will spoil quickly!"
-msgstr ""
-"Cueillez toujours les cerises avec la tige intacte sinon elles se gâteront "
-"rapidement!"
+msgid "Early apples: mid-July to mid-August"
+msgstr "Pommes hâtives : mi-juillet à mi-août"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:30
-msgid ""
-"By hand: Grasp the knot at the top of the stem. Either twist or gently push "
-"sideways or upwards, until the knot of the stem comes apart from the spur. "
-"**Do not pull down on the stem. Do not use scissors to cut the stem**."
-msgstr ""
-"À la main: Saisissez le fruit à l’extrémité de la tige. Ensuite soit tournez "
-"ou tirez doucement sur un côté ou vers le haut, jusqu’à ce que le nœud à "
-"l’extrémité de la tige se défasse de la branche. Ne tirez pas la tige vers le "
-"bas. N’utilisez pas de ciseaux pour couper la tige. "
+msgid "Mid-season apples: September to October"
+msgstr "Pommes de saison : septembre à octobre"
 
-#: ../../docs/source/harvest-guide/how-to-harvest.md:32
-msgid "Plums"
-msgstr "Prunes"
+#: ../../docs/source/harvest-guide/how-to-harvest.md:31
+msgid "Crabapples: mid-August to mid-September"
+msgstr "Pommettes (crabapples) : mi-août à mi-septembre"
 
-#: ../../docs/source/harvest-guide/how-to-harvest.md:34
+#: ../../docs/source/harvest-guide/how-to-harvest.md:33
 msgid ""
-"Plums can be picked like apples. A ripe plum is easily removed from the tree."
+"Maturity varies considerably depending on the cultivar and the urban "
+"micro-site."
 msgstr ""
-"Les prunes peuvent être cueillies de la même manière que les pommes. Une prune "
-"mûre se détache facilement."
+"La maturité varie fortement selon les cultivars et les micro-sites "
+"urbains."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:35
-msgid "By hand: Turn the fruit gently upward. **Do not pull down on the fruit**."
-msgstr ""
-"À la main: Tournez la prune délicatement vers le haut. **Ne tirez pas le fruit "
-"vers le bas**."
+#: ../../docs/source/harvest-guide/how-to-harvest.md:107
+#: ../../docs/source/harvest-guide/how-to-harvest.md:178
+#: ../../docs/source/harvest-guide/how-to-harvest.md:272
+#: ../../docs/source/harvest-guide/how-to-harvest.md:348
+#: ../../docs/source/harvest-guide/how-to-harvest.md:423
+#: ../../docs/source/harvest-guide/how-to-harvest.md:501
+msgid "How to recognize the right stage of maturity"
+msgstr "Comment reconnaître le bon moment de maturité"
 
-#: ../../docs/source/harvest-guide/how-to-harvest.md:36
-msgid ""
-"With fruit picking tool: Position the metal part around the plum, lift "
-"slightly and rotate. **Do not pull down on the fruit**."
-msgstr ""
-"Avec un cueille-fruits: Positionnez la partie métallique autour de la prune, "
-"soulevez doucement et tournez. **Ne tirez pas le fruit vers le bas**."
+#: ../../docs/source/harvest-guide/how-to-harvest.md:37
+msgid "**Apples**"
+msgstr "**Pommes**"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:38
-msgid "Pears"
-msgstr "Poires"
+msgid "Colour has developed according to the cultivar."
+msgstr "Couleur développée selon le cultivar."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:39
-msgid ""
-"Pears can be picked like apples (see section above)– but remember that they "
-"must be picked before they are completely ripe, so removing them from the tree "
-"can be slightly more tricky. Therefore, when harvesting pears, take extra care "
-"not pull on the fruit and damage the spurs!"
-msgstr ""
-"Les poires peuvent être cueillies comme des pommes (voir la section ci-dessus) "
-"mais souvenez- vous qu’elles doivent être cueillies avant d’être complètement "
-"mûres, alors parfois les cueillir peut s’avérer un peu plus difficile. Pendant "
-"que vous cueillez les poires, redoublez d’attention à ne pas tirer le fruit "
-"afin de ne pas endommager la branche!"
+msgid "The fruit is firm but detaches easily when lifted."
+msgstr "Fruit ferme mais qui se détache facilement en le soulevant."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:40
+msgid "The flavour has a good balance of sweetness and acidity."
+msgstr "Goût sucré/acidulé équilibré."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:41
-msgid "Saskatoon berries"
-msgstr "Amélanches"
+msgid "The seeds are dark brown, which is an indicator of internal maturity."
+msgstr "Les pépins sont de couleur brun foncé (indice de maturité interne)."
 
-#: ../../docs/source/harvest-guide/how-to-harvest.md:42
-msgid "By hand: Pick off berries gently by hand."
-msgstr "À la main: Coupez les baies à l’aide d’un sécateur ou des ciseaux."
+#: ../../docs/source/harvest-guide/how-to-harvest.md:43
+msgid "**Crabapples**"
+msgstr "**Pommettes**"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:44
-msgid "Grapes"
-msgstr "Raisins"
+msgid "Bright colour (red, yellow, or orange, depending on the variety)."
+msgstr "Couleur vive (rouge, jaune, orange selon variété)."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:45
-msgid ""
-"By hand: Cut off each bunch of grapes using a pair of scissors or pruning "
-"shears."
-msgstr "À la main: Coupez les grappes à l’aide d’un sécateur ou de ciseaux."
+msgid "Fruit is slightly soft."
+msgstr "Fruits légèrement souples."
 
-#: ../../docs/source/harvest-guide/how-to-harvest.md:47
-msgid "Storage"
-msgstr "Entreposage"
+#: ../../docs/source/harvest-guide/how-to-harvest.md:46
+msgid "Fruit remains attached to the tree, but maturity is often uneven."
+msgstr "Bonne tenue sur l’arbre, mais maturité souvent irrégulière."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:48
+#: ../../docs/source/harvest-guide/how-to-harvest.md:119
+msgid "**Leave on the tree:**"
+msgstr "**À laisser sur l’arbre :**"
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:49
-msgid ""
-"**At Santropol Roulant**, all fruits except apples can be put in the walk-in "
-"fridge in the basement of the building (a.k.a. cold room, cold storage). "
-"Apples can be put on the Fruits Défendus shelf unless they are in danger of "
-"rotting. Please don't place containers on the floor of the walk-in fridge."
-msgstr ""
-"**Au Santropol Roulant**, tous les fruits sauf les pommes peuvent être mis "
-"dans le réfrigérateur dans le sous-sol. Les pommes peuvent être mises dans "
-"l’étagère des Fruits Défendus sauf si elles sont en danger de pourrir. Svp, ne "
-"déposez pas les conteneurs sur le sol du réfrigérateur."
+msgid "Very green, hard fruit."
+msgstr "Fruits très verts et durs."
 
-#: ../../docs/source/harvest-guide/how-to-harvest.md:51
-msgid ""
-"Soft fruits (cherries, Saskatoon berries, plums, grapes) should be stored in a "
-"way where they do not get crushed under their own weight. Therefore, use small "
-"bags and try not to pile the bags on top of each other. If you can, we "
-"recommend using recyclable plastic produce containers (rigid packaging used "
-"for selling mixed greens, cherry tomatoes, strawberries, etc.) to transport "
-"and store soft fruit. Wooden boxes used to sell clementines can also be used "
-"for this."
-msgstr ""
-"Les fruits “mous” (cerises, amélanches, prunes et raisins) doivent être "
-"entreposés à un endroit où ils ne sont pas écrasés par d’autres fruits plus "
-"lourds. Vous pouvez utiliser de petits sacs en essayant de ne pas remplir le "
-"sac en entier et de ne pas les entasser les uns sur les autres. Nous vous "
-"recommandons d’utiliser des sacs/conteneurs recyclables en plastique (comme "
-"des emballages utilisés pour contenir divers légumes, barquettes de fraises, "
-"tomates, etc.) pour transporter et entreposer les fruits mous. Des cartons en "
-"bois utilisés habituellement pour les clémentines peuvent également être "
-"utilisés."
+#: ../../docs/source/harvest-guide/how-to-harvest.md:50
+msgid "Immature fruit with a very astringent taste."
+msgstr "Fruits immatures avec goût très astringent."
 
 #: ../../docs/source/harvest-guide/how-to-harvest.md:52
 msgid ""
-"Pears must be stored in a space where the temperature is around 0 ° C, e.g. a "
-"cool room, otherwise they will continue to mature. Pears stored at room "
-"temperature will mature quickly and can only be eaten for a few days after "
-"picking. If you store un-ripe pears at a cold temperature, you can pile them "
-"on top of each other without a problem."
+"**Remember:** Not all fruit on the same tree ripens at the same time. You"
+" may need to visit a tree several times over one to two weeks as the "
+"fruit matures, so you can harvest at the right time."
+msgstr ""
+"**à retenir :** tous les fruits d’un même arbre ne mûrissent pas toujours"
+" en même temps. Il faut parfois visiter un arbre plusieurs fois pendant "
+"les 1 à 2 semaines de sa période de maturité pour intervenir au bon "
+"moment."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:54
+#: ../../docs/source/harvest-guide/how-to-harvest.md:126
+#: ../../docs/source/harvest-guide/how-to-harvest.md:206
+#: ../../docs/source/harvest-guide/how-to-harvest.md:288
+#: ../../docs/source/harvest-guide/how-to-harvest.md:371
+#: ../../docs/source/harvest-guide/how-to-harvest.md:443
+#: ../../docs/source/harvest-guide/how-to-harvest.md:522
+msgid "Harvesting techniques"
+msgstr "Techniques de cueillette"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:56
+msgid ""
+"Apples should be picked with a twisting motion accompanied by a gentle "
+"lift; ideally, by pressing on the stem with the tip of your finger to "
+"ensure that the spur does not tear as the fruit detaches. If the fruit "
+"does not come off easily, it is not ripe. By hand: Turn the apple while "
+"slightly raising and pull gently. Do not pull down on the fruit.  With "
+"fruit picking tool: position the metal part around the apple, lift "
+"slightly and rotate (see Fig 2). Do not pull down on the fruit."
+msgstr ""
+"Les pommes doivent être cueillies d’un geste de rotation accompagné d’un "
+"léger soulèvement ; idéalement, en appuyant sur la tige avec la pousse "
+"pour assurer que la coursonne ne se déchire pas en même temps que le "
+"fruit se détache. Si le fruit ne se détache pas facilement, c’est qu’il "
+"n’est pas mûr."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:59
+#: ../../docs/source/harvest-guide/how-to-harvest.md:131
+#: ../../docs/source/harvest-guide/how-to-harvest.md:295
+#: ../../docs/source/harvest-guide/how-to-harvest.md:375
+msgid "Pick by hand, one fruit at a time."
+msgstr "Cueillir à la main, fruit par fruit."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:60
+msgid "Lift and twist slightly to detach the fruit; avoid pulling."
+msgstr "Soulever et tourner légèrement pour détacher (éviter de tirer)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:61
+msgid ""
+"Ideally, do not shake the branches, as this can cause immature fruit to "
+"fall and injure the tree."
+msgstr ""
+"Idéalement, ne pas secouer les branches (risque de chute de fruits "
+"immatures et blessures à l’arbre)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:62
+msgid "Prioritize accessible, ripe fruit, making several passes if needed."
+msgstr "Prioriser les fruits accessibles et mûrs en plusieurs passages."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:64
+msgid "**For tall trees:**"
+msgstr "**Pour arbres hauts :**"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:65
+msgid "Use a safe step ladder or suitable picking poles."
+msgstr "Utiliser escabeau sécuritaire ou perches de cueillette adaptées"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:66
+msgid "Always secure the area beneath the tree."
+msgstr "Toujours sécuriser la zone sous l’arbre."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:68
+#: ../../docs/source/harvest-guide/how-to-harvest.md:140
+#: ../../docs/source/harvest-guide/how-to-harvest.md:220
+#: ../../docs/source/harvest-guide/how-to-harvest.md:304
+#: ../../docs/source/harvest-guide/how-to-harvest.md:384
+#: ../../docs/source/harvest-guide/how-to-harvest.md:452
+#: ../../docs/source/harvest-guide/how-to-harvest.md:533
+msgid "Sorting"
+msgstr "Triage"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:70
+#: ../../docs/source/harvest-guide/how-to-harvest.md:141
+#: ../../docs/source/harvest-guide/how-to-harvest.md:222
+#: ../../docs/source/harvest-guide/how-to-harvest.md:306
+#: ../../docs/source/harvest-guide/how-to-harvest.md:386
+#: ../../docs/source/harvest-guide/how-to-harvest.md:455
+#: ../../docs/source/harvest-guide/how-to-harvest.md:534
+msgid "Keep:"
+msgstr "Conserver :"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:71
+msgid "Firm, intact fruit."
+msgstr "Fruits fermes et intacts."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:72
+msgid "Fruit without punctures or cracks."
+msgstr "Fruits sans perforations ni fissures."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:73
+msgid "Fruit without soft spots."
+msgstr "Fruits sans zones molles."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:75
+#: ../../docs/source/harvest-guide/how-to-harvest.md:146
+#: ../../docs/source/harvest-guide/how-to-harvest.md:227
+#: ../../docs/source/harvest-guide/how-to-harvest.md:311
+#: ../../docs/source/harvest-guide/how-to-harvest.md:391
+#: ../../docs/source/harvest-guide/how-to-harvest.md:458
+#: ../../docs/source/harvest-guide/how-to-harvest.md:539
+msgid "Discard:"
+msgstr "Écarter :"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:76
+msgid "Fruit that has fallen to the ground and is damaged."
+msgstr "Fruits tombés au sol et abîmés."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:77
+msgid "Soft, rotten, damaged, or fermented fruit."
+msgstr "Fruits mous, pourries, abîmés ou fermentés."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:78
+msgid "Fruit with insect punctures."
+msgstr "Fruits perforés (insectes)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:79
+msgid "Fruit with extensive spotting and internal deterioration."
+msgstr "Fruits très tachés avec dégradation interne."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:81
+#: ../../docs/source/harvest-guide/how-to-harvest.md:152
+#: ../../docs/source/harvest-guide/how-to-harvest.md:235
+#: ../../docs/source/harvest-guide/how-to-harvest.md:317
+#: ../../docs/source/harvest-guide/how-to-harvest.md:397
+#: ../../docs/source/harvest-guide/how-to-harvest.md:466
+#: ../../docs/source/harvest-guide/how-to-harvest.md:545
+msgid "Transport and storage"
+msgstr "Transport et entreposage"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:82
+msgid ""
+"Apples and crabapples are relatively sturdy but sensitive to internal "
+"bruising. Do not handle apples like potatoes: they bruise easily, so "
+"place them down gently and empty containers carefully."
+msgstr ""
+"Les pommes et pommettes sont relativement robustes mais sensibles aux "
+"chocs internes. Il ne faut pas traiter les pommes comme des patates : "
+"elles s’abîment très facilement. Il faut donc les déposer doucement et "
+"transvider les bacs avec soin."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:84
+#: ../../docs/source/harvest-guide/how-to-harvest.md:156
+#: ../../docs/source/harvest-guide/how-to-harvest.md:239
+#: ../../docs/source/harvest-guide/how-to-harvest.md:321
+#: ../../docs/source/harvest-guide/how-to-harvest.md:400
+#: ../../docs/source/harvest-guide/how-to-harvest.md:548
+msgid "Recommended:"
+msgstr "Recommandé :"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:85
+#: ../../docs/source/harvest-guide/how-to-harvest.md:322
+msgid "Shallow, rigid containers"
+msgstr "Contenants rigides peu profonds"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:86
+msgid "A single layer, if possible"
+msgstr "Une seule couche si possible"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:87
+msgid "Gentle handling"
+msgstr "Manipulation douce"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:88
+msgid "Prompt refrigeration (ideally between 4 and 10 degrees)"
+msgstr "Réfrigération rapide (température entre 4 et 10 degrés idéalement)"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:90
+#: ../../docs/source/harvest-guide/how-to-harvest.md:166
+#: ../../docs/source/harvest-guide/how-to-harvest.md:250
+#: ../../docs/source/harvest-guide/how-to-harvest.md:330
+#: ../../docs/source/harvest-guide/how-to-harvest.md:554
+msgid "Storage life"
+msgstr "Conservation :"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:91
+msgid ""
+"Several weeks or even months in a cool place, depending on cultivar and "
+"maturity."
+msgstr "Plusieurs semaines, voire mois, au frais (selon cultivar et maturité)"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:92
+msgid "Crabapples sometimes keep well for only a few weeks."
+msgstr "Pommettes : parfois meilleure tenue sur quelques semaines seulement"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:94
+#: ../../docs/source/harvest-guide/how-to-harvest.md:335
+#: ../../docs/source/harvest-guide/how-to-harvest.md:410
+#: ../../docs/source/harvest-guide/how-to-harvest.md:484
+msgid "Distribution notes"
+msgstr "Notes pour la distribution"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:95
+msgid "Good potential for storage and gradual redistribution."
+msgstr "Très bon potentiel de stockage et redistribution progressive."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:96
+msgid "Apples are ideal for distribution over several weeks."
+msgstr "Pommes idéales pour distribution sur plusieurs semaines."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:97
+msgid "Crabapples are often best used in processed products (jellies, syrups)."
+msgstr "Pommettes souvent mieux valorisées en transformation (gelées, sirops)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:98
+msgid ""
+"They are sensitive to impacts, so sorting and careful handling are "
+"important."
+msgstr "Sensibles aux chocs → tri et manipulation importants."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:100
+msgid "Cherries"
+msgstr "Cerises"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:103
+msgid ""
+"In Montréal, cherry trees generally produce fruit from late June to mid-"
+"July."
+msgstr ""
+"À Montréal, les cerisiers produisent généralement de la fin juin à la mi-"
+"juillet."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:105
+msgid ""
+"The harvest window is short and depends heavily on sun exposure. Fruit "
+"can go from unripe to overripe within a few days. Cherries do not ripen "
+"after picking, so they must be harvested when fully ripe."
+msgstr ""
+"La période de récolte est courte et dépend fortement de l’exposition au "
+"soleil. Les fruits peuvent passer de non mûrs à surmûris en quelques "
+"jours. Les cerises ne mûrissent pas après la cueillette : elles doivent "
+"être récoltées pleinement mûres."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:109
+msgid "**Sweet cherries**"
+msgstr "**Cerises sucrées (douces)**"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:110
+msgid "Dark red to almost black, depending on the variety"
+msgstr "Rouge foncé à presque noir selon la variété"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:111
+msgid "Shiny, firm but slightly yielding"
+msgstr "Fruits brillants et fermes mais souples"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:112
+msgid "Clearly sweet, without strong acidity"
+msgstr "Goût bien sucré, sans acidité forte"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:114
+msgid "**Sour cherries**"
+msgstr "**Griottes**"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:115
+msgid "Bright red to dark red"
+msgstr "Rouge vif à rouge foncé"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:116
+msgid "More acidic flavour, even when ripe"
+msgstr "Saveur plus acide, même à maturité"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:117
+msgid "Fully coloured throughout the fruit"
+msgstr "Fruits bien colorés sur tout leur volume"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:120
+#: ../../docs/source/harvest-guide/how-to-harvest.md:430
+msgid "Green fruit"
+msgstr "Fruits verts"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:121
+msgid "Partially coloured fruit (pale pink or yellow-red)"
+msgstr "Fruits partiellement colorés (rose clair, jaune-rouge)"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:122
+msgid "Fruit that is still firm and acidic"
+msgstr "Fruits encore fermes et acides"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:124
+msgid ""
+"Cherries must be harvested as soon as they reach optimum ripeness: "
+"waiting until they are overripe significantly increases the risk of the "
+"fruit becoming mushy and of fruit flies or their larvae being present. As"
+" soon as the fruit begins to ripen, you must take action to harvest at "
+"the optimum time."
+msgstr ""
+"Les cerises doivent être récoltées dès maturité optimale : attendre la "
+"surmaturité augmente fortement le risque de fruits ramollis et de "
+"présence de drosophiles (mouches des fruits) ou de larves. Dès le moment "
+"où les fruits commencent à mûrir, il faut agir pour intervenir au moment "
+"optimal."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:128
+msgid ""
+"Always pick cherries with the stem intact; otherwise, they will spoil "
+"quickly!"
+msgstr ""
+"Cueillez toujours les cerises avec la tige intacte sinon elles se "
+"gâteront rapidement !"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:130
+msgid ""
+"By hand: Hold the fruit at the end of the stem. Twist it, or gently pull "
+"it sideways or upward until the joint at the end of the stem separates "
+"from the branch. Do not pull the stem downward. Do not use scissors to "
+"cut the stem."
+msgstr ""
+"À la main : Saisissez le fruit à l’extrémité de la tige. Ensuite soit "
+"tournez ou tirez doucement sur un côté ou vers le haut, jusqu’à ce que le"
+" nœud à l’extrémité de la tige se défasse de la branche. Ne tirez pas la "
+"tige vers le bas. N’utilisez pas de ciseaux pour couper la tige."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:132
+msgid ""
+"Keep the stem attached to avoid damaging the flesh and to extend "
+"potential storage life."
+msgstr ""
+"Prendre le fruit avec son pédoncule pour éviter d’abîmer la chair et "
+"prolonger son temps d’entreposage potentiel."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:133
+msgid "Avoid pulling on branches, which are fragile."
+msgstr "Éviter de tirer sur les branches (fragiles)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:134
+msgid "Make several passes during the season."
+msgstr "Effectuer plusieurs passages pendant la saison."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:136
+msgid "For high branches:"
+msgstr "Pour les branches hautes :"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:137
+msgid "Use a secure step ladder or suitable picking poles, if available."
+msgstr "Utiliser un escabeau sécurisé ou des perches adaptées si disponibles."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:138
+msgid "Prioritize safety during harvesting."
+msgstr "Prioriser la sécurité avant la récolte."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:142
+msgid "Well-coloured, firm fruit"
+msgstr "Fruits bien colorés et fermes"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:143
+msgid "Fruit without cracks or injuries"
+msgstr "Fruits sans fissures ni blessures"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:144
+msgid "Fruit that is dry to the touch"
+msgstr "Fruits secs au toucher"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:147
+msgid "Green or partially ripe fruit"
+msgstr "Fruits verts ou partiellement mûrs"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:148
+#: ../../docs/source/harvest-guide/how-to-harvest.md:313
+msgid "Split fruit (after rain)"
+msgstr "Fruits éclatés (après pluie)"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:149
+msgid "Soft, fermented, or mouldy fruit"
+msgstr "Fruits mous, fermentés ou moisissures"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:150
+msgid "Fruit badly damaged by birds"
+msgstr "Fruits très abîmés par les oiseaux"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:154
+msgid "Cherries are fragile and easily crushed."
+msgstr "Les cerises sont fragiles et sensibles à l’écrasement."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:157
+msgid "Small, shallow, rigid containers"
+msgstr "Petits contenants rigides peu profonds"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:158
+msgid "Very shallow layers of fruit"
+msgstr "Récolte en couches minimes"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:159
+msgid "Prompt refrigeration after picking"
+msgstr "Réfrigération rapide après cueillette"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:161
+#: ../../docs/source/harvest-guide/how-to-harvest.md:245
+#: ../../docs/source/harvest-guide/how-to-harvest.md:326
+#: ../../docs/source/harvest-guide/how-to-harvest.md:473
+msgid "**Avoid:**"
+msgstr "**À éviter :**"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:162
+#: ../../docs/source/harvest-guide/how-to-harvest.md:246
+#: ../../docs/source/harvest-guide/how-to-harvest.md:327
+#: ../../docs/source/harvest-guide/how-to-harvest.md:474
+msgid "Soft bags"
+msgstr "Sacs souples"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:163
+msgid "Piling fruit"
+msgstr "Empilement de fruits"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:164
+msgid "Prolonged exposure to heat"
+msgstr "Exposition prolongée à la chaleur"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:167
+msgid "2–5 days in the refrigerator"
+msgstr "2 à 5 jours au réfrigérateur"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:168
+msgid "Freezing is possible; pitting them first is ideal"
+msgstr "Congélation possible (dénoyautées idéalement)"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:170
+msgid "Mulberries"
+msgstr "Mûrier"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:174
+msgid ""
+"In Montréal, mulberries generally ripen from early July to mid-August, "
+"depending on the species, sun exposure, and weather."
+msgstr ""
+"À Montréal, les mûres du mûrier arrivent généralement à maturité entre le"
+" début juillet et la mi-août, selon l’espèce, l’exposition au soleil et "
+"les conditions météorologiques."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:176
+msgid ""
+"Unlike many other tree fruits, the harvest can extend over several weeks "
+"because fruit on the same tree does not ripen all at once. Several visits"
+" per week may be needed during this period to pick fruit at its best."
+msgstr ""
+"Contrairement à plusieurs autres fruits arboricoles, la période de "
+"récolte peut s’échelonner sur plusieurs semaines puisque les fruits d’un "
+"même arbre ne mûrissent pas tous simultanément. Plusieurs visites par "
+"semaine durant cette période sont souvent nécessaires pour récolter les "
+"fruits à leur meilleur."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:180
+msgid ""
+"Mulberries are ready to pick when they reach their mature colour and "
+"detach easily from their stems. They start to fall as soon as they are "
+"ripe."
+msgstr ""
+"Les mûres sont prêtes à être récoltées lorsqu’elles atteignent leur "
+"couleur mature et se détachent facilement de leur pédoncule. Elles "
+"commencent à tomber dès la maturité."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:182
+#: ../../docs/source/harvest-guide/how-to-harvest.md:276
+#: ../../docs/source/harvest-guide/how-to-harvest.md:352
+#: ../../docs/source/harvest-guide/how-to-harvest.md:424
+msgid "Ready to pick"
+msgstr "Prêtes à cueillir :"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:183
+msgid "Black, dark purple, or dark red fruit, depending on the variety."
+msgstr "Fruits noirs, violet foncé ou rouge foncé selon la variété"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:184
+msgid "Soft and juicy fruit."
+msgstr "Fruits souples et juteux"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:185
+msgid "Fruit that detaches easily to the touch."
+msgstr "Fruits qui se détachent facilement au toucher"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:187
+#: ../../docs/source/harvest-guide/how-to-harvest.md:282
+#: ../../docs/source/harvest-guide/how-to-harvest.md:358
+#: ../../docs/source/harvest-guide/how-to-harvest.md:429
+msgid "**Leave on the tree**"
+msgstr "**À laisser sur l’arbre :**"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:188
+msgid "Green fruit."
+msgstr "Fruits verts."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:189
+msgid "White or pink fruit (for dark-fruited varieties)."
+msgstr "Fruits blancs ou rosés (pour les variétés foncées)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:190
+msgid "Firm fruit that is difficult to detach."
+msgstr "Fruits fermes et difficiles à détacher."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:192
+msgid ""
+"Mulberries do not continue to ripen significantly after picking, so it is"
+" important to harvest them when fully ripe."
+msgstr ""
+"Les mûres ne continuent pas à mûrir de façon significative après la "
+"récolte. Il est donc important de les cueillir à pleine maturité."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:194
+#: ../../docs/source/harvest-guide/how-to-harvest.md:363
+#: ../../docs/source/harvest-guide/how-to-harvest.md:436
+#: ../../docs/source/harvest-guide/how-to-harvest.md:515
+msgid "Species-specific characteristics"
+msgstr "Particularités de l’espèce"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:196
+msgid ""
+"Mulberry trees can be especially productive and may yield very large "
+"quantities of fruit."
+msgstr ""
+"Les mûriers sont des arbres particulièrement généreux pouvant produire de"
+" très grandes quantités de fruits."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:198
+msgid ""
+"Ripe fruit falls easily to the ground, which can make for abundant but "
+"short-lived harvests. Beneath some trees, the ground can quickly become "
+"covered with fallen fruit."
+msgstr ""
+"Les fruits mûrs tombent facilement au sol, ce qui peut rendre les "
+"récoltes abondantes mais de courte durée. Sous certains arbres, le sol "
+"peut rapidement se couvrir de fruits tombés."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:200
+msgid ""
+"Mulberries naturally fall as soon as they reach full maturity. A "
+"significant proportion of the crop can therefore end up on the ground "
+"within just a few days, especially after wind or rain."
+msgstr ""
+"Les mûres tombent naturellement dès qu’elles atteignent leur pleine "
+"maturité. Une proportion importante de la récolte peut donc se retrouver "
+"au sol en quelques jours seulement, particulièrement après des épisodes "
+"de vent ou de pluie."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:202
+msgid ""
+"Birds are very fond of mulberries and may consume a large part of the "
+"crop."
+msgstr ""
+"Les mûres sont très appréciées par les oiseaux, qui peuvent consommer une"
+" part importante de la récolte."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:204
+msgid ""
+"The fruit stains hands, clothing, and surfaces heavily. Wear clothes that"
+" you do not mind staining during harvesting activities."
+msgstr ""
+"Les fruits tachent fortement les mains, les vêtements et les surfaces. Il"
+" est recommandé de porter des vêtements qui ne craignent pas les taches "
+"lors des activités de récolte."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:208
+msgid ""
+"Mulberries can be picked by hand when they are within easy reach, but "
+"this method is generally inefficient for tall trees."
+msgstr ""
+"Les mûres peuvent être récoltées à la main lorsqu’elles sont facilement "
+"accessibles, mais cette méthode est généralement peu efficace pour les "
+"arbres de grande taille."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:210
+msgid "For large trees, a commonly used method is to:"
+msgstr "Pour les grands arbres, une méthode couramment utilisée consiste à :"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:211
+msgid "Spread or hold a clean tarp beneath one main branch at a time."
+msgstr "Étendre ou tenir une bâche propre sous une charpentière à la fois."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:212
+msgid "Gently shake the branch so ripe fruit falls onto the tarp."
+msgstr ""
+"Secouer doucement la branche afin de faire tomber les fruits mûrs sur la "
+"bâche."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:213
+msgid "Move the tarp to another main branch and repeat."
+msgstr ""
+"Déplacer ensuite la bâche vers une autre charpentière et répéter "
+"l’opération."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:214
+msgid "Collect the fruit that has fallen onto the tarp."
+msgstr "Ramasser les fruits tombés sur la bâche."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:216
+msgid ""
+"This technique makes it possible to harvest large quantities efficiently "
+"while limiting handling."
+msgstr ""
+"Cette technique permet de récolter efficacement de grandes quantités de "
+"fruits tout en limitant les manipulations."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:218
+msgid "Avoid shaking branches too vigorously, so that unripe fruit does not fall."
+msgstr ""
+"Éviter de secouer excessivement les branches afin de ne pas faire tomber "
+"les fruits encore immatures."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:223
+msgid "Fully ripe fruit."
+msgstr "Fruits bien mûrs"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:224
+msgid "Fruit that is still firm despite being ripe."
+msgstr "Fruits fermes malgré leur maturité"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:225
+msgid "Clean, intact fruit."
+msgstr "Fruits propres et intacts"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:228
+msgid "Green or insufficiently ripe fruit."
+msgstr "Fruits verts ou insuffisamment mûrs"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:229
+msgid "Dried-out fruit."
+msgstr "Fruits desséchés"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:230
+msgid "Fruit showing mould."
+msgstr "Fruits présentant de la moisissure"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:231
+msgid "Crushed or fermenting fruit."
+msgstr "Fruits écrasés ou en fermentation"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:233
+msgid ""
+"When harvesting with a tarp, remove leaves, twigs, and other plant debris"
+" before storage."
+msgstr ""
+"Lorsque la récolte est réalisée à l’aide d’une bâche, retirer les "
+"feuilles, brindilles et autres débris végétaux avant l’entreposage"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:237
+msgid "Mulberries are fragile and do not keep for long after picking."
+msgstr ""
+"Les mûres du mûrier sont des fruits fragiles qui se conservent peu "
+"longtemps après la récolte."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:240
+msgid "Use shallow containers."
+msgstr "Utiliser des contenants peu profonds."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:241
+msgid ""
+"Prefer small, rigid, reused containers such as those used for "
+"strawberries, raspberries, or blueberries."
+msgstr ""
+"Privilégier de petites barquettes rigides réutilisées, comme celles "
+"utilisées pour les fraises, framboises ou bleuets."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:242
+msgid "Avoid crushing the fruit under its own weight."
+msgstr "Éviter d’écraser les fruits sous leur propre poids."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:243
+msgid "Refrigerate promptly after harvesting."
+msgstr "Réfrigérer rapidement après la récolte."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:247
+#: ../../docs/source/harvest-guide/how-to-harvest.md:475
+msgid "Containers that are too deep"
+msgstr "Les contenants trop profonds"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:248
+#: ../../docs/source/harvest-guide/how-to-harvest.md:476
+msgid "Excessive stacking of fruit"
+msgstr "Les empilements excessifs de fruits"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:251
+#: ../../docs/source/harvest-guide/how-to-harvest.md:331
+#: ../../docs/source/harvest-guide/how-to-harvest.md:555
+msgid "A few days in the refrigerator."
+msgstr "Quelques jours au réfrigérateur."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:252
+#: ../../docs/source/harvest-guide/how-to-harvest.md:332
+msgid "Freezing is possible."
+msgstr "Congélation possible."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:253
+msgid "Prompt processing is recommended for large harvests."
+msgstr "Transformation rapide recommandée pour les grandes récoltes."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:255
+msgid "Mulberries are popular, but their storage life is limited."
+msgstr ""
+"Les mûres sont très appréciées, mais leur durée de conservation est "
+"limitée."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:257
+msgid "It is recommended that you:"
+msgstr "Il est recommandé de :"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:258
+msgid "Distribute them quickly after harvesting."
+msgstr "Distribuer rapidement après la récolte."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:259
+msgid "Avoid excessive handling."
+msgstr "Éviter les manipulations excessives."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:260
+msgid ""
+"Tell recipients that the fruit should be eaten or processed quickly. "
+"Mulberries are particularly well suited to community kitchens, community "
+"fridges, and food-processing initiatives."
+msgstr ""
+"Informer les bénéficiaires de la nécessité de consommer ou de transformer"
+" les fruits rapidement. Ou bien les congeler pour utilisation plus tard. "
+"Les mûres sont donc particulièrement bien adaptées aux cuisines "
+"collectives, aux frigos communautaires et aux initiatives de "
+"transformation alimentaire."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:262
+msgid ""
+"Large harvests are especially suitable for group processing (jams, "
+"jellies, and freezing)."
+msgstr ""
+"Les récoltes abondantes se prêtent particulièrement bien à la "
+"transformation collective (confitures, gelées, congélation)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:264
+msgid "Plums"
+msgstr "Prunes"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:268
+msgid ""
+"In Montréal, the plum season is long, generally running from mid-July "
+"(e.g., ‘Early Golden’) to late October (e.g., ‘Mont-Royal’). However, "
+"most plum trees are ready for harvest in August."
+msgstr ""
+"À Montréal, la saison des prunes est longue : elle s’étend généralement "
+"de la mi-juillet (ex. : ‘Early Golden’) à la fin octobre (ex. : ‘Mont-"
+"Royal’). Toutefois, la majorité des pruniers sont prêts en août."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:270
+msgid ""
+"Ripening progresses differently depending on the cultivar and site. Some "
+"trees may therefore be ready for harvest over several weeks, with "
+"different peak periods for different varieties."
+msgstr ""
+"La maturation est progressive selon les cultivars et les sites. Il peut "
+"donc y avoir des arbres en pleine récolte pendant plusieurs semaines, "
+"avec des pics différents selon les variétés."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:274
+msgid ""
+"Plums should be picked when fully ripe; they do not ripen significantly "
+"after picking."
+msgstr ""
+"Les prunes doivent être récoltées à pleine maturité ; elles ne mûrissent "
+"pas significativement après la cueillette."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:277
+msgid "The colour typical of the cultivar (yellow, red, purple, or dark blue)"
+msgstr "Couleur typique du cultivar (jaune, rouge, violet, bleu foncé)"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:278
+msgid "Fruit that is slightly soft to the touch"
+msgstr "Fruit légèrement souple au toucher"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:279
+msgid "Fruit that detaches easily from the branch (for some cultivars)"
+msgstr "Détachement facile de la branche (certains cultivars)"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:280
+msgid ""
+"A developed sweet flavour, or a balanced sweet-acid flavour depending on "
+"the variety"
+msgstr "Saveur sucrée développée (ou équilibrée acide/sucré selon variété)"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:283
+msgid "Green or very firm fruit"
+msgstr "Fruits verts ou très fermes"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:284
+msgid "Fruit that is still acidic and not very colourful"
+msgstr "Fruits encore acides et peu colorés"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:286
+msgid ""
+"Overripe fruit softens quickly, and the risk of spotted-wing drosophila "
+"(fruit flies) increases. This can lead to internal deterioration and the "
+"presence of larvae."
+msgstr ""
+"La surmaturité augmente rapidement le ramollissement et le risque de "
+"drosophiles (mouches des fruits), pouvant entraîner dégradation interne "
+"et présence de larves."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:290
+msgid ""
+"Plums can be picked in the same way as apples. A ripe plum detaches "
+"easily."
+msgstr ""
+"Les prunes peuvent être cueillies de la même manière que les pommes. Une "
+"prune mûre se détache facilement."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:292
+msgid "By hand: Gently turn the plum upward. Do not pull the fruit downward."
+msgstr ""
+"À la main : Tournez la prune délicatement vers le haut. Ne tirez pas le "
+"fruit vers le bas."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:294
+msgid ""
+"With a fruit picker: Position the metal part around the plum, lift "
+"gently, and twist. Do not pull the fruit downward."
+msgstr ""
+"Avec un cueille-fruits : Positionnez la partie métallique autour de la "
+"prune, soulevez doucement et tournez. Ne tirez pas le fruit vers le bas."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:296
+msgid "Twist the fruit slightly to detach it without damaging the stem or branch."
+msgstr ""
+"Tourner légèrement le fruit pour le détacher sans abîmer le pédoncule ou "
+"la branche."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:297
+msgid "Avoid pulling on fragile twigs."
+msgstr "Éviter de tirer sur les rameaux fragiles."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:298
+msgid "Prioritize ripe fruit only; several passes may be needed."
+msgstr "Prioriser les fruits mûrs uniquement (plusieurs passages nécessaires)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:300
+msgid "For larger trees:"
+msgstr "Pour certains arbres plus grands :"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:301
+msgid ""
+"Use a safe step ladder or suitable tools, such as telescopic picking "
+"poles, if available."
+msgstr ""
+"Utiliser un escabeau sécuritaire ou des outils adaptés si disponibles "
+"(perches télescopiques)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:302
+msgid ""
+"Very gently shake branches to drop ripe fruit onto a tarp suspended "
+"beneath the branch."
+msgstr ""
+"Secouage très doux des branches pour faire tomber des fruits mûrs dans "
+"une bâche suspendue sous la branche."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:307
+msgid "Fully ripe fruit"
+msgstr "Fruits bien mûrs"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:308
+msgid "Fruit that is firm but slightly yielding"
+msgstr "Fruits fermes mais souples"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:309
+msgid "Intact fruit without cracks"
+msgstr "Fruits intacts sans fissures"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:312
+msgid "Green or unripe fruit"
+msgstr "Fruits verts ou immatures"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:314
+msgid "Soft or fermented fruit"
+msgstr "Fruits mous ou fermentés"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:315
+msgid "Fruit with visible mould or larvae"
+msgstr "Fruits présentant moisissures ou larves visibles"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:319
+msgid "Plums are moderately fragile but become sensitive to crushing once ripe."
+msgstr ""
+"Les prunes sont modérément fragiles mais sensibles à l’écrasement une "
+"fois mûres."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:323
+msgid "Avoid piling; store in limited layers"
+msgstr "Éviter d’empiler les fruits et les entreposer en couches limitées"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:324
+#: ../../docs/source/harvest-guide/how-to-harvest.md:404
+#: ../../docs/source/harvest-guide/how-to-harvest.md:552
+msgid "Prompt refrigeration"
+msgstr "Réfrigération rapide"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:328
+msgid "High stacks of fruit"
+msgstr "Empilement élevé"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:333
+msgid "Prompt processing is recommended for surplus fruit."
+msgstr "Transformation rapide recommandée pour surplus."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:336
+msgid "Plums are popular but have a relatively short storage life."
+msgstr "Fruits appréciés mais à durée de vie relativement courte."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:337
+msgid "Distribute them quickly while they are fresh."
+msgstr "Distribution rapide recommandée pendant qu’elles sont fraîches."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:338
+msgid "They are well suited to group processing during peak production."
+msgstr "Très adaptés à la transformation collective lors des pics de production."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:339
+msgid "They are sensitive to excessive handling."
+msgstr "Sensibles à la manipulation excessive."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:340
+msgid "Plums do not ripen after picking."
+msgstr "Elles ne mûrissent pas après la cueillette."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:342
+msgid "Pears"
+msgstr "Poires"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:346
+msgid ""
+"In Montréal, pears are generally harvested from late August to October, "
+"depending on the cultivar. Many varieties grow in urban areas. Maturity "
+"varies considerably between trees and extends over several weeks."
+msgstr ""
+"À Montréal, les poires sont généralement récoltées de la mi-août à la mi-"
+"octobre, selon les cultivars. Il existe beaucoup de variétés en milieu "
+"urbain. La maturité varie fortement selon les arbres et s’étale sur "
+"plusieurs semaines."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:350
+msgid ""
+"Pears should ideally be harvested **before they are fully ripe**, as they"
+" ripen after harvest."
+msgstr ""
+"⚠️ Les poires se récoltent idéalement **avant maturité complète** "
+"(maturation en post-récolte)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:353
+msgid "The fruit is firm but detaches easily when lifted slightly."
+msgstr "Fruit ferme mais qui se détache facilement quand légèrement soulevé."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:354
+msgid ""
+"The background colour is beginning to turn yellow or change (depending on"
+" the cultivar)."
+msgstr "Couleur de base qui commence à jaunir ou virer (selon cultivar)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:355
+msgid "The flesh is still firm, not soft on the tree."
+msgstr "Grain encore ferme (pas mou sur l’arbre)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:356
+msgid "The fruit has reached its full size."
+msgstr "Calibre maximum atteint."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:359
+msgid "Fruit that is very hard and green and has not yet reached its full size."
+msgstr "Fruits très durs et verts et pas encore ayant atteint leur plein gabarit."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:361
+msgid ""
+"Key field test: Lift the fruit slightly. If it detaches without force, it"
+" is ready."
+msgstr ""
+"Test terrain clé : soulever légèrement le fruit → s’il se détache sans "
+"forcer, il est prêt."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:364
+msgid ""
+"There is considerable variation between cultivars in texture, sweetness, "
+"and maturity."
+msgstr "Très forte variabilité entre cultivars (texture, douceur, maturité)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:365
+msgid "Many urban pear trees are older or unidentified varieties."
+msgstr "Beaucoup de poiriers urbains sont semi-anciens ou non identifiés."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:366
+msgid ""
+"Fruit does not ripen properly on the tree, so harvesting at the right "
+"time is important."
+msgstr ""
+"Les fruits ne mûrissent pas correctement sur l’arbre → importance du bon "
+"timing de récolte."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:367
+msgid "Some varieties are very prone to dropping prematurely."
+msgstr "Certaines variétés sont très sensibles à la chute prématurée."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:368
+msgid ""
+"Production is often abundant but concentrated in a short window for each "
+"tree."
+msgstr ""
+"Production souvent abondante mais concentrée sur une courte fenêtre par "
+"arbre."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:369
+msgid "Pear trees often show biennial bearing."
+msgstr "Les poiriers ont souvent une production bisannuelle."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:373
+msgid ""
+"Pears can be picked in the same way as apples (see the section above), "
+"but remember that they should be harvested before they are fully ripe. "
+"This can sometimes make picking a little more difficult. Take extra care "
+"not to pull the fruit, so you do not damage the spur."
+msgstr ""
+"Les poires peuvent être cueillies comme des pommes (voir la section ci-"
+"dessus) mais souvenez- vous qu’elles doivent être cueillies avant d’être "
+"complètement mûres, alors parfois les cueillir peut s’avérer un peu plus "
+"difficile. Pendant que vous cueillez les poires, redoublez d’attention à "
+"ne pas tirer le fruit afin de ne pas endommager la branche!"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:376
+msgid "Lift and twist slightly to detach the fruit; do not pull."
+msgstr "Soulever et tourner légèrement pour détacher le fruit (ne pas tirer)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:377
+msgid "Avoid impacts, as pears are very susceptible to bruising."
+msgstr "Éviter les chocs (poire = très sensible aux bleus)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:378
+msgid "Prioritize accessible fruit and make several passes."
+msgstr "Prioriser les fruits accessibles en plusieurs passages."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:380
+msgid "For taller trees:"
+msgstr "Pour les arbres plus hauts :"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:381
+msgid "Use a safe step ladder or telescopic picking poles."
+msgstr "Utiliser un escabeau sécuritaire ou des perches télescopiques."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:382
+msgid ""
+"Shaking branches is not recommended because it can cause fruit to fall, "
+"injure people, and damage the tree. Only do this if it is the only "
+"practical way to harvest the fruit and you have a safe way to catch the "
+"falling fruit in a tarp. In that case, the fruit is more likely to be "
+"damaged and may be better suited to processing."
+msgstr ""
+"Le secouage des branches n’est pas recommandé (chute + blessures + "
+"dégâts) sauf s’il est la seule moyenne de cueillir les fruits et que vous"
+" avez une manière sécuritaire d’attraper les fruits tombants dans une "
+"bâche. Dans ce cas la les fruits risquent plus de s'abimer et d'être "
+"plutôt destinées à la transformation"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:387
+msgid "Firm, intact fruit"
+msgstr "Fruits fermes et intacts"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:388
+msgid "Fruit without bruises or punctures"
+msgstr "Fruits sans chocs ni perforations"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:389
+msgid "Clean fruit with intact skin"
+msgstr "Fruits propres, peau intacte"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:392
+msgid "Fruit that is soft on the tree (too far advanced)"
+msgstr "Fruits mous sur l’arbre (trop avancés)"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:393
+msgid "Fallen and damaged fruit"
+msgstr "Fruits tombés et abîmés"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:394
+msgid "Fruit with bruises, punctures, or mould"
+msgstr "Fruits avec coups, perforations ou moisissure"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:395
+msgid "Very green, unripe fruit"
+msgstr "Fruits très verts non mûrs"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:398
+msgid "Pears are **very sensitive to impacts**, even when they seem firm."
+msgstr ""
+"Les poires sont **très sensibles aux chocs**, même si elles semblent "
+"fermes."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:401
+msgid ""
+"Shallow, rigid containers. Bags may be acceptable if the fruit is handled"
+" gently"
+msgstr ""
+"Contenants rigides peu profonds, mais des sacs pourraient être "
+"acceptables si manipulé doucement"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:402
+msgid "Ideally, a single layer"
+msgstr "Une seule couche idéalement"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:403
+#: ../../docs/source/harvest-guide/how-to-harvest.md:551
+msgid "Minimal handling"
+msgstr "Manipulation minimale"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:406
+msgid "**Important characteristic:**"
+msgstr "**Particularité importante :**"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:408
+msgid ""
+"Pears ripen after harvest (over a few days at room temperature or under "
+"controlled conditions). Their texture deteriorates quickly if they ripen "
+"on the tree."
+msgstr ""
+"Les poires mûrissent après la récolte (en quelques jours à température "
+"ambiante ou contrôlée). Leur texture se dégrade rapidement si elles "
+"mûrissent sur l’arbre."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:411
+msgid ""
+"Pears are often harvested while firm, so recipients may need an "
+"explanation."
+msgstr ""
+"Récolte souvent faite à un stade ferme → nécessite parfois explication de"
+" mûrissement auprès des bénéficiaires."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:412
+msgid "They can keep very well if harvested correctly."
+msgstr "Très bonne conservation si récoltées correctement."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:413
+msgid "They are ideal for gradual distribution because ripening can be staggered."
+msgstr "Idéales pour distribution progressive (maturation échelonnée)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:414
+msgid ""
+"Take care during transport: damage from impacts may not be visible at "
+"first but can lead to rapid deterioration."
+msgstr "Attention aux chocs en transport (dégradation rapide invisible au début)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:416
+msgid "Saskatoon berries (serviceberries)"
+msgstr "Amélanches"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:419
+msgid ""
+"Saskatoon berries are generally the first tree fruits to ripen during the"
+" summer in Montréal. Harvest usually takes place between late June and "
+"early July."
+msgstr ""
+"Les amélanches sont généralement les premiers fruits arboricoles à "
+"arriver à maturité dans la saison estivale à Montréal. La récolte a "
+"habituellement lieu entre la fin juin et le début juillet."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:421
+msgid ""
+"The optimal harvest window is often short and may vary with the weather. "
+"During hot, dry periods, fruit can ripen very quickly and may even begin "
+"to dry out on the tree if harvesting is delayed."
+msgstr ""
+"La fenêtre optimale de récolte est souvent courte et peut varier selon "
+"les conditions météorologiques. Lors des périodes chaudes et sèches, les "
+"fruits peuvent mûrir très rapidement et même commencer à se dessécher sur"
+" l’arbre si la récolte tarde."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:425
+msgid "Purple or dark violet fruit"
+msgstr "Fruits mauves ou violet foncé"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:426
+msgid "Fruit that is slightly soft"
+msgstr "Fruits légèrement tendres"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:427
+msgid "Sweet, fragrant flavour"
+msgstr "Saveur sucrée et parfumée"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:431
+msgid "Red or pink fruit"
+msgstr "Fruits rouges ou rosés"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:432
+msgid "Firm fruit that is not very sweet"
+msgstr "Fruits fermes et peu sucrés"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:434
+msgid ""
+"Since not all fruit on the same tree necessarily ripens at the same time,"
+" it can be helpful to make several passes during the harvest period."
+msgstr ""
+"Puisque tous les fruits d’un même arbre ne mûrissent pas nécessairement "
+"en même temps, il peut être avantageux d’effectuer plusieurs passages "
+"durant la période de récolte."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:437
+msgid ""
+"Several species and varieties of serviceberry grow in Montréal. They "
+"generally grow as small trees, shrubs, or suckering trees (sometimes "
+"trained to have a single trunk). Fruit size, flavour, texture, and "
+"productivity can vary from one tree to another."
+msgstr ""
+"Il existe plusieurs espèces et variétés d’amélanchiers à Montréal. Ils "
+"poussent généralement en forme d'arbrisseaux, arbustes, ou arbre "
+"drageonnant (parfois dressé pour avoir qu’un seul tronc). Les fruits "
+"peuvent varier en taille, en saveur, en texture et en productivité selon "
+"les arbres."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:439
+msgid ""
+"Birds are particularly fond of serviceberries and can consume a large "
+"part of the crop within just a few days. Regularly monitoring trees as "
+"the fruit approaches maturity is therefore recommended."
+msgstr ""
+"Les amélanches sont particulièrement appréciées par les oiseaux, qui "
+"peuvent consommer une grande partie de la récolte en quelques jours "
+"seulement. Une surveillance régulière des arbres est donc recommandée à "
+"l’approche de la maturité."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:441
+msgid "These small fruits are delicate and have a short storage life after picking."
+msgstr ""
+"Ces petits fruits sont délicats et ont une courte durée de conservation "
+"après la récolte."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:444
+msgid "Pick serviceberries gently by hand to avoid crushing them."
+msgstr ""
+"Cueillir les amélanches délicatement à la main afin d’éviter de les "
+"écraser."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:445
+msgid "Harvest only ripe fruit."
+msgstr "Récolter uniquement les fruits mûrs."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:446
+msgid "Handle fruit carefully to preserve its quality."
+msgstr "Manipuler les fruits avec soin pour préserver leur qualité."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:447
+msgid "Avoid pulling excessively on branches."
+msgstr "Éviter de tirer excessivement sur les branches."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:448
+msgid ""
+"When possible, make several successive harvests rather than one early "
+"harvest."
+msgstr ""
+"Lorsque possible, effectuer plusieurs récoltes successives plutôt qu’une "
+"seule récolte hâtive."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:450
+msgid ""
+"Serviceberries are an important food source for many urban bird and "
+"small-mammal species. When quantities allow, it is recommended to leave "
+"some of the harvest for wildlife."
+msgstr ""
+"Les amélanches constituent une source de nourriture importante pour "
+"plusieurs espèces d’oiseaux et de petits mammifères urbains. Il est "
+"recommandé de laisser une partie de la récolte à la faune lorsque les "
+"quantités le permettent."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:453
+msgid ""
+"There is generally little need for sorting when fruit is picked directly "
+"from the tree."
+msgstr ""
+"Le besoin de tri est généralement faible lorsque les fruits sont cueillis"
+" directement sur l’arbre."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:456
+msgid "Ripe, clean, well-formed fruit"
+msgstr "Fruits mûrs, propres et bien formés"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:459
+msgid "Dried-out fruit"
+msgstr "Fruits desséchés"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:460
+msgid "Damaged or crushed fruit"
+msgstr "Fruits abîmés ou écrasés"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:461
+msgid "Fruit showing signs of mould"
+msgstr "Fruits présentant des signes de moisissure"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:462
+msgid "Fruit with significant abnormalities"
+msgstr "Fruits présentant des anomalies importantes"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:464
+msgid "It is preferable to leave inedible fruit on the tree rather than pick it."
+msgstr ""
+"Il est préférable de laisser les fruits non comestibles directement sur "
+"l’arbre plutôt que de les récolter."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:467
+msgid "Serviceberries are easily crushed and must be transported carefully."
+msgstr ""
+"Les amélanches s’écrasent facilement et doivent être transportées avec "
+"précaution."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:469
+msgid "Recommended containers"
+msgstr "Contenants recommandés :"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:470
+msgid "Small, shallow, rigid containers"
+msgstr "Petites barquettes rigides peu profondes"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:471
+msgid "Reused containers for strawberries, raspberries, or blueberries"
+msgstr "Contenants réutilisés pour les fraises, framboises ou bleuets"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:478
+msgid "After harvesting:"
+msgstr "Après la récolte :"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:479
+msgid "Keep fruit in the shade as much as possible."
+msgstr "Garder les fruits à l’ombre autant que possible."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:480
+msgid "Refrigerate promptly."
+msgstr "Réfrigérer rapidement."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:481
+msgid "Eat or distribute within the following few days."
+msgstr "Consommer ou distribuer dans les jours suivants."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:482
+msgid "Fruit can also be frozen for later use."
+msgstr ""
+"Les fruits peuvent également être congelés pour une utilisation "
+"ultérieure."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:485
+msgid ""
+"Because they are fragile and have a short storage life, serviceberries "
+"should ideally be redistributed soon after harvesting."
+msgstr ""
+"En raison de leur fragilité et de leur courte durée de conservation, les "
+"amélanches devraient idéalement être redistribuées rapidement après la "
+"récolte."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:487
+msgid ""
+"Pay particular attention to packaging and transport to avoid crushing the"
+" fruit."
+msgstr ""
+"Une attention particulière doit être portée au conditionnement et au "
+"transport afin d’éviter l’écrasement des fruits."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:489
+msgid "When possible, aim to distribute them within 24–48 hours of picking."
+msgstr ""
+"Lorsque possible, privilégier une distribution dans les 24 à 48 heures "
+"suivant la cueillette."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:492
+msgid "Grapes"
+msgstr "Raisins"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:495
+msgid ""
+"In Montréal, grapes generally ripen between late August and October, "
+"depending on the cultivar and exposure."
+msgstr ""
+"À Montréal, les raisins arrivent généralement à maturité entre la fin "
+"août et octobre, selon les cultivars et l’exposition."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:497
+msgid ""
+"The most common varieties in urban areas are hardy hybrids (often derived"
+" from Vitis labrusca), which are more cold-resistant than classic Vitis "
+"vinifera grape varieties. Riverbank grape (Vitis riparia) is a wild, "
+"native species in Québec, but its small fruits are generally more "
+"appealing to wildlife than to people."
+msgstr ""
+"Les variétés les plus fréquentes en milieu urbain sont des hybrides "
+"rustiques (souvent issus de Vitis labrusca), plus résistants au froid que"
+" les cépages classiques de Vitis vinifera. La vigne des rivages(Vitis "
+"riparia) est une espèce indigene et sauvage au Québec, mais dont les "
+"petits fruits sont davantage appréciés par la faune que par les humains."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:499
+msgid "Ripening progresses over time and can vary on the same vine."
+msgstr "La maturation est progressive et peut varier sur un même plant."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:502
+msgid ""
+"Grapes should be harvested when fully ripe, as they do not continue to "
+"ripen after picking."
+msgstr ""
+"Les raisins doivent être récoltés à pleine maturité, car ils ne "
+"continuent pas à mûrir après la cueillette."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:504
+msgid "Ready to pick:"
+msgstr "Prêtes à cueillir :"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:505
+msgid ""
+"Uniform colour according to the cultivar (golden green, red, or dark "
+"purple)"
+msgstr "Couleur uniforme selon le cultivar (vert doré, rouge, violet foncé)"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:506
+msgid "Berries that are yielding but still firm"
+msgstr "Baies souples mais encore fermes"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:507
+msgid "A well-developed sweet flavour, with less acidity"
+msgstr "Goût sucré bien développé (moins acide)"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:508
+msgid "Grapes that detach easily from the cluster stem"
+msgstr "Raisins qui se détachent facilement de la rafle"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:510
+msgid "Leave on the vine:"
+msgstr "À laisser sur la vigne :"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:511
+msgid "Green or acidic berries"
+msgstr "Baies vertes ou acides"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:512
+msgid "Very firm, small fruit"
+msgstr "Fruits très fermes et petits"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:513
+msgid "Clusters with uneven colour (incomplete ripening)"
+msgstr "Grappes encore hétérogènes (maturation incomplète)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:516
+msgid "Ripening is often uneven within a single cluster."
+msgstr "Maturation souvent inégale dans une même grappe."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:517
+msgid ""
+"There is considerable variation between cultivars in acidity, size, and "
+"skin thickness."
+msgstr "Forte variabilité entre cultivars (acidité, taille, peau épaisse ou fine)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:518
+msgid ""
+"Some urban vines produce very large crops, but production varies from "
+"year to year."
+msgstr ""
+"Certaines vignes urbaines produisent énormément mais de façon irrégulière"
+" selon les années."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:519
+msgid "Birds may consume a large part of the crop once the grapes ripen."
+msgstr ""
+"Les oiseaux peuvent consommer une grande partie de la récolte une fois la"
+" maturité atteinte."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:520
+msgid "Clusters can dry out or deteriorate quickly at the end of the season."
+msgstr "Les grappes peuvent sécher ou se dégrader rapidement en fin de saison."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:523
+msgid "By hand: Cut clusters using clean pruning shears or scissors."
+msgstr "À la main : Coupez les grappes à l’aide d’un sécateur ou de ciseaux."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:524
+msgid "Cut the entire cluster with clean scissors or pruning shears."
+msgstr "Couper la grappe entière avec des ciseaux ou sécateur propre."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:525
+msgid "Handle gently to avoid crushing the berries."
+msgstr "Manipuler délicatement pour éviter d’écraser les baies."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:526
+msgid "Do not pull on clusters, as this can damage the vine."
+msgstr "Éviter de tirer sur les grappes (risque d’endommager le plant)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:527
+msgid ""
+"Prioritize fully ripe clusters and avoid mixing fruit at very different "
+"stages of maturity."
+msgstr ""
+"Prioriser les grappes entièrement mûres (éviter de mélanger trop de "
+"stades)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:529
+msgid "For tall vines:"
+msgstr "Pour les vignes hautes :"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:530
+msgid "Use a secure step ladder."
+msgstr "Utiliser escabeau sécurisé."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:531
+msgid "Do not pull on the branches, which are fragile and flexible."
+msgstr "Ne pas tirer les branches (fragiles et flexibles)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:535
+msgid "Healthy, intact clusters"
+msgstr "Grappes saines et complètes"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:536
+msgid "Firm berries without cracks"
+msgstr "Baies fermes, sans fissures"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:537
+msgid "Well-coloured, sweet grapes"
+msgstr "Raisins bien colorés et sucrés"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:540
+msgid "Soft or split berries"
+msgstr "Baies molles ou éclatées"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:541
+msgid "Clusters with visible mould (advanced Botrytis)"
+msgstr "Grappes avec moisissure visible (Botrytis avancé)"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:542
+msgid "Fermented or badly damaged fruit"
+msgstr "Fruits fermentés ou très abîmés"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:543
+msgid "Partially dried-out or deteriorated clusters"
+msgstr "Grappes partiellement sèches ou dégradées"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:546
+msgid "Grapes are susceptible to crushing and rapid fermentation."
+msgstr "Les raisins sont sensibles à l’écrasement et à la fermentation rapide."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:549
+msgid "Small, rigid containers"
+msgstr "Petits contenants rigides"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:550
+msgid "Avoid thick layers"
+msgstr "Éviter les couches épaisses"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:556
+msgid "Prompt consumption is recommended after harvesting."
+msgstr "Consommation rapide recommandée après récolte."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:557
+msgid "Freezing is possible for culinary use."
+msgstr "Congélation possible (usage culinaire)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:559
+msgid "Storage"
+msgstr "Entreposage"
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:561
+msgid ""
+"At Santropol Roulant, all fruits except apples can be put in the walk-in "
+"fridge in the basement of the building (a.k.a. cold room, cold storage). "
+"Apples can be put on the Fruits Défendus shelf unless they are in danger "
+"of rotting. Please don't place containers on the floor of the walk-in "
+"fridge."
+msgstr ""
+"Au Santropol Roulant, tous les fruits sauf les pommes peuvent être mis "
+"dans le réfrigérateur dans le sous-sol. Les pommes peuvent être mises "
+"dans l’étagère des Fruits Défendus sauf si elles sont en danger de "
+"pourrir. Svp, ne déposez pas les conteneurs sur le sol du réfrigérateur."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:563
+msgid ""
+"\"Soft\" fruits (cherries, Saskatoon berries, plums, grapes) should be "
+"stored in a way where they do not get crushed under their own weight. "
+"Therefore, use small bags and try not to pile the bags on top of each "
+"other. If you can, we recommend using recyclable plastic produce "
+"containers (rigid packaging used for selling mixed greens, cherry "
+"tomatoes, strawberries, etc.) to transport and store soft fruit. Wooden "
+"boxes used to sell clementines can also be used for this."
+msgstr ""
+"Les fruits « mous » (cerises, amélanches, prunes et raisins) doivent être"
+" entreposés à un endroit où ils ne sont pas écrasés par d’autres fruits "
+"plus lourds. Vous pouvez utiliser de petits sacs en essayant de ne pas "
+"remplir le sac en entier et de ne pas les entasser les uns sur les "
+"autres. Nous vous recommandons d’utiliser des contenants réutilisables en"
+" plastique (comme des emballages utilisés pour contenir divers légumes, "
+"barquettes de fraises, tomates, etc.) pour transporter et entreposer les "
+"fruits mous. Des cartons en bois utilisés habituellement pour les "
+"clémentines peuvent également être utilisés."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:565
+msgid ""
+"Pears must be stored in a space where the temperature is close to 0 ° C; "
+"otherwise they will continue to ripen. Pears stored at room temperature "
+"will mature quickly and must be eaten a few days after picking. If unripe"
+" pears are stored in the cold, they can be stacked without a problem. "
+"However, if they are kept at room temperature, they should not be packed "
+"too tightly."
 msgstr ""
 "Il convient d’entreposer les poires dans un espace dont la température "
-"avoisine les 0°C, sinon elles continueront à mûrir. Les poires entreposées à "
-"la température ambiante mûriront assez vite et pourront être mangées quelques "
-"jours après la cueillette. Si vous entreposez les poires non-mûres au froid, "
-"vous pouvez les mettre l’une par-dessus l’autre sans problème, par contre, si "
-"elles sont à la température de la salle, il ne faut pas qu’elles soient trop "
-"compactées."
+"avoisine les 0°C, sinon elles continueront à mûrir. Les poires "
+"entreposées à la température ambiante mûriront assez vite et pourront "
+"être mangées quelques jours après la cueillette. Si vous entreposez les "
+"poires non-mûres au froid, vous pouvez les mettre l’une par-dessus "
+"l’autre sans problème, par contre, si elles sont à la température de la "
+"salle, il ne faut pas qu’elles soient trop compactées."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:567
+msgid "In summary:"
+msgstr "En résumé : "
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:568
+msgid ""
+"Always sterilize harvesting tools (picking poles, bins, etc.) between "
+"harvests to avoid spreading tree diseases from one tree to another."
+msgstr ""
+"Toujours stériliser les outils de cueillette (perches, bacs, etc.) entre "
+"les cueillettes pour ne pas propager les maladies d’un arbre à l’autre."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:569
+msgid ""
+"Make sure you always choose a beneficiary organisation to which you can "
+"donate the fruit, depending on its quality and quantity. It is best if "
+"their activities are well suited to the type of fruit you are donating "
+"(for example, processing organisations for soft fruit or small "
+"quantities, or emergency aid organisations for beautiful, perfect fruit)."
+msgstr ""
+"Assurez-vous de toujours choisir un organisme bénéficiaire auquel donner "
+"les fruits, selon leur qualité et leur quantité. Il est bien que leurs "
+"activités soient bien adaptées au type de fruits que vous donnez (par "
+"exemple, organismes de transformation pour des petits fruits ou petites "
+"quantités, ou bien organismes de dépannage pour des beaux fruits "
+"parfaits)."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:570
+msgid "Please follow the picking guidelines set out in this guide."
+msgstr "Respectez les consignes de cueillette décrites dans ce guide."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:571
+msgid ""
+"Never attempt to pick fruit from high branches, dangerous branches or "
+"branches near power lines; the safety of the pickers must always be the "
+"top priority. Even if the owner asks you to pick all the fruit from their"
+" tree, you must explain to them that we only pick fruit that can be "
+"reached safely."
+msgstr ""
+"Ne tentez jamais de cueillir des fruits disposés dans des branches "
+"hautes, dangereuses ou près des fils électriques, il faut toujours "
+"prioriser la sécurité des cueilleurs avant tout. Même si le ou la "
+"propriétaire vous demande de tout cueillir les fruits de son arbre, il "
+"est nécessaire que vous l’expliquez qu’on ne cueille que les fruits "
+"accessibles en toute sécurité."
+
+#: ../../docs/source/harvest-guide/how-to-harvest.md:572
+msgid "Please give your fruit as soon as possible directly to the recipient."
+msgstr "Donnez vos fruits le plus rapidement possible directement au bénéficiaire."
